@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 26
-Video Position: 3278
+Scroll Position: 51
+Active Line: 54
+Video Position: 6815
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,9 +34,9 @@ Dialogue: 0,0:00:01.00,0:00:07.07,Default,,0,0,0,,Аниме будущего
 Dialogue: 0,0:00:03.87,0:00:07.00,Default - Top,,0,0,0,,{\i1}2-ое марта 2013 года{\i0}
 Dialogue: 0,0:00:08.04,0:00:12.78,Default,,0,0,0,,{\i1}Сегодня будут показаны 4 коротких анимационных фильма,{\i0}
 Dialogue: 0,0:00:12.91,0:00:17.28,Default,,0,0,0,,{\i1}созданные по инициативе Министерства Культуры\Nдля поддержки молодых аниматоров.{\i0}
-Dialogue: 0,0:00:17.28,0:00:24.15,Default,,0,0,0,,{\i1}Один из фильмов привлек внимание многих фанатов -\Nэто Академия Маленьких Ведьм от студии TRIGGER.{\i0}
+Dialogue: 0,0:00:17.28,0:00:24.15,Default,,0,0,0,,{\i1}Один из фильмов привлек внимание многих фанатов -\Nэто Академия Ведьмочек от студии TRIGGER.{\i0}
 Dialogue: 0,0:00:25.02,0:00:29.73,Default,,0,0,0,,{\i1}Огромное количество людей пришло на примьеру.{\i0}
-Dialogue: 0,0:00:29.73,0:00:38.03,Default,,0,0,0,,Далее на сцене режиссер "Академии Маленьких Ведьм" от студии TRIGGER -\NYoh Yoshinari и актриса озвучивания Megumi Han (голос Akko).
+Dialogue: 0,0:00:29.73,0:00:38.03,Default,,0,0,0,,Далее на сцене режиссер "Академии Ведьмочек" от студии TRIGGER -\NYoh Yoshinari и актриса озвучивания Megumi Han (голос Akko).
 Dialogue: 0,0:00:38.03,0:00:50.61,Default,,0,0,0,,{\i1\pos(793,1029)}Академия Маленьких Ведьм\Nрежиссер Yoh Yoshinari{\i0}
 Dialogue: 0,0:00:38.80,0:00:41.78,Default,,0,0,0,,{\pos(960,830)}Режиссер фильма Yoh Yoshinari -
 Dialogue: 0,0:00:41.96,0:00:45.24,Default,,0,0,0,,{\pos(960,830)}харизматичный аниматор, с фанатами по всему миру,
@@ -54,53 +54,53 @@ Dialogue: 0,0:01:21.14,0:01:23.71,Default,,0,0,0,,that in itself got everyone to
 Dialogue: 0,0:01:24.61,0:01:32.52,Default,,0,0,0,,Even if they weren't really amateurs,\Nthey were still inexperienced,
 Dialogue: 0,0:01:32.52,0:01:36.16,Default,,0,0,0,,so their material wasn't all that usable at first.
 Dialogue: 0,0:01:36.16,0:01:38.66,Default,,0,0,0,,I had to give them plenty of guidance.
-Dialogue: 0,0:01:40.40,0:01:43.63,Default,,0,0,0,,{\i1}The famous Yoh Yoshinari, training newcomers?{\i0}
-Dialogue: 0,0:01:44.57,0:01:48.47,Default,,0,0,0,,{\i1}Many in the animation industry reacted with surprise.{\i0}
+Dialogue: 0,0:01:40.40,0:01:43.63,Default,,0,0,0,,{\i1}Знаменитый Yoh Yoshinari обучает новичков?{\i0}
+Dialogue: 0,0:01:44.57,0:01:48.47,Default,,0,0,0,,{\i1}Многие в анимационной индустрии отреагировали с удивлением.{\i0}
 Dialogue: 0,0:01:49.37,0:01:55.18,Default,,0,0,0,,{\i1}Из восьми аниматоров студии пятеро являются молодыми специалистами с небольшим опытом ключевой анимации.{\i0}
-Dialogue: 0,0:01:55.71,0:02:01.12,Default,,0,0,0,,{\i1}This was also their first time\Nworking on theatrical animation.{\i0}
-Dialogue: 0,0:02:02.38,0:02:08.92,Default,,0,0,0,,{\i1}And so, behind the scenes of Little{\i0} Witch\N{\i1}Academia, was yet another "academy".{\i0}
-Dialogue: 0,0:02:08.92,0:02:11.03,Default,,0,0,0,,It's different.
-Dialogue: 0,0:02:11.03,0:02:13.20,Default,,0,0,0,,Completely different.
-Dialogue: 0,0:02:13.90,0:02:15.83,Default,,0,0,0,,All I can say is I feel bad.
+Dialogue: 0,0:01:55.71,0:02:01.12,Default,,0,0,0,,{\i1}Кроме того это был их первый опыт работы над полнометражной анимацией.{\i0}
+Dialogue: 0,0:02:02.38,0:02:08.92,Default,,0,0,0,,{\i1}Таким образом за кулисами "Академии Ведьмочек" была другая "академия".{\i0}
+Dialogue: 0,0:02:08.92,0:02:11.03,Default,,0,0,0,,Здесь все по-другому.
+Dialogue: 0,0:02:11.03,0:02:13.20,Default,,0,0,0,,Совершенно иначе.
+Dialogue: 0,0:02:13.90,0:02:15.83,Default,,0,0,0,,Все что я могу сказать - это то, что мне плохо.
 Dialogue: 0,0:02:15.83,0:02:17.93,Default,,0,0,0,,Я благодарен.
 Dialogue: 0,0:02:18.10,0:02:21.44,Default,,0,0,0,,Каждый раз когда я думал, что сделал все правильно,
-Dialogue: 0,0:02:21.44,0:02:24.14,Default,,0,0,0,,it comes back with lots of revision points.
-Dialogue: 0,0:02:24.44,0:02:30.35,Default,,0,0,0,,So I end up feeling like I'm no good at all.
-Dialogue: 0,0:02:30.75,0:02:36.52,Default,,0,0,0,,{\i1}The five young animators spent\Na grueling half year together.{\i0}
-Dialogue: 0,0:02:36.62,0:02:39.82,Default,,0,0,0,,Every year there's some idiot who just has to show off,
-Dialogue: 0,0:02:39.82,0:02:42.12,Default,,0,0,0,,At last I get to ride a broom at school!\Nand I'll give them demerits mercilessly!
-Dialogue: 0,0:02:42.12,0:02:44.43,Default,,0,0,0,,It's been so long, I can't wait!
-Dialogue: 0,0:02:45.56,0:02:52.67,Default,,0,0,0,,{\i1}How did they overcome the high standards\Nset by director Yoh Yoshinari?{\i0}
-Dialogue: 0,0:02:53.00,0:02:56.84,Default,,0,0,0,,Narrator - Hidaka Noriko
-Dialogue: 0,0:02:56.84,0:02:59.44,Default,,0,0,0,,Join me, as we look back on those days of creation.
-Dialogue: 0,0:02:59.44,0:03:04.45,Default,,0,0,0,,{\i1}How the Magic Was Created\N- Little{\i0} Witch {\i1}Academia Work Log~{\i0}
-Dialogue: 0,0:03:08.58,0:03:10.59,Default,,0,0,0,,{\i1}Tokyo, Ogikubo.{\i0}
-Dialogue: 0,0:03:11.25,0:03:17.83,Default,,0,0,0,,{\i1}TRIGGER is a new animation studio, founded in 2011.{\i0}
-Dialogue: 0,0:03:18.73,0:03:22.46,Default,,0,0,0,,{\i1}Nearly all of its staff members are from GAINAX.{\i0}
-Dialogue: 0,0:03:23.23,0:03:26.20,Default,,0,0,0,,{\i1}The studio was founded by popular animators,{\i0}
-Dialogue: 0,0:03:26.20,0:03:31.14,Default,,0,0,0,,{\i1}well-known for series such as Gurren Lagaan,\Nwith an eye towards the future.{\i0}
-Dialogue: 0,0:03:32.64,0:03:34.94,Default,,0,0,0,,{\i1}It's the first day of documentary filming.{\i0}
-Dialogue: 0,0:03:34.94,0:03:39.72,Default,,0,0,0,,{\i1}Director Yoshinari is making\Nfinal adjustments to the storyboards.{\i0}
-Dialogue: 0,0:03:43.72,0:03:45.96,Default,,0,0,0,,I've never drawn a storyboard\Nin just two weeks before.
-Dialogue: 0,0:03:45.96,0:03:47.39,Default,,0,0,0,,That's not true.
-Dialogue: 0,0:03:47.39,0:03:48.49,Default,,0,0,0,, No,{\i0} I {\i1}mean it.{\i0}
-Dialogue: 0,0:03:47.39,0:03:51.63,Default - Top,,0,0,0,,{\i1}TRIGGER Co-founder{\i0} - {\i1}Hiroyuki Imaishi\N(Gurren Lagaan, Panty & Stocking with Garterbelt)
-Dialogue: 0,0:03:48.49,0:03:50.19,Default,,0,0,0,,You just don't remember it now.
-Dialogue: 0,0:03:52.29,0:03:56.57,Default,,0,0,0,,When drawing directly on storyboard paper,
-Dialogue: 0,0:03:56.57,0:03:58.67,Default,,0,0,0,,you can't reorder them.
-Dialogue: 0,0:03:58.67,0:04:02.20,Default,,0,0,0,,Like if I want to insert a cut somewhere,
-Dialogue: 0,0:04:02.20,0:04:04.37,Default,,0,0,0,,or remove one.
-Dialogue: 0,0:04:04.37,0:04:08.94,Default,,0,0,0,,It feels like it could get rather\Ndifficult. That's a bit stressful.
-Dialogue: 0,0:04:08.94,0:04:12.95,Default,,0,0,0,,On the other hand, when drawing in the boxes,\Nif you're only thinking about images,
-Dialogue: 0,0:04:12.95,0:04:17.69,Default,,0,0,0,,instead of the sequence of cuts, then\Nyou don't get the sense of the flow.
-Dialogue: 0,0:04:17.69,0:04:22.49,Default,,0,0,0,,When drawing on storyboard paper, you're\Nfocused more on the flow of the page,
-Dialogue: 0,0:04:22.49,0:04:26.63,Default,,0,0,0,,so you worry about getting careless with the drawings.
-Dialogue: 0,0:04:26.63,0:04:28.66,Default,,0,0,0,,Isn't that how you draw manga?
-Dialogue: 0,0:04:28.66,0:04:31.77,Default,,0,0,0,,Yeah, it's a lot like manga.
-Dialogue: 0,0:04:31.77,0:04:35.67,Default,,0,0,0,,It's kinda tricky drawing inside the box.
-Dialogue: 0,0:04:37.24,0:04:40.18,Default,,0,0,0,,{\i1}Everybody has their own way of drawing storyboards.{\i0}
-Dialogue: 0,0:04:40.18,0:04:45.28,Default,,0,0,0,,{\i1}Director Yoshinari works by first\Nrandomly doodling the images he has in mind,{\i0}
-Dialogue: 0,0:04:45.28,0:04:49.29,Default,,0,0,0,,{\i1}and then putting them together like a puzzle.{\i0}
+Dialogue: 0,0:02:21.44,0:02:24.14,Default,,0,0,0,,работу возвращали с большим количеством правок.
+Dialogue: 0,0:02:24.44,0:02:30.35,Default,,0,0,0,,So I end up feeling like I'm no good at all. (В итоге я начинал ощущать, что я плох во всем.)
+Dialogue: 0,0:02:30.75,0:02:36.52,Default,,0,0,0,,{\i1}Пять молодых аниматоров провели изнурительные пол года вместе.{\i0}
+Dialogue: 0,0:02:36.62,0:02:39.82,Default,,0,0,0,,Каждый год находятся любители покрасоваться!
+Dialogue: 0,0:02:39.82,0:02:42.12,Default,,0,0,0,,Наконец-то полетаем на метле!\NПредупреждаю: буду снижать баллы.
+Dialogue: 0,0:02:42.12,0:02:44.43,Default,,0,0,0,,Давненько я на неё не садилась!
+Dialogue: 0,0:02:45.56,0:02:52.67,Default,,0,0,0,,{\i1}Как же они отвечают высоким требования,\Nпоставленным режиссером Yoh Yoshinari?{\i0}
+Dialogue: 0,0:02:53.00,0:02:56.84,Default,,0,0,0,,Рассказчик - Hidaka Noriko
+Dialogue: 0,0:02:56.84,0:02:59.44,Default,,0,0,0,,Join me, as we look back on those days of creation. (Присоединяйтесь ко мне, чтобы увидеть как проходила работа.)
+Dialogue: 0,0:02:59.44,0:03:04.45,Default,,0,0,0,,{\i1}Как Создавалась Магия\N~Рабочие записи Академии Ведьмочек~{\i0}
+Dialogue: 0,0:03:08.58,0:03:10.59,Default,,0,0,0,,{\i1}Токио, Огикубо.{\i0}
+Dialogue: 0,0:03:11.25,0:03:17.83,Default,,0,0,0,,{\i1}TRIGGER - новая анимационная студия, основанная в 2011 году.{\i0}
+Dialogue: 0,0:03:18.73,0:03:22.46,Default,,0,0,0,,{\i1}Почти все её сотрудники пришли из GAINAX.{\i0}
+Dialogue: 0,0:03:23.23,0:03:26.20,Default,,0,0,0,,{\i1}Студия была основана популярными (известными?) аниматорами,{\i0}
+Dialogue: 0,0:03:26.20,0:03:31.14,Default,,0,0,0,,{\i1}хорошо известными по таким сериалам как Гуррен-Лаганн,\Nс прицелом на будущее / перспективным взглядом / хз короче.{\i0}
+Dialogue: 0,0:03:32.64,0:03:34.94,Default,,0,0,0,,{\i1}Это первый день документальных съемок.{\i0}
+Dialogue: 0,0:03:34.94,0:03:39.72,Default,,0,0,0,,{\i1}Режиссер Yoshinari вносит последние поправки в раскадровки.{\i0}
+Dialogue: 0,0:03:43.72,0:03:45.96,Default,,0,0,0,,Я никогда до этого не делал раскадровки всего за две недели.
+Dialogue: 0,0:03:45.96,0:03:47.39,Default,,0,0,0,,Это не правда.
+Dialogue: 0,0:03:47.39,0:03:48.49,Default,,0,0,0,, No,{\i0} I {\i1}mean it.{\i0} (Нет, я уверен [?])
+Dialogue: 0,0:03:47.39,0:03:51.63,Default - Top,,0,0,0,,{\i1}Соучредитель (сооснователь звучит как-то странно) TRIGGER{\i0} - {\i1}Hiroyuki Imaishi\N(Gurren Lagaan, Panty & Stocking with Garterbelt)
+Dialogue: 0,0:03:48.49,0:03:50.19,Default,,0,0,0,,Ты просто уже забыл.
+Dialogue: 0,0:03:52.29,0:03:56.57,Default,,0,0,0,,Когда вы рисуете непосредственно на раскадровочных листах,
+Dialogue: 0,0:03:56.57,0:03:58.67,Default,,0,0,0,, вы не можете изменить их порядок.
+Dialogue: 0,0:03:58.67,0:04:02.20,Default,,0,0,0,,Например,если бы я захотел вставить куда-нибудь кадр,
+Dialogue: 0,0:04:02.20,0:04:04.37,Default,,0,0,0,,или наоборот убрать.
+Dialogue: 0,0:04:04.37,0:04:08.94,Default,,0,0,0,,Появляется чувство, что от этого работать стало сложнее.\NЭто немного напрягает.\NIt feels like it could get rather\Ndifficult. That's a bit stressful.
+Dialogue: 0,0:04:08.94,0:04:12.95,Default,,0,0,0,,С другой стороны, рисуя только отдельные кадры, вы думаете только о кадре,
+Dialogue: 0,0:04:12.95,0:04:17.69,Default,,0,0,0,,а не о последовательности кадров, таким образом теряя чувство потока.
+Dialogue: 0,0:04:17.69,0:04:22.49,Default,,0,0,0,,Рисуя же на раскадровачных листах вы фокусируетесь именно на последовательносте кадров,\NWhen drawing on storyboard paper, you're\Nfocused more on the flow of the page,
+Dialogue: 0,0:04:22.49,0:04:26.63,Default,,0,0,0,,и начинаете беспокоится о небрежности самих рисунков.\Nso you worry about getting careless with the drawings.
+Dialogue: 0,0:04:26.63,0:04:28.66,Default,,0,0,0,,Это ведь похоже на (создание) манги?
+Dialogue: 0,0:04:28.66,0:04:31.77,Default,,0,0,0,,Да, это очень похоже на мангу.
+Dialogue: 0,0:04:31.77,0:04:35.67,Default,,0,0,0,,Это довольно хитрый рисунок на листе (?).\NIt's kinda tricky drawing inside the box.
+Dialogue: 0,0:04:37.24,0:04:40.18,Default,,0,0,0,,{\i1}У каждого свой способ создания раскадровок.{\i0}
+Dialogue: 0,0:04:40.18,0:04:45.28,Default,,0,0,0,,{\i1}Режиссер Yoshinari сначала зарисовывает все, что ему приходит в голову,{\i0}
+Dialogue: 0,0:04:45.28,0:04:49.29,Default,,0,0,0,,{\i1}а позже собирает все зарисовки вместе, как пазл.{\i0}
 Dialogue: 0,0:04:49.29,0:04:53.96,Default,,0,0,0,,{\i1}The one problem is when the papers start to pile up.{\i0}
 Dialogue: 0,0:04:56.16,0:05:00.43,Default,,0,0,0,,How do I go about trimming it down...
 Dialogue: 0,0:05:01.03,0:05:06.74,Default,,0,0,0,,{\i1}At this time, Imaishi-san is also struggling\Nwith the storyboards for KILL{\i0} la {\i1}KILL.{\i0}
