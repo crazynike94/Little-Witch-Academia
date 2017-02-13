@@ -15,10 +15,10 @@ Audio File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pleb]/Little Witch Academia - Making of Documentary (2013) [Pleb] [AA6884DB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 51
-Active Line: 54
-Video Position: 6815
+Video Zoom Percent: 0.375000
+Scroll Position: 82
+Active Line: 90
+Video Position: 11342
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,7 +87,7 @@ Dialogue: 0,0:03:47.39,0:03:48.49,Default,,0,0,0,, No,{\i0} I {\i1}mean it.{\i0}
 Dialogue: 0,0:03:47.39,0:03:51.63,Default - Top,,0,0,0,,{\i1}Соучредитель (сооснователь звучит как-то странно) TRIGGER{\i0} - {\i1}Hiroyuki Imaishi\N(Gurren Lagaan, Panty & Stocking with Garterbelt)
 Dialogue: 0,0:03:48.49,0:03:50.19,Default,,0,0,0,,Ты просто уже забыл.
 Dialogue: 0,0:03:52.29,0:03:56.57,Default,,0,0,0,,Когда вы рисуете непосредственно на раскадровочных листах,
-Dialogue: 0,0:03:56.57,0:03:58.67,Default,,0,0,0,, вы не можете изменить их порядок.
+Dialogue: 0,0:03:56.57,0:03:58.67,Default,,0,0,0,,вы не можете изменить их порядок.
 Dialogue: 0,0:03:58.67,0:04:02.20,Default,,0,0,0,,Например,если бы я захотел вставить куда-нибудь кадр,
 Dialogue: 0,0:04:02.20,0:04:04.37,Default,,0,0,0,,или наоборот убрать.
 Dialogue: 0,0:04:04.37,0:04:08.94,Default,,0,0,0,,Появляется чувство, что от этого работать стало сложнее.\NЭто немного напрягает.\NIt feels like it could get rather\Ndifficult. That's a bit stressful.
@@ -108,29 +108,29 @@ Dialogue: 0,0:05:06.74,0:05:09.54,Default,,0,0,0,,{\i1}Don't you have your own\N
 Dialogue: 0,0:05:09.54,0:05:11.67,Default,,0,0,0,,I do, yeah.
 Dialogue: 0,0:05:11.67,0:05:15.34,Default,,0,0,0,,I've never been able to draw\Na storyboard in just two weeks.
 Dialogue: 0,0:05:15.34,0:05:18.25,Default,,0,0,0,,I'll get back to it.
-Dialogue: 0,0:05:23.85,0:05:30.99,Default,,0,0,0,,{\i1}That evening, the new animators visit\NStudio TRIGGER for the first time.{\i0}
-Dialogue: 0,0:05:33.03,0:05:38.57,Default,,0,0,0,,{\i1}These five young animators\Nare all originally from GAINAX.{\i0}
-Dialogue: 0,0:05:38.57,0:05:40.30,Default,,0,0,0,,There's this many?!
-Dialogue: 0,0:05:40.30,0:05:41.84,Default,,0,0,0,,But they're all guys!
-Dialogue: 0,0:05:41.84,0:05:44.24,Default,,0,0,0,,Yeah, true.
-Dialogue: 0,0:05:46.28,0:05:50.45,Default,,0,0,0,,{\i1}The Little Witch Team is having\Ntheir first face-to-face meeting.{\i0}
-Dialogue: 0,0:05:50.45,0:05:56.32,Default,,0,0,0,,{\i1}The aim of this nine-person animation team\Nis to screen in March of the coming year.{\i0}
-Dialogue: 0,0:05:56.32,0:05:58.09,Default,,0,0,0,,Mr. Yoshinari, any words from the director?
-Dialogue: 0,0:05:59.09,0:06:02.93,Default,,0,0,0,,The concept behind this project\Nis to train new animators.
-Dialogue: 0,0:06:02.93,0:06:06.46,Default,,0,0,0,,So please remember that\Nyou guys have the "leading role".
-Dialogue: 0,0:06:06.46,0:06:12.97,Default,,0,0,0,,I'll do my best not to drag you all down.
-Dialogue: 0,0:06:14.00,0:06:18.44,Default,,0,0,0,,I hope it'll be enough to\Nprovide a pleasant environment.
-Dialogue: 0,0:06:18.44,0:06:21.58,Default,,0,0,0,,I haven't even given you the storyboards yet...
-Dialogue: 0,0:06:23.55,0:06:26.62,Default,,0,0,0,,They will be uploaded today.
+Dialogue: 0,0:05:23.85,0:05:30.99,Default,,0,0,0,,{\i1}Этим вечером новые (молодые?) аниматоры посетят студию TRIGGER впервые.{\i0}
+Dialogue: 0,0:05:33.03,0:05:38.57,Default,,0,0,0,,{\i1}Эти пятеро молодых аниматоров пришли со студии GAINAX.{\i0}
+Dialogue: 0,0:05:38.57,0:05:40.30,Default,,0,0,0,,There's this many?! (Разве это много?!)
+Dialogue: 0,0:05:40.30,0:05:41.84,Default,,0,0,0,,But they're all guys! (Но они же все парни!)
+Dialogue: 0,0:05:41.84,0:05:44.24,Default,,0,0,0,,Да, так и есть.
+Dialogue: 0,0:05:46.28,0:05:50.45,Default,,0,0,0,,{\i1}Команда "Академии Ведьмочек" впервые встречается лицом к лицу.{\i0}
+Dialogue: 0,0:05:50.45,0:05:56.32,Default,,0,0,0,,{\i1}Цель этих девяти человек - показ фильма в марте следующего года.{\i0}
+Dialogue: 0,0:05:56.32,0:05:58.09,Default,,0,0,0,,Мистер Yoshinari, пару слов от режиссера?
+Dialogue: 0,0:05:59.09,0:06:02.93,Default,,0,0,0,,Концепция этого проекта заключается в подготовке новых аниматоров.
+Dialogue: 0,0:06:02.93,0:06:06.46,Default,,0,0,0,,Поэтому, ребята, помните пожалуйста, что у вас "ведущая роль" в проекте.
+Dialogue: 0,0:06:06.46,0:06:12.97,Default,,0,0,0,,I'll do my best not to drag you all down. (Я сделаю все возможное, чтобы не тащить вас вниз.)
+Dialogue: 0,0:06:14.00,0:06:18.44,Default,,0,0,0,,I hope it'll be enough to\Nprovide a pleasant environment. (Я надеюсь, что этого будет достаточно, чтобы создать благоприятную атмосферу.)
+Dialogue: 0,0:06:18.44,0:06:21.58,Default,,0,0,0,,Я еще даже не выдал вам раскадровки...
+Dialogue: 0,0:06:23.55,0:06:26.62,Default,,0,0,0,,They will be uploaded today. (Я загружу их сегодня. [Тут разве про раскадровки? Должно же быть "It" тогда, разве нет?])
 Dialogue: 0,0:06:26.62,0:06:28.62,Default,,0,0,0,,It can get like this at times.
-Dialogue: 0,0:06:28.62,0:06:33.89,Default,,0,0,0,,I certainly believe you can accomplish this.\NGood to be working with you.
-Dialogue: 0,0:06:36.26,0:06:39.26,Default,,0,0,0,,{\i1}These five have the leading roles in our film.{\i0}
-Dialogue: 0,0:06:39.26,0:06:42.16,Default,,0,0,0,,{\i1}Let's take a look at their profiles.{\i0}
+Dialogue: 0,0:06:28.62,0:06:33.89,Default,,0,0,0,,I certainly believe you can accomplish this.\NGood to be working with you. (Я несомненно верю, что вы закончите это (?). Надеюсь на успешную работу с вами.)
+Dialogue: 0,0:06:36.26,0:06:39.26,Default,,0,0,0,,{\i1}Эти пятеро человек будут главными героями нашего фильма.{\i0}
+Dialogue: 0,0:06:39.26,0:06:42.16,Default,,0,0,0,,{\i1}Давайте взглянем на них внимательней.{\i0}
 Dialogue: 0,0:06:44.30,0:07:13.40,Default,,0,0,0,,{\pos(606,1042)}Yuuto Kaneko
 Dialogue: 0,0:06:45.30,0:06:49.50,Default,,0,0,0,,{\pos(960,884)}Yuuto Kaneko, age 26
-Dialogue: 0,0:06:52.00,0:06:58.29,Default,,0,0,0,,{\pos(980,858)}He'll be in charge of the scene with the Minotaur\Nin the underground dungeon, 45 cuts.
-Dialogue: 0,0:06:58.29,0:07:04.29,Default,,0,0,0,,{\pos(980,858)}Actually, the candidates got to pick which\Nscenes they would be assigned.
-Dialogue: 0,0:07:04.29,0:07:09.29,Default,,0,0,0,,{\pos(980,858)}He chose this one because\Nmonsters and muscles are his specialty.
+Dialogue: 0,0:06:52.00,0:06:58.29,Default,,0,0,0,,{\pos(980,858)}Он отвечает за сцену с Минотавром в подземелье, 45 кадров.
+Dialogue: 0,0:06:58.29,0:07:04.29,Default,,0,0,0,,{\pos(980,858)}На самом деле кандидаты сами выбирают сцены над которыми они будут работать.
+Dialogue: 0,0:07:04.29,0:07:09.29,Default,,0,0,0,,{\pos(980,858)}Он выбрал её потому что специализируется на монстрах и движении мышц (?).
 Dialogue: 0,0:07:13.90,0:07:41.42,Default,,0,0,0,,{\pos(1369,1046)}Shouta Sannomiya
 Dialogue: 0,0:07:15.00,0:07:19.00,Default,,0,0,0,,{\pos(960,850)}Shouta Sannoimya, age 26.
 Dialogue: 0,0:07:22.00,0:07:31.00,Default,,0,0,0,,{\pos(960,850)}He has 57 cuts, from after Diana's group descends into\Nthe dungeon, until the scene in the trash dump
