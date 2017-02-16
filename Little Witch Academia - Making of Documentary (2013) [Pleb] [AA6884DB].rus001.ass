@@ -170,12 +170,12 @@ Dialogue: 0,0:10:34.30,0:10:40.90,Default,,0,0,0,,Still, I like these reserved v
 Dialogue: 0,0:10:41.70,0:10:42.80,Default,,0,0,0,,I am Kamimura, an animator\Nserving as Project Manager.
 Dialogue: 0,0:10:42.80,0:10:47.14,Default,,0,0,0,,I am Kamimura, an animator\Nserving as Project Manager.
 Dialogue: 0,0:10:42.80,0:10:47.14,Default - Top,,0,0,0,,Project Manager - Nurturing\NKouko Kamimura
-Dialogue: 0,0:10:48.28,0:10:55.22,Default,,0,0,0,,{\pos(960,950)}{\i1}The Ministry of Culture has entrusted "Anime Mirai" to an\Nindustry group named JAniCA.
-Dialogue: 0,0:10:48.28,0:10:55.22,Default - Top,,0,0,0,,{\pos(586,1004)}Japan Animation Creators Association{\i0}
-Dialogue: 0,0:10:55.22,0:10:56.42,Default,,0,0,0,,{\pos(960,950)}{\i1}The Ministry of Culture has entrusted "Anime\NMirai" to an industry group named JAniCA.{\i0}
-Dialogue: 0,0:10:56.42,0:11:03.03,Default,,0,0,0,,{\i1}The four studios chosen in the competition will\Nreceive grants of 38 million yen for each film.{\i0}
-Dialogue: 0,0:11:03.03,0:11:10.63,Default - Top,,0,0,0,,{\pos(733,1006)}TV series cost per episode: 10-20 million yen
-Dialogue: 0,0:11:03.63,0:11:11.50,Default,,0,0,0,,{\pos(960,940)}{\i1}Because studios tend to prioritize efficiency, the goal\Nis making sure that funds are used for nurturing.{\i0}
+Dialogue: 0,0:10:48.28,0:10:55.22,Default,,0,0,0,,{\pos(960,950)}{\i1}Министерство культуры доверило "Anime Mirai" организации под названием JAniCA.
+Dialogue: 0,0:10:48.28,0:10:55.22,Default - Top,,0,0,0,,{\pos(586,1004)} Ассоциация японских аниматоров (Japanese Animation Creators Association){\i0}
+Dialogue: 0,0:10:55.22,0:10:56.42,Default,,0,0,0,,{\pos(960,950)}{\i1}Министерство культуры доверило "Anime Mirai" организации под названием JAniCA.{\i0}
+Dialogue: 0,0:10:56.42,0:11:03.03,Default,,0,0,0,,{\i1}Четыре студии, выбранные в конкурсе, получат\N гранты по 8 миллионов йен на каждый фильм.{\i0}
+Dialogue: 0,0:11:03.03,0:11:10.63,Default - Top,,0,0,0,,{\pos(733,1006)}Стоимость одного TV эпизода аниме: 10-20 миллионов йен
+Dialogue: 0,0:11:03.63,0:11:11.50,Default,,0,0,0,,{\pos(960,940)}{\i1}Приоритет студии - эффективность, поэтому цель состоит\Nв том, чтобы убедиться что средства используются для воспитания молодых кадров(?).{\i0}
 Dialogue: 0,0:11:11.90,0:11:12.07,Default - Top,,0,0,0,,Project Manager - Administration\NAttorney Daisuke Okeda
 Dialogue: 0,0:11:12.07,0:11:16.91,Default,,0,0,0,,There are a few guidelines that must be complied with, at minimum.
 Dialogue: 0,0:11:12.07,0:11:16.91,Default - Top,,0,0,0,,Project Manager - Administration\NAttorney Daisuke Okeda
