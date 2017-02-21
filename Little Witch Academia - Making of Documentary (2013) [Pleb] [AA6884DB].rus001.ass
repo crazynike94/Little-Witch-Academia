@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 82
-Active Line: 90
-Video Position: 11342
+Scroll Position: 157
+Active Line: 160
+Video Position: 21948
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,24 +133,24 @@ Dialogue: 0,0:06:58.29,0:07:04.29,Default,,0,0,0,,{\pos(980,858)}На самом
 Dialogue: 0,0:07:04.29,0:07:09.29,Default,,0,0,0,,{\pos(980,858)}Он выбрал её потому что специализируется на монстрах и движении мышц (?).
 Dialogue: 0,0:07:13.90,0:07:41.42,Default,,0,0,0,,{\pos(1369,1046)}Shouta Sannomiya
 Dialogue: 0,0:07:15.00,0:07:19.00,Default,,0,0,0,,{\pos(960,850)}Shouta Sannoimya, age 26.
-Dialogue: 0,0:07:22.00,0:07:31.00,Default,,0,0,0,,{\pos(960,850)}He has 57 cuts, from after Diana's group descends into\Nthe dungeon, until the scene in the trash dump
-Dialogue: 0,0:07:31.00,0:07:40.00,Default,,0,0,0,,{\pos(960,850)}He chose this section with lots of props because he\Nenjoys coming up with ideas for hints and jokes.
+Dialogue: 0,0:07:22.00,0:07:31.00,Default,,0,0,0,,{\pos(960,850)}Он работает над 57 кадрами, начиная с момента, когда групп Дианы (на счет имен еще надо согласовать, будем ли траслитить их) спускается в подземелье до сцены на свалке.
+Dialogue: 0,0:07:31.00,0:07:40.00,Default,,0,0,0,,{\pos(960,850)}Он выбрал фрагмент [section] с огромным количеством мелких деталей [props], потому что любит делать отсылки и шутки на их основе (за счет них).
 Dialogue: 0,0:07:41.92,0:08:09.79,Default,,0,0,0,,{\pos(478,1045)}Masaru Sakamoto
 Dialogue: 0,0:07:43.00,0:07:47.00,Default,,0,0,0,,{\pos(960,850)}Masaru Sakamoto, age 28.
-Dialogue: 0,0:07:47.00,0:07:57.00,Default,,0,0,0,,{\pos(960,850)}He's in charge of the entire opening|\N before the title sequence, 44 cuts.
-Dialogue: 0,0:07:57.00,0:08:03.00,Default,,0,0,0,,{\pos(960,850)}As the animation director for {\b1}Medaka Box{\b0},\N he has the most experience
-Dialogue: 0,0:08:03.00,0:08:10.00,Default,,0,0,0,,{\pos(960,850)}This time, instead of his usual everyday scenes, he's\Nchallenging himself with a flashy fantasy action scene.
+Dialogue: 0,0:07:47.00,0:07:57.00,Default,,0,0,0,,{\pos(960,850)}Он работает над началом опенинга (может заменить на вступления?) вплоть до кадров с названием. Всего 44 кадра.
+Dialogue: 0,0:07:57.00,0:08:03.00,Default,,0,0,0,,{\pos(960,850)}Так как он является режиссером анимации в {\b1}Medaka Box{\b0} - он самый опытный член группы.
+Dialogue: 0,0:08:03.00,0:08:10.00,Default,,0,0,0,,{\pos(960,850)}На этот раз он бросает вызов самому себе, работая над яркой фентезийной сценой, вместо привычных ему сцен повседневности.
 Dialogue: 0,0:08:10.29,0:08:46.00,Default,,0,0,0,,{\pos(1364,1044)}Hisao Dendou
 Dialogue: 0,0:08:12.36,0:08:15.00,Default,,0,0,0,,{\pos(960,850)}Hisao Dendou, age 27.
-Dialogue: 0,0:08:19.86,0:08:31.01,Default,,0,0,0,,{\pos(960,850)}He has the start of the treasure hunt and the crowd scene\Nwhen the dragon flies out of the dungeon.
-Dialogue: 0,0:08:31.01,0:08:37.61,Default,,0,0,0,,{\pos(960,850)}He chose these simple scenes that require time & effort because\Nno one else would want to do them, he says.
+Dialogue: 0,0:08:19.86,0:08:31.01,Default,,0,0,0,,{\pos(960,850)}Он работает над сценами начала охоты за сокровищами и вылета (оч хуево звучит и про толпу проебал часть, не знаю куда воткнуть) дракона из подземелья.
+Dialogue: 0,0:08:31.01,0:08:37.61,Default,,0,0,0,,{\pos(960,850)}Он выбрал эти простые сцены, требующие много времени (так говорят?) и услий потому что больше никто не хотел их брать, - говорит он.
 Dialogue: 0,0:08:46.22,0:09:10.21,Default,,0,0,0,,{\pos(536,1045)}Shuuhei Handa
 Dialogue: 0,0:08:48.22,0:08:50.52,Default,,0,0,0,,{\pos(960,850)}Shuuhei Handa, age 28.
-Dialogue: 0,0:08:53.60,0:09:00.00,Default,,0,0,0,,{\pos(960,850)}He'll be in charge of the battle scene between\NAkoo and the dragon, 44 cuts.
-Dialogue: 0,0:09:00.00,0:09:06.32,Default,,0,0,0,,{\pos(960,850)}He says, "I picked the coolest part!"\Ndemonstrating quite a simple personality.
-Dialogue: 0,0:09:12.71,0:09:17.99,Default,,0,0,0,,{\i1}The one who assembled this\Ngroup is the producer, Naoko Tsutsumi.{\i0}
+Dialogue: 0,0:08:53.60,0:09:00.00,Default,,0,0,0,,{\pos(960,850)}Он будет отвечать за сцену битвы Акко с драконом - 44 кадра.
+Dialogue: 0,0:09:00.00,0:09:06.32,Default,,0,0,0,,{\pos(960,850)}Он говорит: "Я выбрал самую крутую часть!", чем проявляет свое ребячество (???) [demonstrating quite a simple personality].
+Dialogue: 0,0:09:12.71,0:09:17.99,Default,,0,0,0,,{\i1}Naoko Tsutsumi - человек, который собрал эту группу.{\i0}
 Dialogue: 0,0:09:17.99,0:09:22.22,Default,,0,0,0,,{\i1}She was employed in production for Gurren Lagaan,{\i0}
-Dialogue: 0,0:09:22.22,0:09:26.50,Default,,0,0,0,,{\i1}and has known the five since they were new\Ninbetweeners. Producer Naoko Tsutsumi{\i0}
+Dialogue: 0,0:09:22.22,0:09:26.50,Default,,0,0,0,,{\i1}and has known the five since they were new\Ninbetweeners. Producer Naoko Tsutsumi{\i0} Тут вообще хуй знает. Поебень какая-то.
 Dialogue: 0,0:09:26.50,0:09:28.10,Default,,0,0,0,,{\i1}In fact, she is Director Yoshinari's wife!\NProducer Naoko Tsutsumi{\i0}
 Dialogue: 0,0:09:28.10,0:09:29.97,Default,,0,0,0,,{\i1}In fact, she is Director Yoshinari's wife!{\i0}
 Dialogue: 0,0:09:29.97,0:09:35.34,Default,,0,0,0,,{\i1}Since you already know Mr. Yoshinari's\Npace and how to talk to him,{\i0}
@@ -160,15 +160,14 @@ Dialogue: 0,0:09:46.42,0:09:52.85,Default,,0,0,0,,There's so much material,\Nhow
 Dialogue: 0,0:09:52.85,0:09:58.36,Default,,0,0,0,,It feels like we just have to take the risk.
 Dialogue: 0,0:09:59.80,0:10:01.26,Default,,0,0,0,,{\i1}I'm looking forward to it.{\i0}
 Dialogue: 0,0:10:01.26,0:10:03.27,Default,,0,0,0,,Good to work with you.
-Dialogue: 0,0:10:07.97,0:10:10.84,Default,,0,0,0,,{\i1}Three days later, on August 6th.{\i0}
-Dialogue: 0,0:10:13.48,0:10:17.11,Default,,0,0,0,,{\i1}Today is the "Anime Mirai" Project\Nexplanatory meeting.{\i0}
-Dialogue: 0,0:10:17.61,0:10:27.06,Default,,0,0,0,,{\i1}There are 60 attendees, representing four studios:\NTRIGGER, Madhouse, ZEXCS, and Gonzo.{\i0}
-Dialogue: 0,0:10:27.06,0:10:28.89,Default,,0,0,0,,Anime {\i1}Mirai{\i0}\NGood morning everyone!
-Dialogue: 0,0:10:28.89,0:10:30.66,Default,,0,0,0,,(Good morning)
-Dialogue: 0,0:10:30.66,0:10:34.30,Default,,0,0,0,,That was a quiet response.
-Dialogue: 0,0:10:34.30,0:10:40.90,Default,,0,0,0,,Still, I like these reserved voices.\NSince I'm an animator.
-Dialogue: 0,0:10:41.70,0:10:42.80,Default,,0,0,0,,I am Kamimura, an animator\Nserving as Project Manager.
-Dialogue: 0,0:10:42.80,0:10:47.14,Default,,0,0,0,,I am Kamimura, an animator\Nserving as Project Manager.
+Dialogue: 0,0:10:07.97,0:10:10.84,Default,,0,0,0,,{\i1}Тремя днями позже. 6-ое августа.{\i0}
+Dialogue: 0,0:10:13.48,0:10:17.11,Default,,0,0,0,,{\i1}Сегодня проходит совещательная [explanatory] встреча проекта "Аниме будущего".{\i0}
+Dialogue: 0,0:10:17.61,0:10:27.06,Default,,0,0,0,,{\i1}В ней участвует 60 участников, представляющих четыре студии:\NTRIGGER, Madhouse, ZEXCS, and Gonzo.{\i0}
+Dialogue: 0,0:10:27.06,0:10:28.89,Default,,0,0,0,,Аниме будущего\NВсем доброе утро!,
+Dialogue: 0,0:10:28.89,0:10:30.66,Default,,0,0,0,,(Доброе утро)
+Dialogue: 0,0:10:30.66,0:10:34.30,Default,,0,0,0,,Это был тихий ответ.
+Dialogue: 0,0:10:34.30,0:10:40.90,Default,,0,0,0,,Но меня все равно радуют (тоже не очень звучит) эти тихие голоса, так как я аниматор. (Логика до конца мне не ясна. Может быть не верно перевел.)
+Dialogue: 0,0:10:41.70,0:10:47.14,Default,,0,0,0,,Меня зовут Kamimura и я аниматор, выступающий в качестве проектного менеджера.
 Dialogue: 0,0:10:42.80,0:10:47.14,Default - Top,,0,0,0,,Project Manager - Nurturing\NKouko Kamimura
 Dialogue: 0,0:10:48.28,0:10:55.22,Default,,0,0,0,,{\pos(960,950)}{\i1}Министерство культуры доверило "Anime Mirai" организации под названием JAniCA.
 Dialogue: 0,0:10:48.28,0:10:55.22,Default - Top,,0,0,0,,{\pos(586,1004)} Ассоциация японских аниматоров (Japanese Animation Creators Association){\i0}
@@ -177,19 +176,18 @@ Dialogue: 0,0:10:56.42,0:11:03.03,Default,,0,0,0,,{\i1}Четыре студии
 Dialogue: 0,0:11:03.03,0:11:10.63,Default - Top,,0,0,0,,{\pos(733,1006)}Стоимость одного TV эпизода аниме: 10-20 миллионов йен
 Dialogue: 0,0:11:03.63,0:11:11.50,Default,,0,0,0,,{\pos(960,940)}{\i1}Приоритет студии - эффективность, поэтому цель состоит\Nв том, чтобы убедиться что средства используются для воспитания молодых кадров(?).{\i0}
 Dialogue: 0,0:11:11.90,0:11:12.07,Default - Top,,0,0,0,,Project Manager - Administration\NAttorney Daisuke Okeda
-Dialogue: 0,0:11:12.07,0:11:16.91,Default,,0,0,0,,There are a few guidelines that must be complied with, at minimum.
+Dialogue: 0,0:11:12.07,0:11:17.41,Default,,0,0,0,,Как минимум есть несколько руководящих принципов, которые должны быть соблюдены.
 Dialogue: 0,0:11:12.07,0:11:16.91,Default - Top,,0,0,0,,Project Manager - Administration\NAttorney Daisuke Okeda
-Dialogue: 0,0:11:16.91,0:11:17.41,Default,,0,0,0,,There are a few guidelines that must\Nbe complied with, at minimum.
-Dialogue: 0,0:11:17.41,0:11:22.61,Default,,0,0,0,,Because those like myself must respond when\Nviolations of these guidelines come to our attention,
-Dialogue: 0,0:11:22.61,0:11:28.52,Default,,0,0,0,,these issues could ultimately result in contract\Ncancellation, so please take care to follow the rules.
-Dialogue: 0,0:11:30.05,0:11:34.69,Default,,0,0,0,,{\i1}The rules established by Anime Mirai\Napply to many aspects of work.{\i0}
-Dialogue: 0,0:11:36.26,0:11:43.50,Default,,0,0,0,,{\pos(960,890)}{\i1}For example, animation staff must all work in\Nthe same location, to share time together.{\i0}
-Dialogue: 0,0:11:43.50,0:11:46.64,Default,,0,0,0,,{\pos(960,890)}{\i1}They are forbidden to work from home.{\i0}
-Dialogue: 0,0:11:48.24,0:11:52.74,Default,,0,0,0,,{\pos(960,890)}{\i1}Corrections should not all\Nbe made by the lead animator.{\i0}
-Dialogue: 0,0:11:52.74,0:11:56.75,Default,,0,0,0,,{\pos(960,890)}{\i1}They should instead explain the issues and let\Nthe animators make the fixes themselves.{\i0}
-Dialogue: 0,0:11:57.38,0:12:06.00,Default - Top,,0,0,0,,{\pos(1608,2)}Unified Lectures
-Dialogue: 0,0:11:58.51,0:12:06.12,Default,,0,0,0,,{\pos(960,890)}{\i1}The young animators must participate in a\Nseries of lectures and activities sponsored by Anime Mirai,{\i0}
-Dialogue: 0,0:12:06.12,0:12:11.33,Default,,0,0,0,,{\pos(960,890)}{\i1}in order to form relationswith other animators\Nand improve their skills and knowledge.{\i0}
+Dialogue: 0,0:11:17.41,0:11:22.61,Default,,0,0,0,,При нарушении этих основных правил я обязан буду отреагировать,
+Dialogue: 0,0:11:22.61,0:11:28.52,Default,,0,0,0,,и в конечном счете это может повлечь даже разрыв контракта. Поэтому, пожалуйста, следите за соблюдением правил.
+Dialogue: 0,0:11:30.05,0:11:34.69,Default,,0,0,0,,{\i1}Правила, установленные "Аниме будущего" распространяются на многие аспекты работы.{\i0}
+Dialogue: 0,0:11:36.26,0:11:43.50,Default,,0,0,0,,{\pos(960,890)}{\i1}Например команда аниматоров должна работать в одном помещении и проводить время вместе.{\i0}
+Dialogue: 0,0:11:43.50,0:11:46.64,Default,,0,0,0,,{\pos(960,890)}{\i1}Им запрещено работать на дому.{\i0}
+Dialogue: 0,0:11:48.24,0:11:52.74,Default,,0,0,0,,{\pos(960,890)}{\i1}Поправки (или просто правки) не должны делать только (или убрать "только") ведущие аниматоры.{\i0}
+Dialogue: 0,0:11:52.74,0:11:56.75,Default,,0,0,0,,{\pos(960,890)}{\i1}Вместо этого они должны указывать на ошибки и позволить аниматорам исправлять их самостоятельно.{\i0}
+Dialogue: 0,0:11:57.38,0:12:06.00,Default - Top,,0,0,0,,{\pos(1608,2)}Общие лекции [Unified Lectures]
+Dialogue: 0,0:11:58.51,0:12:06.12,Default,,0,0,0,,{\pos(960,890)}{\i1}Молодые аниматоры обязаны принимать участие в серии лекций и мероприятий, финансируемых "Аниме будущего",{\i0}
+Dialogue: 0,0:12:06.12,0:12:11.33,Default,,0,0,0,,{\pos(960,890)}{\i1}для того, чтобы между аниматорами формировались взаимосвзять (х у е в о), а также для совершенствования их навыков и познаний (тоже х у е в о).{\i0}
 Dialogue: 0,0:12:06.12,0:12:11.33,Default - Top,,0,0,0,,{\pos(1426,1)}Lectures on Copyright Law & Contracts
 Dialogue: 0,0:12:11.33,0:12:12.33,Default - Top,,0,0,0,,{\pos(1574,1)}Acting Workshops
 Dialogue: 0,0:12:12.33,0:12:20.14,Default,,0,0,0,,{\i1}Creating an environment where young\Nkey animators can learn and grow is top priority.{\i0}
