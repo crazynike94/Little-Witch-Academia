@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 157
-Active Line: 160
-Video Position: 21948
+Scroll Position: 178
+Active Line: 186
+Video Position: 25584
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -188,32 +188,30 @@ Dialogue: 0,0:11:52.74,0:11:56.75,Default,,0,0,0,,{\pos(960,890)}{\i1}Вмест
 Dialogue: 0,0:11:57.38,0:12:06.00,Default - Top,,0,0,0,,{\pos(1608,2)}Общие лекции [Unified Lectures]
 Dialogue: 0,0:11:58.51,0:12:06.12,Default,,0,0,0,,{\pos(960,890)}{\i1}Молодые аниматоры обязаны принимать участие в серии лекций и мероприятий, финансируемых "Аниме будущего",{\i0}
 Dialogue: 0,0:12:06.12,0:12:11.33,Default,,0,0,0,,{\pos(960,890)}{\i1}для того, чтобы между аниматорами формировались взаимосвзять (х у е в о), а также для совершенствования их навыков и познаний (тоже х у е в о).{\i0}
-Dialogue: 0,0:12:06.12,0:12:11.33,Default - Top,,0,0,0,,{\pos(1426,1)}Lectures on Copyright Law & Contracts
-Dialogue: 0,0:12:11.33,0:12:12.33,Default - Top,,0,0,0,,{\pos(1574,1)}Acting Workshops
-Dialogue: 0,0:12:12.33,0:12:20.14,Default,,0,0,0,,{\i1}Creating an environment where young\Nkey animators can learn and grow is top priority.{\i0}
-Dialogue: 0,0:12:23.37,0:12:28.84,Default,,0,0,0,,{\i1}Director Yoshinari is thoughtful after the meeting.{\i0}
-Dialogue: 0,0:12:32.28,0:12:35.45,Default,,0,0,0,,{\pos(960,850)}The grant money does come with strings attached.
-Dialogue: 0,0:12:35.45,0:12:39.22,Default,,0,0,0,,{\pos(960,850)}It's not for making the perfect film.
-Dialogue: 0,0:12:39.22,0:12:42.62,Default,,0,0,0,,{\pos(960,850)}Teaching the creation process\Nis what's important here.
-Dialogue: 0,0:12:43.23,0:12:50.47,Default,,0,0,0,,{\pos(960,850)}If I try to put in 100% effort,\Nit'll just cause more trouble.
-Dialogue: 0,0:12:50.47,0:12:54.70,Default,,0,0,0,,{\pos(960,850)}I need to hold back a bit.
-Dialogue: 0,0:12:54.70,0:12:55.80,Default,,0,0,0,,{\i1}I'd better save this.{\i0}
-Dialogue: 0,0:12:56.17,0:13:03.68,Default - Top,,0,0,0,,Representative Director\NMasahiko Otsuka
-Dialogue: 0,0:13:03.88,0:13:06.15,Default,,0,0,0,,Our creators always say the same thing at first.
-Dialogue: 0,0:13:04.15,0:13:09.02,Default - Top,,0,0,0,,Director Kazuya Masumoto\NBoth with {\i1}Panty &{\i0} Stocking and {\i1}Gurren{\i0} Lagaan.
-Dialogue: 0,0:13:08.02,0:13:12.75,Default,,0,0,0,,Director Kazuya Masumoto \NThey say, "I had trouble last time, so this time I'll do it well!"
-Dialogue: 0,0:13:12.75,0:13:19.33,Default,,0,0,0,,It never turns out that way.\NEveryone's keyed up at the start.
-Dialogue: 0,0:13:20.06,0:13:24.30,Default,,0,0,0,,{\i1}We all know now how things turned out in the end.{\i0}
-Dialogue: 0,0:13:27.70,0:13:29.07,Default,,0,0,0,,{\i1}August 30th.{\i0}
-Dialogue: 0,0:13:29.74,0:13:32.51,Default,,0,0,0,,{\i1}About 2 weeks into animation drawing.{\i0}
-Dialogue: 0,0:13:33.58,0:13:39.51,Default,,0,0,0,,{\i1}The young animators at TRIGGER have\Nbeen wrestling with the layout stage.{\i0}
-Dialogue: 0,0:13:40.62,0:13:49.26,Default,,0,0,0,,{\i1}They use Director Yoshinari's storyboards and designs\Nas reference to produce a rough draft of each cut.{\i0}
-Dialogue: 0,0:13:50.89,0:13:51.06,Default,,0,0,0,,{\i1}At this point, there are no complete cuts.{\i0}
-Dialogue: 0,0:13:51.06,0:13:54.00,Default - overdub,,0,0,0,,{\pos(541,314)}Animator Count  Status of Cuts
+Dialogue: 0,0:12:06.12,0:12:11.33,Default - Top,,0,0,0,,{\pos(1426,1)}Лекции по авторскому праву и соглашениям
+Dialogue: 0,0:12:11.33,0:12:12.33,Default - Top,,0,0,0,,{\pos(1574,1)}Театральные мастер-классы (Acting Workshops)
+Dialogue: 0,0:12:12.33,0:12:20.14,Default,,0,0,0,,{\i1}Создание среды в которой молодые ключевые аниматоры смогут учиться и развиваться - приоритетная задача.{\i0}
+Dialogue: 0,0:12:23.37,0:12:28.84,Default,,0,0,0,,{\i1}Режиссеру Yoshinari задумался после встречи.{\i0}
+Dialogue: 0,0:12:32.28,0:12:35.45,Default,,0,0,0,,{\pos(960,850)}Государственное финансирование приходит вместе с обязательствами.
+Dialogue: 0,0:12:35.45,0:12:39.22,Default,,0,0,0,,{\pos(960,850)}Условия не для создания шедевра. (It's not for making the perfect film.)
+Dialogue: 0,0:12:39.22,0:12:42.62,Default,,0,0,0,,{\pos(960,850)}Здесь важнее обучение процессу создания аниме. (Teaching the creation process\Nis what's important here.)
+Dialogue: 0,0:12:43.23,0:12:50.47,Default,,0,0,0,,{\pos(960,850)}Если я буду требовать 100% отдачи - это только создаст больше проблем. (If I try to put in 100% effort,\Nit'll just cause more trouble.)
+Dialogue: 0,0:12:50.47,0:12:54.70,Default,,0,0,0,,{\pos(960,850)}Мне следует немного сбавить темп. (I need to hold back a bit.)
+Dialogue: 0,0:12:54.70,0:12:55.80,Default,,0,0,0,,{\i1}Поберечь их. (I'd better save this.){\i0}
+Dialogue: 0,0:12:56.17,0:13:03.68,Default - Top,,0,0,0,,Исполнительный директор\NMasahiko Otsuka
+Dialogue: 0,0:13:03.88,0:13:06.15,Default,,0,0,0,,Наши авторы (creators) всегда поначалу так говорят. (Our creators always say the same thing at first.)
+Dialogue: 0,0:13:04.15,0:13:09.02,Default - Top,,0,0,0,,Режиссер Kazuya Masumoto\NРаботал над {\i1}Panty & Stocking{\i0} и {\i1}Gurren Lagaan{\i0}.
+Dialogue: 0,0:13:08.02,0:13:12.75,Default,,0,0,0,,Режиссер Kazuya Masumoto \NОни говорят: "В прошлый раз были проблемы,но в этот раз все получится!" (They say, "I had trouble last time, so this time I'll do it well!")
+Dialogue: 0,0:13:12.75,0:13:19.33,Default,,0,0,0,,Но ничего не меняется.\NВсе уже взвинчены с самого начала.\N(It never turns out that way.\NEveryone's keyed up at the start.)
+Dialogue: 0,0:13:20.06,0:13:24.30,Default,,0,0,0,,{\i1}Но мы с вами знаем чем все обернулось в итоге.{\i0}
+Dialogue: 0,0:13:27.70,0:13:29.07,Default,,0,0,0,,{\i1}30-е августа{\i0}
+Dialogue: 0,0:13:29.74,0:13:32.51,Default,,0,0,0,,{\i1}Прошло около двух недель создания анимации. (About 2 weeks into animation drawing.){\i0}
+Dialogue: 0,0:13:33.58,0:13:39.51,Default,,0,0,0,,{\i1}Молодые аниматоры в компании TRIGGER столкнулись со сложностями на этапе планирования (??). (The young animators at TRIGGER have\Nbeen wrestling with the layout stage.){\i0}
+Dialogue: 0,0:13:40.62,0:13:49.26,Default,,0,0,0,,{\i1}Они используют режиссерские раскадровки и дизайн персонажей в качестве образца для каждого из кадров. (They use Director Yoshinari's storyboards and designs\Nas reference to produce a rough draft of each cut.){\i0}
+Dialogue: 0,0:13:50.89,0:13:53.80,Default,,0,0,0,,{\i1}На данный момент нет ни одной полностью готовой сцены. (At this point, there are no complete cuts.){\i0}
+Dialogue: 0,0:13:51.06,0:13:54.00,Default - overdub,,0,0,0,,{\pos(541,314)}Animator Count  Status of Cuts\NАниматор Число кадров Статус сцены
 Dialogue: 0,0:13:51.06,0:13:54.00,Default - Top Typsetting,,0,0,0,,{\pos(352,421)}Handa\N\N\N\N\N\N\N\NDendou\N\N\N\N\N\N\NKaneko\N\N\N\N\N\N\NSannomiya
-Dialogue: 0,0:13:51.06,0:13:53.26,Default,,0,0,0,,At this point, there are no complete cuts.
-Dialogue: 0,0:13:53.26,0:13:53.80,Default,,0,0,0,,{\i1}At this point, there are no complete cuts.{\i0}
-Dialogue: 0,0:13:53.80,0:13:58.37,Default,,0,0,0,,We {\i1}thought Director Yoshinari's\Nchecks might be too strict, but...{\i0}
+Dialogue: 0,0:13:53.80,0:13:58.37,Default,,0,0,0,,{\i1}Мы думали, что режиссер Yoshinari будет излишне строг, однако... (We thought Director Yoshinari's\Nchecks might be too strict, but...){\i0}
 Dialogue: 0,0:13:58.57,0:14:01.00,Default,,0,0,0,,I'll have my first cut checked today.
 Dialogue: 0,0:14:03.10,0:14:05.61,Default,,0,0,0,,{\i1}Is there a lot?{\i0}
 Dialogue: 0,0:14:05.61,0:14:08.91,Default,,0,0,0,,It took a long time.
