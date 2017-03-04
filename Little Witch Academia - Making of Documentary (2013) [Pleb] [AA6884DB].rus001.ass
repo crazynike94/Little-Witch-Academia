@@ -307,62 +307,62 @@ Dialogue: 0,0:24:27.50,0:24:30.03,Default,,0,0,0,,Хорошо! Оставляю
 Dialogue: 0,0:24:33.33,0:24:37.74,Default,,0,0,0,,{\i1}Рисунок, который сделал режиссер Yoshinari\N, был предназначен для этого.{\i0}
 Dialogue: 0,0:24:38.34,0:24:43.81,Default,,0,0,0,,{\i1}Он пояснял позиции\Nпяти героев и четырех камер.{\i0}
 Dialogue: 0,0:24:45.01,0:24:51.82,Default,,0,0,0,,{\i1}Так в сцене 268 камера находится между драконом и\Nучителем, фокус должен быть справа.{\i0}
-Dialogue: 0,0:24:52.19,0:24:57.96,Default,,0,0,0,,{\i1}Позиция камеры в сцене 263 горизонтальна and\Nсмотрит издалека, поэтому тут не должно быть никакого угла.{\i0}
-Dialogue: 0,0:24:58.63,0:25:04.67,Default,,0,0,0,,{\i1}В сцене 269 камера частично находится внутри \Nгруппы. Учитель показан под углом.{\i0}
+Dialogue: 0,0:24:52.19,0:24:57.96,Default,,0,0,0,,{\i1}Камера в сцене 263 снимает горизонтальна and\Nсмотрит издалека, поэтому тут не должно быть никакого угла.{\i0}
+Dialogue: 0,0:24:58.63,0:25:04.67,Default,,0,0,0,,{\i1}В сцене 269 камера находится практически внутри \Nгруппы. Учитель показан под углом.{\i0}
 Dialogue: 0,0:25:05.10,0:25:10.47,Default,,0,0,0,,{\i1}Только в сцене 271 есть несоответствие. Вы уже нашли его?{\i0}
 Dialogue: 0,0:25:12.04,0:25:15.98,Default,,0,0,0,,{\i1}Ты рисуешь, одновременно представляя\Nэто распределение в уме.{\i0}
 Dialogue: 0,0:25:15.98,0:25:20.18,Default,,0,0,0,,{\i1}Это еще один фундаментальный навык аниматора.{\i0}
-Dialogue: 0,0:25:20.45,0:25:23.75,Default,,0,0,0,,Do you agree with the advice?
-Dialogue: 0,0:25:23.75,0:25:30.29,Default,,0,0,0,,Yes, I can't believe I didn't realize it sooner.
-Dialogue: 0,0:25:31.79,0:25:35.03,Default,,0,0,0,,Will you be able to tell with more experience?
-Dialogue: 0,0:25:35.03,0:25:39.67,Default,,0,0,0,,Well, I don't really know yet.
-Dialogue: 0,0:25:39.67,0:25:45.14,Default,,0,0,0,,I couldn't tell without seeing them together.
-Dialogue: 0,0:25:49.34,0:25:55.98,Default,,0,0,0,,I hope I can do it eventually.
-Dialogue: 0,0:26:01.49,0:26:03.39,Default,,0,0,0,,{\i1}November 15th.{\i0}
-Dialogue: 0,0:26:03.69,0:26:08.40,Default,,0,0,0,,{\i1}It's the start of a lecture series\Nsponsored by Anime Mirai.{\i0}
-Dialogue: 0,0:26:10.63,0:26:13.77,Default,,0,0,0,,I'm not going to make it.
-Dialogue: 0,0:26:13.77,0:26:14.77,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:26:14.77,0:26:16.97,Default,,0,0,0,,If I don't do my work, I won't make it in time.
-Dialogue: 0,0:26:16.97,0:26:18.61,Default,,0,0,0,,I need to get it done.
-Dialogue: 0,0:26:20.17,0:26:26.85,Default,,0,0,0,,{\i1}He photocopied a layout sheet to work\Non during the few brief pauses.{\i0}
-Dialogue: 0,0:26:26.85,0:26:31.92,Default,,0,0,0,,{\i1}Mr. Sannomiya! You'd better\Nput that away once class starts!{\i0}
-Dialogue: 0,0:26:35.16,0:26:39.43,Default,,0,0,0,,{\i1}The third course in the series is a photography\Nlecture, followed by camera training.{\i0}
-Dialogue: 0,0:26:39.43,0:26:42.80,Default,,0,0,0,,{\i1}To learn how to compose scenes logically,{\i0}
-Dialogue: 0,0:26:42.80,0:26:48.07,Default,,0,0,0,,{\i1}they're learning how to do real photography\Nwith a single-lens reflex camera.{\i0}
-Dialogue: 0,0:26:48.67,0:26:55.34,Default - Top,,0,0,0,,Photographer\NKouji Suwa
-Dialogue: 0,0:26:49.34,0:26:58.38,Default,,0,0,0,,There's master focus, exposure, composition,\Nand equipment, and included with that is the lens angle.
-Dialogue: 0,0:26:58.38,0:27:02.18,Default,,0,0,0,,As these have had a great\Ninfluence on animation drawing,
-Dialogue: 0,0:27:02.18,0:27:06.42,Default,,0,0,0,,I'd say they have many elements in common.
-Dialogue: 0,0:27:07.86,0:27:11.73,Default,,0,0,0,,{\i1}After the lecture comes photography practice.{\i0}
-Dialogue: 0,0:27:11.73,0:27:17.00,Default,,0,0,0,,{\i1}Each of them carries a camera for\Na photography meet at a nearby shrine.{\i0}
-Dialogue: 0,0:27:26.91,0:27:32.38,Default,,0,0,0,,{\i1}Although they seem to be looking at the same scene,\Neach person has their own way of framing it.{\i0}
-Dialogue: 0,0:27:34.52,0:27:36.88,Default,,0,0,0,,{\i1}Mr. Handa, what are you photographing?{\i0}
-Dialogue: 0,0:27:36.88,0:27:39.72,Default,,0,0,0,,A botcho.
-Dialogue: 0,0:27:40.55,0:27:43.96,Default,,0,0,0,,Oh, "botcho" must be dialect.
-Dialogue: 0,0:27:43.96,0:27:44.99,Default,,0,0,0,,{\i1}What is it?{\i0}
-Dialogue: 0,0:27:44.99,0:27:46.39,Default,,0,0,0,,That bit sticking out.
-Dialogue: 0,0:27:46.39,0:27:47.66,Default,,0,0,0,,{\i1}Bit?{\i0}
-Dialogue: 0,0:27:50.20,0:27:52.93,Default,,0,0,0,,{\i1}You have a unique point of view.{\i0}
-Dialogue: 0,0:27:53.93,0:27:55.47,Default,,0,0,0,,Oh, not really.
-Dialogue: 0,0:28:01.61,0:28:08.88,Default,,0,0,0,,{\i1}Spending day after day stuck at their desks,\Nthey haven't been out in the sun like this in some time.{\i0}
-Dialogue: 0,0:28:08.88,0:28:12.29,Default,,0,0,0,,{\i1}It's a brief moment of freedom.{\i0}
-Dialogue: 0,0:28:12.55,0:28:14.06,Default,,0,0,0,,I'm gonna do more.
-Dialogue: 0,0:28:14.06,0:28:16.59,Default,,0,0,0,,Huh? Oh, not bad.
-Dialogue: 0,0:28:16.59,0:28:17.46,Default,,0,0,0,,What is it?
-Dialogue: 0,0:28:17.46,0:28:19.46,Default,,0,0,0,,I want to do more.
-Dialogue: 0,0:28:19.46,0:28:20.39,Default,,0,0,0,,Hey, what're you guys up to?
-Dialogue: 0,0:28:20.39,0:28:23.06,Default,,0,0,0,,Just some effects practice.
-Dialogue: 0,0:28:23.06,0:28:28.37,Default,,0,0,0,,What do you mean, practice?
-Dialogue: 0,0:28:29.94,0:28:31.81,Default,,0,0,0,,You're making a video?
-Dialogue: 0,0:28:32.27,0:28:33.51,Default,,0,0,0,,Broken into shots I guess.
-Dialogue: 0,0:28:33.51,0:28:35.41,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:28:37.95,0:28:40.61,Default,,0,0,0,,Oh! I get it now!
-Dialogue: 0,0:28:42.88,0:28:45.15,Default,,0,0,0,,Effects practice...
-Dialogue: 0,0:28:47.96,0:28:51.73,Default,,0,0,0,,I can't get the balance right.
-Dialogue: 0,0:28:54.20,0:28:56.93,Default,,0,0,0,,I want it to look good broken up.
-Dialogue: 0,0:28:56.93,0:29:00.30,Default,,0,0,0,,{\i1}Is this really going to help?{\i0}
-Dialogue: 0,0:29:04.04,0:29:08.64,Default,,0,0,0,,{\i1}Starting tomorrow, they'll be back at work in the studio.{\i0}
-Dialogue: 0,0:29:15.58,0:29:18.59,Default,,0,0,0,,{\i1}January 8th.{\i0}
+Dialogue: 0,0:25:20.45,0:25:23.75,Default,,0,0,0,,Ты согласен с советами?
+Dialogue: 0,0:25:23.75,0:25:30.29,Default,,0,0,0,,Да. Не могу поверить, что я не догадался раньше.
+Dialogue: 0,0:25:31.79,0:25:35.03,Default,,0,0,0,,Смог бы ты ответить, если бы у тебя было больше опыта?
+Dialogue: 0,0:25:35.03,0:25:39.67,Default,,0,0,0,,Ну... Пока еще не знаю.
+Dialogue: 0,0:25:39.67,0:25:45.14,Default,,0,0,0,,Не понимаю, когда не вижу как они расположены (Tsunagatteinai to jibun ni wa wakaranai desu ne).
+Dialogue: 0,0:25:49.34,0:25:55.98,Default,,0,0,0,,Было бы хорошо, если бы я мог. Надеюсь, однажды этот момент наступит. (Wakaru to ii desu ne. Wakatte ikitai naa)
+Dialogue: 0,0:26:01.49,0:26:03.39,Default,,0,0,0,,{\i1}15е Ноября.{\i0}
+Dialogue: 0,0:26:03.69,0:26:08.40,Default,,0,0,0,,{\i1}Начинается серия лекций,\Nспонсированная Anime Mirai.{\i0}
+Dialogue: 0,0:26:10.63,0:26:13.77,Default,,0,0,0,,Я не успею.
+Dialogue: 0,0:26:13.77,0:26:14.77,Default,,0,0,0,,Чем ты занят?
+Dialogue: 0,0:26:14.77,0:26:16.97,Default,,0,0,0,,Если я не буду работать, я не успею.
+Dialogue: 0,0:26:16.97,0:26:18.61,Default,,0,0,0,,Мне нужно закончить.
+Dialogue: 0,0:26:20.17,0:26:26.85,Default,,0,0,0,,{\i1}Он отксерокопировал layout sheet чтобы\Nпродолжать работу во время кратковременных пауз.{\i0}
+Dialogue: 0,0:26:26.85,0:26:31.92,Default,,0,0,0,,{\i1}Мистер Sannomiya! Когда лекция начнется,\Nвам лучше отложить листок!{\i0}
+Dialogue: 0,0:26:35.16,0:26:39.43,Default,,0,0,0,,{\i1}Третий урок посвящен лекции по\Nфотографии, после которой будет практика обращения с камерой.{\i0}
+Dialogue: 0,0:26:39.43,0:26:42.80,Default,,0,0,0,,{\i1}Для того, чтобы научится логично составлять сцены,{\i0}
+Dialogue: 0,0:26:42.80,0:26:48.07,Default,,0,0,0,,{\i1}они будут снимать фотографии обычной зеркальной камерой{\i0}
+Dialogue: 0,0:26:48.67,0:26:55.34,Default - Профессиональный,,0,0,0,,Фотограф\NKouji Suwa
+Dialogue: 0,0:26:49.34,0:26:58.38,Default,,0,0,0,,Существует искусство фокусировки, выдержки (exposure), композиции,\N обращения с оборудованием, а так же угла изображения объектива (lens angle).
+Dialogue: 0,0:26:58.38,0:27:02.18,Default,,0,0,0,,Они задействованы и в\N процессе рисования анимации.
+Dialogue: 0,0:27:02.18,0:27:06.42,Default,,0,0,0,,Я бы сказал, у них много общего.
+Dialogue: 0,0:27:07.86,0:27:11.73,Default,,0,0,0,,{\i1}После лекции начинается практическая часть.{\i0}
+Dialogue: 0,0:27:11.73,0:27:17.00,Default,,0,0,0,,{\i1}Держа камеры,\N они отправляются фотографировать к соседнему храму.(Английский саб здесь слово в слово повторяет оригинал, но плохо переводится){\i0}
+Dialogue: 0,0:27:26.91,0:27:32.38,Default,,0,0,0,,{\i1}Несмотря на то, про перед ними один и тот же пейзаж,\Nкаждый видит его по разному.{\i0}
+Dialogue: 0,0:27:34.52,0:27:36.88,Default,,0,0,0,,{\i1}Handa, что ты снимаешь?{\i0}
+Dialogue: 0,0:27:36.88,0:27:39.72,Default,,0,0,0,,Ботчо.
+Dialogue: 0,0:27:40.55,0:27:43.96,Default,,0,0,0,,"Ботчо"? Это диалект?.
+Dialogue: 0,0:27:43.96,0:27:44.99,Default,,0,0,0,,{\i1}Что это?{\i0}
+Dialogue: 0,0:27:44.99,0:27:46.39,Default,,0,0,0,,Та часть, которая торчит.
+Dialogue: 0,0:27:46.39,0:27:47.66,Default,,0,0,0,,{\i1}Часть?{\i0}
+Dialogue: 0,0:27:50.20,0:27:52.93,Default,,0,0,0,,{\i1}У тебя оригинальное видение.{\i0}
+Dialogue: 0,0:27:53.93,0:27:55.47,Default,,0,0,0,,Да? Да ладно.
+Dialogue: 0,0:28:01.61,0:28:08.88,Default,,0,0,0,,{\i1}Проводя день за днем за своим рабочим столом,\Nони давно уже не были столько времени на свежем воздухе.{\i0}
+Dialogue: 0,0:28:08.88,0:28:12.29,Default,,0,0,0,,{\i1}Короткий момент свободы.{\i0}
+Dialogue: 0,0:28:12.55,0:28:14.06,Default,,0,0,0,,Хочу еще поснимать .
+Dialogue: 0,0:28:14.06,0:28:16.59,Default,,0,0,0,,О, неплохо.
+Dialogue: 0,0:28:16.59,0:28:17.46,Default,,0,0,0,,Что там?
+Dialogue: 0,0:28:17.46,0:28:19.46,Default,,0,0,0,,Еще поснимать бы.
+Dialogue: 0,0:28:19.46,0:28:20.39,Default,,0,0,0,,Эй, что вы собрались делать?
+Dialogue: 0,0:28:20.39,0:28:23.06,Default,,0,0,0,,Небольшая практика спецэффектов.
+Dialogue: 0,0:28:23.06,0:28:28.37,Default,,0,0,0,,Что? Каких спецэффектов?
+Dialogue: 0,0:28:29.94,0:28:31.81,Default,,0,0,0,,Ты снимаешь на видео?
+Dialogue: 0,0:28:32.27,0:28:33.51,Default,,0,0,0,,Разбитое на снимки, полагаю?
+Dialogue: 0,0:28:33.51,0:28:35.41,Default,,0,0,0,,Итак.
+Dialogue: 0,0:28:37.95,0:28:40.61,Default,,0,0,0,,А! Теперь понял!
+Dialogue: 0,0:28:42.88,0:28:45.15,Default,,0,0,0,,Практика спецэффектов...
+Dialogue: 0,0:28:47.96,0:28:51.73,Default,,0,0,0,,Не могу добиться правильного баланса.
+Dialogue: 0,0:28:54.20,0:28:56.93,Default,,0,0,0,,Хочу чтобы по отдельности красиво смотрелось.
+Dialogue: 0,0:28:56.93,0:29:00.30,Default,,0,0,0,,{\i1}Это действительно поможет?{\i0}
+Dialogue: 0,0:29:04.04,0:29:08.64,Default,,0,0,0,,{\i1}Завтра опять, они вернуться к работе в студии.{\i0}
+Dialogue: 0,0:29:15.58,0:29:18.59,Default,,0,0,0,,{\i1}8е января.{\i0}
 Dialogue: 0,0:29:18.59,0:29:24.29,Default,,0,0,0,,{\i1}After the new year, TRIGGER moved to \Na different floor of the same building.{\i0}
 Dialogue: 0,0:29:24.29,0:29:27.23,Default,,0,0,0,,{\i1}They're still in the middle of tidying up.{\i0}
 Dialogue: 0,0:29:29.60,0:29:30.66,Default,,0,0,0,,{\i1}Happy New Year.{\i0}
