@@ -284,34 +284,34 @@ Dialogue: 0,0:22:08.36,0:22:11.09,Default,,0,0,0,,{\i1}The yellow tags are compl
 Dialogue: 0,0:22:11.09,0:22:15.53,Default,,0,0,0,,{\i1}According to the schedule, half of these\Ncuts should be yellow by now.{\i0}
 Dialogue: 0,0:22:15.63,0:22:21.40,Default,,0,0,0,,{\i1}But the youngsters have only\Ngotten the OK for one cut apiece.{\i0}
 Dialogue: 0,0:22:21.40,0:22:27.14,Default,,0,0,0,,{\i1}Four of the five are having trouble\Nprogressing beyond the layout stage.{\i0}
-Dialogue: 0,0:22:28.68,0:22:32.28,Default,,0,0,0,,{\i1}One of them, Mr. Dendou, is getting feedback.{\i0}
-Dialogue: 0,0:22:35.72,0:22:39.79,Default,,0,0,0,,{\i1}The corrections are for dialogue cuts\Nwhich have hardly any movement.{\i0}
-Dialogue: 0,0:22:39.79,0:22:42.39,Default,,0,0,0,,{\i1}What could be wrong with them?{\i0}
-Dialogue: 0,0:22:43.06,0:22:47.76,Default,,0,0,0,,{\i1}The answer lies in this diagram by Director Yoshinari.{\i0}
-Dialogue: 0,0:23:02.04,0:23:03.21,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:23:11.75,0:23:13.86,Default,,0,0,0,,{\i1}What advice did you get?{\i0}
-Dialogue: 0,0:23:13.86,0:23:20.46,Default,,0,0,0,,The position and perspective\Nof the characters are a bit off.
-Dialogue: 0,0:23:20.46,0:23:28.00,Default,,0,0,0,,Also the angle's not what the storyboard intended.
-Dialogue: 0,0:23:28.04,0:23:33.41,Default,,0,0,0,,I originally had the camera above,
-Dialogue: 0,0:23:33.41,0:23:39.45,Default,,0,0,0,,but it's actually better to use a lower angle.
-Dialogue: 0,0:23:39.45,0:23:44.55,Default,,0,0,0,,And due to the positions, her eyes\Nshould look towards the right.
-Dialogue: 0,0:23:44.55,0:23:47.86,Default,,0,0,0,,I had her looking towards the left.
-Dialogue: 0,0:23:47.86,0:23:53.09,Default,,0,0,0,,{\i1}I see, it's more focused to the center this way.{\i0}
-Dialogue: 0,0:23:53.09,0:23:57.10,Default,,0,0,0,,The target dragon is over here.
-Dialogue: 0,0:23:57.10,0:24:03.50,Default,,0,0,0,,Based on these positions, the target\Nshould be here, but I have it here.
-Dialogue: 0,0:24:03.50,0:24:09.38,Default,,0,0,0,,They're facing this way, with the camera\Nabove them, and it's incorrect.
-Dialogue: 0,0:24:13.08,0:24:18.65,Default,,0,0,0,,{\i1}The teacher is gazing up at the rampaging dragon,\Nwhile Akko and the other students are between them.{\i0}
-Dialogue: 0,0:24:18.65,0:24:23.16,Default,,0,0,0,,{\i1}To show the back and forth of multiple\Ncharacters talking to each other,{\i0}
-Dialogue: 0,0:24:23.29,0:24:27.50,Default,,0,0,0,,{\i1}you need a firm grasp of the\Nrelationships between their positions.{\i0}
-Dialogue: 0,0:24:27.50,0:24:30.03,Default,,0,0,0,,Right! Well, I leave it to you!
-Dialogue: 0,0:24:33.33,0:24:37.74,Default,,0,0,0,,{\i1}The diagram that Director Yoshinari\Nmade was for this purpose.{\i0}
-Dialogue: 0,0:24:38.34,0:24:43.81,Default,,0,0,0,,{\i1}It shows the positioning of\Nthe five characters and the four cameras.{\i0}
-Dialogue: 0,0:24:45.01,0:24:51.82,Default,,0,0,0,,{\i1}Since cut 268 has the camera between the dragon and\Nthe teacher, the focus should be towards the right.{\i0}
-Dialogue: 0,0:24:52.19,0:24:57.96,Default,,0,0,0,,{\i1}The camera position in cut 263 is horizontal and\Nat a distance, so there's almost no angling.{\i0}
-Dialogue: 0,0:24:58.63,0:25:04.67,Default,,0,0,0,,{\i1}Cut 269 has the camera partially inside the\Ngroup. The teacher is shown obliquely.{\i0}
-Dialogue: 0,0:25:05.10,0:25:10.47,Default,,0,0,0,,{\i1}Only cut 271 has a mismatch. Can you spot it?{\i0}
-Dialogue: 0,0:25:12.04,0:25:15.98,Default,,0,0,0,,{\i1}You draw while visualizing\Nthis arrangement in your head.{\i0}
-Dialogue: 0,0:25:15.98,0:25:20.18,Default,,0,0,0,,{\i1}This is another fundamental skill for animators.{\i0}
+Dialogue: 0,0:22:28.68,0:22:32.28,Default,,0,0,0,,{\i1}Один из них, Mr. Dendou, получает указания.{\i0}
+Dialogue: 0,0:22:35.72,0:22:39.79,Default,,0,0,0,,{\i1}Исправления касаются сцен с диалогами,\Nв которых не так много движений.{\i0}
+Dialogue: 0,0:22:39.79,0:22:42.39,Default,,0,0,0,,{\i1}Так что же с ними не так?{\i0}
+Dialogue: 0,0:22:43.06,0:22:47.76,Default,,0,0,0,,{\i1}Ответ находится на рисунке режиссера Yoshinari.{\i0}
+Dialogue: 0,0:23:02.04,0:23:03.21,Default,,0,0,0,,Спасибо.
+Dialogue: 0,0:23:11.75,0:23:13.86,Default,,0,0,0,,{\i1}Что за совет ты получил?{\i0}
+Dialogue: 0,0:23:13.86,0:23:20.46,Default,,0,0,0,,Позиция и перспектива\N героев должна быть немного другой.(chigatte iru)
+Dialogue: 0,0:23:20.46,0:23:28.00,Default,,0,0,0,,Так же, угол обзора отличается от (storyboard).
+Dialogue: 0,0:23:28.04,0:23:33.41,Default,,0,0,0,,У меня, изначально, камера смотрела сверху,
+Dialogue: 0,0:23:33.41,0:23:39.45,Default,,0,0,0,,но лучше было бы показать сцену с более нижнего ракурса.
+Dialogue: 0,0:23:39.45,0:23:44.55,Default,,0,0,0,,И из-за позиции, ее глаза\N должны смотреть вправо.
+Dialogue: 0,0:23:44.55,0:23:47.86,Default,,0,0,0,,У меня они были направлены влево.
+Dialogue: 0,0:23:47.86,0:23:53.09,Default,,0,0,0,,{\i1}Ясно, теперь она смотрит как бы перед собой.{\i0}
+Dialogue: 0,0:23:53.09,0:23:57.10,Default,,0,0,0,,Дракон находится вон там.
+Dialogue: 0,0:23:57.10,0:24:03.50,Default,,0,0,0,,Исходя из позиции, дракон\Nдолжен быть здесь, но у меня он был здесь.
+Dialogue: 0,0:24:03.50,0:24:09.38,Default,,0,0,0,,Персонажи смотрят в эту сторону и камера\Nснимает их сверху,а это неправильно.
+Dialogue: 0,0:24:13.08,0:24:18.65,Default,,0,0,0,,{\i1}Учитель смотрит на вышедшего из под контроля дракона,\Nв то время как Акко и другие учащиеся находятся между ними (?).{\i0}
+Dialogue: 0,0:24:18.65,0:24:23.16,Default,,0,0,0,,{\i1}Чтобы показать с разных сторон большое\Nколичество героев, разговаривающих друг с другом,{\i0}
+Dialogue: 0,0:24:23.29,0:24:27.50,Default,,0,0,0,,{\i1}необходимо хорошее понимание \Nвзаимного расположения их позиций.{\i0}
+Dialogue: 0,0:24:27.50,0:24:30.03,Default,,0,0,0,,Хорошо! Оставляю это на вас!
+Dialogue: 0,0:24:33.33,0:24:37.74,Default,,0,0,0,,{\i1}Рисунок, который сделал режиссер Yoshinari\N, был предназначен для этого.{\i0}
+Dialogue: 0,0:24:38.34,0:24:43.81,Default,,0,0,0,,{\i1}Он пояснял позиции\Nпяти героев и четырех камер.{\i0}
+Dialogue: 0,0:24:45.01,0:24:51.82,Default,,0,0,0,,{\i1}Так в сцене 268 камера находится между драконом и\Nучителем, фокус должен быть справа.{\i0}
+Dialogue: 0,0:24:52.19,0:24:57.96,Default,,0,0,0,,{\i1}Позиция камеры в сцене 263 горизонтальна and\Nсмотрит издалека, поэтому тут не должно быть никакого угла.{\i0}
+Dialogue: 0,0:24:58.63,0:25:04.67,Default,,0,0,0,,{\i1}В сцене 269 камера частично находится внутри \Nгруппы. Учитель показан под углом.{\i0}
+Dialogue: 0,0:25:05.10,0:25:10.47,Default,,0,0,0,,{\i1}Только в сцене 271 есть несоответствие. Вы уже нашли его?{\i0}
+Dialogue: 0,0:25:12.04,0:25:15.98,Default,,0,0,0,,{\i1}Ты рисуешь, одновременно представляя\Nэто распределение в уме.{\i0}
+Dialogue: 0,0:25:15.98,0:25:20.18,Default,,0,0,0,,{\i1}Это еще один фундаментальный навык аниматора.{\i0}
 Dialogue: 0,0:25:20.45,0:25:23.75,Default,,0,0,0,,Do you agree with the advice?
 Dialogue: 0,0:25:23.75,0:25:30.29,Default,,0,0,0,,Yes, I can't believe I didn't realize it sooner.
 Dialogue: 0,0:25:31.79,0:25:35.03,Default,,0,0,0,,Will you be able to tell with more experience?
