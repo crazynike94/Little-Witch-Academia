@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 185
-Active Line: 189
-Video Position: 26665
+Scroll Position: 208
+Active Line: 213
+Video Position: 32671
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -219,30 +219,30 @@ Dialogue: 0,0:14:08.91,0:14:11.18,Default,,0,0,0,,Очень много. (A lot 
 Dialogue: 0,0:14:13.65,0:14:18.85,Default,,0,0,0,,{\i1}Даже после этого Mr. Handa проверяет и перепроверяет кадры раз за разом. (Even after that, Mr. Handa\Nrechecks over and over again.){\i0}
 Dialogue: 0,0:14:20.89,0:14:26.23,Default,,0,0,0,,{\i1}Было довольно поздно, когда он наконец почувствовал, что готов показать работу. (It was well into the evening when he\Nfinally felt ready to present his cut.){\i0}
 Dialogue: 0,0:14:45.28,0:14:49.72,Default,,0,0,0,,{\pos(960,950)}Ты мог бы применить больше глубины. (You might have applied too much depth.)
-Dialogue: 0,0:14:49.72,0:14:52.82,Default,,0,0,0,,{\pos(960,950)}Даже если Even if the captured screen is small...
-Dialogue: 0,0:14:52.82,0:14:55.32,Default,,0,0,0,,{\pos(960,950)}Wait a moment.
-Dialogue: 0,0:15:25.15,0:15:30.19,Default,,0,0,0,,{\pos(960,950)}See, her hips go down in this part,
-Dialogue: 0,0:15:30.19,0:15:33.93,Default,,0,0,0,,{\pos(960,950)}but earlier she held this pose the whole\Ntime, even when bending forward,
-Dialogue: 0,0:15:33.93,0:15:41.17,Default,,0,0,0,,{\pos(960,870)}so make the flow here more like this. Then when\Nshe's putting force into it, turn more to this side.
-Dialogue: 0,0:15:41.17,0:15:49.68,Default,,0,0,0,,{\pos(960,870)}If you don't create flow, the sense\Nof force doesn't come through.
-Dialogue: 0,0:15:49.68,0:16:00.26,Default,,0,0,0,,{\pos(960,870)}Also, it'd be good if you\Nmodulated her pose changes more.
-Dialogue: 0,0:16:09.90,0:16:18.01,Default,,0,0,0,,{\pos(960,870)}Instead of moving in a straight line,\Ndo it more circular...
-Dialogue: 0,0:16:18.01,0:16:22.34,Default,,0,0,0,,{\pos(960,870)}That way feels better?
-Dialogue: 0,0:16:24.58,0:16:31.05,Default,,0,0,0,,{\i1}The greatest corrections are for the movement\Nof her hip as she raises herself up.{\i0}
-Dialogue: 0,0:16:31.05,0:16:32.29,Default,,0,0,0,,In that case!
-Dialogue: 0,0:16:32.75,0:16:39.66,Default,,0,0,0,,{\i1}These are the two cuts in the second half of the story\Nwhere Akko grabs the sorcerer's stone and slides away.{\i0}
-Dialogue: 0,0:16:41.13,0:16:46.17,Default,,0,0,0,,{\i1}She stands up from a seated position, then\Ndashes while still partially bent over.{\i0}
-Dialogue: 0,0:16:46.17,0:16:50.67,Default,,0,0,0,,{\i1}She slides, grabs the sorcerer's stone,\Nthen gets up again.{\i0}
-Dialogue: 0,0:16:52.34,0:16:58.35,Default,,0,0,0,,{\i1}The shape of her back when\Nstanding is the point of this correction.{\i0}
-Dialogue: 0,0:16:58.35,0:17:03.95,Default,,0,0,0,,{\i1}While running, her hips are low,\Nand her back is arched downward.{\i0}
-Dialogue: 0,0:17:03.95,0:17:09.89,Default,,0,0,0,,{\i1}Her back rounds only at the moment when she\Nstands up, then returns to the previous posture.{\i0}
-Dialogue: 0,0:17:09.89,0:17:13.83,Default,,0,0,0,,{\i1}By doing so, instead of letting\Nenergy escape as she stands,{\i0}
-Dialogue: 0,0:17:13.83,0:17:18.97,Default,,0,0,0,,{\i1}it gets transmitted through her back\Nto create a sense of driving force.{\i0}
-Dialogue: 0,0:17:26.47,0:17:35.48,Default,,0,0,0,,I hadn't really considered that\Nstuff about energy escaping before.
-Dialogue: 0,0:17:50.30,0:17:52.37,Default,,0,0,0,,It's different.
-Dialogue: 0,0:17:52.37,0:17:54.60,Default,,0,0,0,,Completely different.
-Dialogue: 0,0:17:54.60,0:17:58.44,Default,,0,0,0,,The whole feel of the scene...
-Dialogue: 0,0:18:05.98,0:18:09.68,Default,,0,0,0,,is just better.
+Dialogue: 0,0:14:49.72,0:14:52.82,Default,,0,0,0,,{\pos(960,950)}Даже если активный кадр (??) небольшой... (Even if the captured screen is small...)
+Dialogue: 0,0:14:52.82,0:14:55.32,Default,,0,0,0,,{\pos(960,950)}Погоди минуту. (Wait a moment.)
+Dialogue: 0,0:15:25.15,0:15:30.19,Default,,0,0,0,,{\pos(960,950)}Видишь, ее поясница опускается в этом месте, (See, her hips go down in this part,)
+Dialogue: 0,0:15:30.19,0:15:33.93,Default,,0,0,0,,{\pos(960,950)}но прежде она занимала эту позу все время, даже во время наклона вперед, (but earlier she held this pose the whole\Ntime, even when bending forward,)
+Dialogue: 0,0:15:33.93,0:15:41.17,Default,,0,0,0,,{\pos(960,870)}поэтому покажи движение в этом месте вот так. Когда она делает усилие наклони ее чуть в сторону. (so make the flow here more like this. Then when\Nshe's putting force into it, turn more to this side.)
+Dialogue: 0,0:15:41.17,0:15:49.68,Default,,0,0,0,,{\pos(960,870)}Если ты не покажешь само движение - не будет ощущения усилия (силы?). (If you don't create flow, the sense\Nof force doesn't come through.)
+Dialogue: 0,0:15:49.68,0:16:00.26,Default,,0,0,0,,{\pos(960,870)}Кроме того не помешало бы изменить ее позу еще больше. (Also, it'd be good if you\Nmodulated her pose changes more.)
+Dialogue: 0,0:16:09.90,0:16:18.01,Default,,0,0,0,,{\pos(960,870)}Вместо прямолинейного сделай ее движение более круговым (окружным?)... (Instead of moving in a straight line,\Ndo it more circular...)
+Dialogue: 0,0:16:18.01,0:16:22.34,Default,,0,0,0,,{\pos(960,870)}Так ведь лучше? (That way feels better?)
+Dialogue: 0,0:16:24.58,0:16:31.05,Default,,0,0,0,,{\i1}Самые большие изменения претерпели движение ее бедер, когда она поднимается. (The greatest corrections are for the movement\Nof her hip as she raises herself up.){\i0}
+Dialogue: 0,0:16:31.05,0:16:32.29,Default,,0,0,0,,Ну раз так!
+Dialogue: 0,0:16:32.75,0:16:39.66,Default,,0,0,0,,{\i1}В этих двух кадрах во второй половине истории (фильма?), где Акко хватает философский камень и ускальзает прочь. (These are the two cuts in the second half of the story\Nwhere Akko grabs the sorcerer's stone and slides away.){\i0}
+Dialogue: 0,0:16:41.13,0:16:46.17,Default,,0,0,0,,{\i1}Она встает из сидячего положения, затем бежит до тех пор, пока не наклоняется. (She stands up from a seated position, then\Ndashes while still partially bent over.){\i0}
+Dialogue: 0,0:16:46.17,0:16:50.67,Default,,0,0,0,,{\i1}Она скользит, хватает философский камень и снова бежит. (She slides, grabs the sorcerer's stone,\Nthen gets up again.){\i0}
+Dialogue: 0,0:16:52.34,0:16:58.35,Default,,0,0,0,,{\i1}Целью исправлений была форма ее спины в момент подъема. (The shape of her back when\Nstanding is the point of this correction.){\i0}
+Dialogue: 0,0:16:58.35,0:17:03.95,Default,,0,0,0,,{\i1}Во время бега ее бедра опущены, а спина выгнута вперед. (While running, her hips are low,\Nand her back is arched downward.){\i0}
+Dialogue: 0,0:17:03.95,0:17:09.89,Default,,0,0,0,,{\i1}Ее спина округляется только в тот момент, когда она встает, затем она возвращается к предыдущей позе (осанке?). (Her back rounds only at the moment when she\Nstands up, then returns to the previous posture.){\i0}
+Dialogue: 0,0:17:09.89,0:17:13.83,Default,,0,0,0,,{\i1}Таким образом вместо того, чтобы рассеить энергию при подъеме (By doing so, instead of letting\Nenergy escape as she stands,){\i0}
+Dialogue: 0,0:17:13.83,0:17:18.97,Default,,0,0,0,,{\i1}она передается ее спине, создавая ощущение движещей силы. (it gets transmitted through her back\Nto create a sense of driving force.){\i0}
+Dialogue: 0,0:17:26.47,0:17:35.48,Default,,0,0,0,,На самом деле раньше я не задумывался о распределении энергии. (I hadn't really considered that\Nstuff about energy escaping before.)
+Dialogue: 0,0:17:50.30,0:17:52.37,Default,,0,0,0,,Теперь все иначе. (It's different.)
+Dialogue: 0,0:17:52.37,0:17:54.60,Default,,0,0,0,,Совсем по-другому. (Completely different.)
+Dialogue: 0,0:17:54.60,0:17:58.44,Default,,0,0,0,,В целом ощущении от сцены... (The whole feel of the scene...)
+Dialogue: 0,0:18:05.98,0:18:09.68,Default,,0,0,0,,Стало лучше. (is just better.)
 Dialogue: 0,0:18:10.12,0:18:14.82,Default,,0,0,0,,The picture is just different.
 Dialogue: 0,0:18:36.04,0:18:40.52,Default,,0,0,0,,{\i1}He keenly feels the difference in skill between\Nhimself and Director Yoshinari.{\i0}
 Dialogue: 0,0:18:40.52,0:18:43.35,Default,,0,0,0,,{\i1}It's the first of many days of anguish.{\i0}
