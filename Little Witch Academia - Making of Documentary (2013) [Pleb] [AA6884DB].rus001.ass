@@ -448,27 +448,27 @@ Dialogue: 0,0:36:27.15,0:36:31.95,Default,,0,0,0,,Это заставляет м
 Dialogue: 0,0:36:42.16,0:36:45.10,Default,,0,0,0,,И это тяжело.
 Dialogue: 0,0:36:49.00,0:36:54.47,Default,,0,0,0,,{\i1}Молодежь продолжает повторять слово "гений".{\i0}
 Dialogue: 0,0:36:54.47,0:36:58.71,Default,,0,0,0,,{\i1}Но как же выглядит работа гения?{\i0}
-Dialogue: 0,0:36:58.71,0:37:04.79,Default,,0,0,0,,{\i1}Here Director Yoshinari is busy correcting layouts.{\i0}
-Dialogue: 0,0:37:05.95,0:37:10.69,Default,,0,0,0,,{\i1}Like before, we set up a fixed\Ncamera to record him as he works.{\i0}
-Dialogue: 0,0:37:11.96,0:37:17.50,Default,,0,0,0,,{\i1}What's the secret behind\Nthe renowned "Yoshinari Animation"?{\i0}
-Dialogue: 0,0:37:22.07,0:37:30.04,Default,,0,0,0,,{\i1}As we watch him work, we're surprised\Nat the lack of indecision in his lines.{\i0}
-Dialogue: 0,0:37:30.04,0:37:32.81,Default,,0,0,0,,{\i1}He hardly uses the eraser.{\i0}
-Dialogue: 0,0:37:32.81,0:37:40.22,Default,,0,0,0,,{\i1}He also flips through the drawings much\Nless often than the youngsters.{\i0}
-Dialogue: 0,0:37:40.22,0:37:48.63,Default,,0,0,0,,{\i1}He progresses before our eyes, as if the drawing\Nwere already finished inside his head.{\i0}
-Dialogue: 0,0:38:09.88,0:38:12.82,Default,,0,0,0,,{\i1}He seems to have found a problem.{\i0}
-Dialogue: 0,0:38:12.82,0:38:17.62,Default,,0,0,0,,{\i1}He's correcting the placement\Nof this sheet with Akko running.{\i0}
-Dialogue: 0,0:38:17.62,0:38:23.13,Default,,0,0,0,,{\i1}He cuts off the top part with the holes,\Nslides it over, then reattaches it.{\i0}
-Dialogue: 0,0:38:23.13,0:38:27.90,Default,,0,0,0,,{\i1}It's an old technique for working more efficiently.{\i0}
-Dialogue: 0,0:38:33.37,0:38:39.68,Default,,0,0,0,,{\i1}These are 9 seconds of cuts that\NMr. Sannomiya agonized over for two days.{\i0}
-Dialogue: 0,0:38:39.68,0:38:44.95,Default,,0,0,0,,{\i1}Marking up nearly all the\Ndrawings took him a mere 4 hours.{\i0}
-Dialogue: 0,0:38:48.12,0:38:52.03,Default,,0,0,0,,{\i1}These are the final corrections\Nto Mr. Sannomiya's portion.{\i0}
-Dialogue: 0,0:38:52.89,0:38:58.63,Default,,0,0,0,,{\i1}In all, three cuts have been sent back to him.{\i0}
-Dialogue: 0,0:39:10.31,0:39:12.25,Default,,0,0,0,,All I can say is I feel bad.
-Dialogue: 0,0:39:12.25,0:39:13.51,Default,,0,0,0,,I'm grateful.
-Dialogue: 0,0:39:17.22,0:39:20.62,Default,,0,0,0,,Whenever someone revises my work,
-Dialogue: 0,0:39:20.62,0:39:25.59,Default,,0,0,0,,I assume that they'll return\Nit completely different.
-Dialogue: 0,0:39:25.59,0:39:31.87,Default,,0,0,0,,But Mr. Yoshinari incorporated my idea,\Ninstead of abandoning it.
-Dialogue: 0,0:39:32.10,0:39:37.64,Default,,0,0,0,,I personally find that very hard to do.
+Dialogue: 0,0:36:58.71,0:37:04.79,Default,,0,0,0,,{\i1}Сейчас режиссер Yoshinari занят исправлением layouts.{\i0}
+Dialogue: 0,0:37:05.95,0:37:10.69,Default,,0,0,0,,{\i1}Мы снова устанавливаем камеру,\N чтобы запечатлить процесс его работы.{\i0}
+Dialogue: 0,0:37:11.96,0:37:17.50,Default,,0,0,0,,{\i1}Что же за секрет стоит за\N знаменитой "анимацией Yoshinari"?{\i0}
+Dialogue: 0,0:37:22.07,0:37:30.04,Default,,0,0,0,,{\i1}Удивительно,\Nкак мало неопределенности в его штрихах.{\i0}
+Dialogue: 0,0:37:30.04,0:37:32.81,Default,,0,0,0,,{\i1}Он практически не использует ластик.{\i0}
+Dialogue: 0,0:37:32.81,0:37:40.22,Default,,0,0,0,,{\i1}Так же, он намного реже, чем молодые аниматоры,\N листает свою работу.{\i0}
+Dialogue: 0,0:37:40.22,0:37:48.63,Default,,0,0,0,,{\i1}Он рисует на наших глазах, в то время как картина\Nв его воображении уже завершена.{\i0}
+Dialogue: 0,0:38:09.88,0:38:12.82,Default,,0,0,0,,{\i1}Похоже, он обнаружил проблему.{\i0}
+Dialogue: 0,0:38:12.82,0:38:17.62,Default,,0,0,0,,{\i1}Он исправляет положение\N листа с бегущей Акко.{\i0}
+Dialogue: 0,0:38:17.62,0:38:23.13,Default,,0,0,0,,{\i1}Отрезает верхнюю часть с отверстиями,\Nвставляет ее, а затем перезакрепляет.{\i0}
+Dialogue: 0,0:38:23.13,0:38:27.90,Default,,0,0,0,,{\i1}Старая техника для более эффективной работы.{\i0}
+Dialogue: 0,0:38:33.37,0:38:39.68,Default,,0,0,0,,{\i1}Это те 9 секунд сцен, над которыми Mr. Sannomiya страдал в течение двух дней.{\i0}
+Dialogue: 0,0:38:39.68,0:38:44.95,Default,,0,0,0,,{\i1}Правка практически всех\Nрисунков заняла у него всего 4 часа.{\i0}
+Dialogue: 0,0:38:48.12,0:38:52.03,Default,,0,0,0,,{\i1}Это окончательные исправления\Nв части мистера Sannomiya.{\i0}
+Dialogue: 0,0:38:52.89,0:38:58.63,Default,,0,0,0,,{\i1}В результате, три сцены отправлены ему обратно.{\i0}
+Dialogue: 0,0:39:10.31,0:39:12.25,Default,,0,0,0,,Я чувствую себя виноватым, это все, что я могу сказать.
+Dialogue: 0,0:39:12.25,0:39:13.51,Default,,0,0,0,,Я благодарен.
+Dialogue: 0,0:39:17.22,0:39:20.62,Default,,0,0,0,,Когда кто-то исправляет мою работу,
+Dialogue: 0,0:39:20.62,0:39:25.59,Default,,0,0,0,,я уже готов к тому, что мне ее\N вернут полностью другой.
+Dialogue: 0,0:39:25.59,0:39:31.87,Default,,0,0,0,,Но Mr. Yoshinari принял мои идеи,\Nвместо того, чтобы выбросить их.
+Dialogue: 0,0:39:32.10,0:39:37.64,Default,,0,0,0,,Мне лично, кажется, что это очень непросто.
 Dialogue: 0,0:39:39.67,0:39:44.58,Default,,0,0,0,,{\i1}The part where Diana kicks off from\Nthe wall was not in the storyboard.{\i0}
 Dialogue: 0,0:39:44.58,0:39:47.11,Default,,0,0,0,,{\i1}It was Mr. Sannomiya's original idea.{\i0}
 Dialogue: 0,0:39:48.72,0:39:54.49,Default,,0,0,0,,{\i1}If we compare them, Director Yoshinari\Nhardly changes the base poses.{\i0}
