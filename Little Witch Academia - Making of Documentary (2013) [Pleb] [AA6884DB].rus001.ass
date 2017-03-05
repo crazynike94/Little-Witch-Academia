@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 178
-Active Line: 186
-Video Position: 25584
+Scroll Position: 185
+Active Line: 189
+Video Position: 26665
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -212,14 +212,14 @@ Dialogue: 0,0:13:50.89,0:13:53.80,Default,,0,0,0,,{\i1}На данный мом�
 Dialogue: 0,0:13:51.06,0:13:54.00,Default - overdub,,0,0,0,,{\pos(541,314)}Animator Count  Status of Cuts\NАниматор Число кадров Статус сцены
 Dialogue: 0,0:13:51.06,0:13:54.00,Default - Top Typsetting,,0,0,0,,{\pos(352,421)}Handa\N\N\N\N\N\N\N\NDendou\N\N\N\N\N\N\NKaneko\N\N\N\N\N\N\NSannomiya
 Dialogue: 0,0:13:53.80,0:13:58.37,Default,,0,0,0,,{\i1}Мы думали, что режиссер Yoshinari будет излишне строг, однако... (We thought Director Yoshinari's\Nchecks might be too strict, but...){\i0}
-Dialogue: 0,0:13:58.57,0:14:01.00,Default,,0,0,0,,I'll have my first cut checked today.
-Dialogue: 0,0:14:03.10,0:14:05.61,Default,,0,0,0,,{\i1}Is there a lot?{\i0}
-Dialogue: 0,0:14:05.61,0:14:08.91,Default,,0,0,0,,It took a long time.
-Dialogue: 0,0:14:08.91,0:14:11.18,Default,,0,0,0,,A lot of time.
-Dialogue: 0,0:14:13.65,0:14:18.85,Default,,0,0,0,,{\i1}Even after that, Mr. Handa\Nrechecks over and over again.{\i0}
-Dialogue: 0,0:14:20.89,0:14:26.23,Default,,0,0,0,,{\i1}It was well into the evening when he\Nfinally felt ready to present his cut.{\i0}
-Dialogue: 0,0:14:45.28,0:14:49.72,Default,,0,0,0,,{\pos(960,950)}You might have applied too much depth.
-Dialogue: 0,0:14:49.72,0:14:52.82,Default,,0,0,0,,{\pos(960,950)}Even if the captured screen is small...
+Dialogue: 0,0:13:58.57,0:14:01.00,Default,,0,0,0,,Сегодня проверяли мою первую сцену. (I'll have my first cut checked today.)
+Dialogue: 0,0:14:03.10,0:14:05.61,Default,,0,0,0,,{\i1}И долго? (Is there a lot?){\i0}
+Dialogue: 0,0:14:05.61,0:14:08.91,Default,,0,0,0,,Это заняло много времени.(It took a long time.)
+Dialogue: 0,0:14:08.91,0:14:11.18,Default,,0,0,0,,Очень много. (A lot of time.)
+Dialogue: 0,0:14:13.65,0:14:18.85,Default,,0,0,0,,{\i1}Даже после этого Mr. Handa проверяет и перепроверяет кадры раз за разом. (Even after that, Mr. Handa\Nrechecks over and over again.){\i0}
+Dialogue: 0,0:14:20.89,0:14:26.23,Default,,0,0,0,,{\i1}Было довольно поздно, когда он наконец почувствовал, что готов показать работу. (It was well into the evening when he\Nfinally felt ready to present his cut.){\i0}
+Dialogue: 0,0:14:45.28,0:14:49.72,Default,,0,0,0,,{\pos(960,950)}Ты мог бы применить больше глубины. (You might have applied too much depth.)
+Dialogue: 0,0:14:49.72,0:14:52.82,Default,,0,0,0,,{\pos(960,950)}Даже если Even if the captured screen is small...
 Dialogue: 0,0:14:52.82,0:14:55.32,Default,,0,0,0,,{\pos(960,950)}Wait a moment.
 Dialogue: 0,0:15:25.15,0:15:30.19,Default,,0,0,0,,{\pos(960,950)}See, her hips go down in this part,
 Dialogue: 0,0:15:30.19,0:15:33.93,Default,,0,0,0,,{\pos(960,950)}but earlier she held this pose the whole\Ntime, even when bending forward,
