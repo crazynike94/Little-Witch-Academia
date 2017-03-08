@@ -491,33 +491,33 @@ Dialogue: 0,0:41:14.60,0:41:15.67,Default,,0,0,0,,{\i1}Спасибо вам..{\
 Dialogue: 0,0:41:17.90,0:41:24.31,Default,,0,0,0,,{\i1}Безмолвное общение аниматоров\Nчерез рисунки продолжается.{\i0}
 Dialogue: 0,0:41:24.95,0:41:29.88,Default,,0,0,0,,{\i1}Остался месяц до окончания проекта.{\i0}
 Dialogue: 0,0:41:31.28,0:41:37.36,Default,,0,0,0,,{\i1}10е января. сегодня мы наблюдаем\Nеще одну часть процесса:{\i0}
-Dialogue: 0,0:41:39.86,0:41:45.33,Default - Top,,0,0,0,,{\i1}In-between Checker\NNahoko Kosugi{\i0}
-Dialogue: 0,0:41:40.33,0:41:43.73,Default,,0,0,0,,{\i1}Checking the in-between animation.{\i0}
-Dialogue: 0,0:41:43.73,0:41:48.00,Default,,0,0,0,,{\i1}She literally Inspects the completed\N animation drawings one by one,{\i0}
-Dialogue: 0,0:41:48.00,0:41:52.51,Default,,0,0,0,,{\i1}checking for any in between mistakes or omissions.{\i0}
-Dialogue: 0,0:41:57.48,0:42:02.12,Default,,0,0,0,,{\i1}She is searching for mistakes\Nin 17 thousand animation drawings.{\i0}
-Dialogue: 0,0:42:02.12,0:42:06.35,Default,,0,0,0,,{\i1}Patience and concentration are necessary skills.{\i0}
-Dialogue: 0,0:42:12.53,0:42:19.73,Default,,0,0,0,,{\i1}This is my first time seeing\Nan actual in between animation check.{\i0}
-Dialogue: 0,0:42:21.77,0:42:23.67,Default,,0,0,0,,I don't think you'll find it entertaining.
-Dialogue: 0,0:42:23.67,0:42:25.64,Default,,0,0,0,,{\i1}No, it's quite interesting.{\i0}
-Dialogue: 0,0:42:25.64,0:42:27.74,Default,,0,0,0,,But I'm just going like this the whole time.
-Dialogue: 0,0:42:28.58,0:42:30.44,Default,,0,0,0,,You can't tell what I'm doing, can you?
-Dialogue: 0,0:42:30.44,0:42:32.31,Default,,0,0,0,,No, I can't.
-Dialogue: 0,0:42:32.85,0:42:35.25,Default,,0,0,0,,Right, it's just flip, flip, flip.
-Dialogue: 0,0:42:35.82,0:42:37.85,Default,,0,0,0,,{\i1}So it's like checking a flip book.{\i0}
-Dialogue: 0,0:42:37.85,0:42:40.62,Default,,0,0,0,,{\i1}You're checking if the claws move correctly.{\i0}
-Dialogue: 0,0:42:40.62,0:42:41.92,Default,,0,0,0,,Right.
-Dialogue: 0,0:42:43.42,0:43:02.64,Default,,0,0,0,,The reason I flip back and forth so much is\Nbecause I keep changing the area I'm checking.
-Dialogue: 0,0:43:02.64,0:43:10.22,Default,,0,0,0,,If it seems fine,\NI check the picture as a whole last.
-Dialogue: 0,0:43:11.02,0:43:15.32,Default,,0,0,0,,{\i1}What was the portion\Nyou were fixing with the pencil?{\i0}
-Dialogue: 0,0:43:15.32,0:43:28.03,Default,,0,0,0,,I noticed this tooth had no shadow\Nwhen there should be one.
-Dialogue: 0,0:43:29.54,0:43:35.51,Default,,0,0,0,,Here the tooth is gradually coming more into view,
-Dialogue: 0,0:43:35.51,0:43:43.05,Default,,0,0,0,,and I'm adding a little to each frame so the\Nshadow doesn't just appear suddenly.
-Dialogue: 0,0:43:43.05,0:43:48.36,Default,,0,0,0,,This way it feels more natural.
-Dialogue: 0,0:43:49.99,0:43:56.16,Default,,0,0,0,,{\i1}The cut is from the endgame of the film, right\Nbefore Akko chants the magic spell.{\i0}
-Dialogue: 0,0:44:00.07,0:44:06.21,Default,,0,0,0,,{\i1}The issue was the absence of shadows in the dragon's\Nmouth, at the moment it raises its neck.{\i0}
-Dialogue: 0,0:44:07.57,0:44:11.11,Default,,0,0,0,,{\i1}The image on the right is from before Ms. Kosugi's check.{\i0}
-Dialogue: 0,0:44:11.11,0:44:15.75,Default,,0,0,0,,{\i1}She's certainly a pro to notice such a small detail!{\i0}
+Dialogue: 0,0:41:39.86,0:41:45.33,Default - Top,,0,0,0,,{\i1}Фазовщик (?)\NNahoko Kosugi{\i0}
+Dialogue: 0,0:41:40.33,0:41:43.73,Default,,0,0,0,,{\i1}Проверка фазовки (in-between animation).{\i0}
+Dialogue: 0,0:41:43.73,0:41:48.00,Default,,0,0,0,,{\i1}Она сравнивает завершенные\N рисунки один за другим,{\i0}
+Dialogue: 0,0:41:48.00,0:41:52.51,Default,,0,0,0,,{\i1}проверяя их на ошибки или упущения.{\i0}
+Dialogue: 0,0:41:57.48,0:42:02.12,Default,,0,0,0,,{\i1}Она ищет ошибки \Nв 17 тысячах рисунках аниматоров.{\i0}
+Dialogue: 0,0:42:02.12,0:42:06.35,Default,,0,0,0,,{\i1}Главные навыки здесь - терпение и концентрация.{\i0}
+Dialogue: 0,0:42:12.53,0:42:19.73,Default,,0,0,0,,{\i1}Это первый раз, когда я в живую\Nнаблюдаю процесс фазовки(in between animation check).{\i0}
+Dialogue: 0,0:42:21.77,0:42:23.67,Default,,0,0,0,,Не думаю, что вам это покажется увлекательным.
+Dialogue: 0,0:42:23.67,0:42:25.64,Default,,0,0,0,,{\i1}Нет, на самом деле это довольно интересно.{\i0}
+Dialogue: 0,0:42:25.64,0:42:27.74,Default,,0,0,0,,Но я просто постоянно делаю вот так.
+Dialogue: 0,0:42:28.58,0:42:30.44,Default,,0,0,0,,Вы же не понимаете что я делаю, верно?
+Dialogue: 0,0:42:30.44,0:42:32.31,Default,,0,0,0,,Нет, не понимаю.
+Dialogue: 0,0:42:32.85,0:42:35.25,Default,,0,0,0,,Да, просто листаю, листаю и листаю.
+Dialogue: 0,0:42:35.82,0:42:37.85,Default,,0,0,0,,{\i1}Как будто листаешь серию рисунков на полях школьной тетради. (? flipbook по русски Кинеограф, ты знал? Надо придумать что то более близкое){\i0}
+Dialogue: 0,0:42:37.85,0:42:40.62,Default,,0,0,0,,{\i1}Вы проверяете, правильно ли двигаются лапы.{\i0}
+Dialogue: 0,0:42:40.62,0:42:41.92,Default,,0,0,0,,Ага.
+Dialogue: 0,0:42:43.42,0:43:02.64,Default,,0,0,0,,Причина, по которой я так много листаю взад и вперед\Nв том, что я каждый раз меняю область проверки.
+Dialogue: 0,0:43:02.64,0:43:10.22,Default,,0,0,0,,Если все в порядке,\Nя проверяю рисунок как единое целое в последний раз.
+Dialogue: 0,0:43:11.02,0:43:15.32,Default,,0,0,0,,{\i1}Что за часть вы\Nпоправляли карандашом?{\i0}
+Dialogue: 0,0:43:15.32,0:43:28.03,Default,,0,0,0,,Я заметила, что у этого зуба не было тени\N, хотя она должна быть.
+Dialogue: 0,0:43:29.54,0:43:35.51,Default,,0,0,0,,Здесь зуб начинает появляться в поле зрения,
+Dialogue: 0,0:43:35.51,0:43:43.05,Default,,0,0,0,,и я постепенно добавляю тень к каждому кадру,\Nчтобы она не просто внезапно появилась.
+Dialogue: 0,0:43:43.05,0:43:48.36,Default,,0,0,0,,Так анимация кажется более естественной.
+Dialogue: 0,0:43:49.99,0:43:56.16,Default,,0,0,0,,{\i1}Это сцена из развязки фильма, прямо\Nперед тем, как Акко колдует магическое заклинание.{\i0}
+Dialogue: 0,0:44:00.07,0:44:06.21,Default,,0,0,0,,{\i1}Проблема в отсутствии теней во рту\Nдракона, когда он поднимает свою шею.{\i0}
+Dialogue: 0,0:44:07.57,0:44:11.11,Default,,0,0,0,,{\i1}Справа - кадр, каким он был перед проверкой Ms. Kosugi.{\i0}
+Dialogue: 0,0:44:11.11,0:44:15.75,Default,,0,0,0,,{\i1}Заметила такую мелкую деталь! Она определенно профессионал.{\i0}
 Dialogue: 0,0:44:25.19,0:44:28.03,Default,,0,0,0,,{\i1}Even when the animation schedule is delayed,{\i0}
 Dialogue: 0,0:44:28.03,0:44:35.97,Default,,0,0,0,,{\i1}the post-production work goes on,\Nto meet the final delivery date.{\i0}
 Dialogue: 0,0:44:35.97,0:44:38.27,Default,,0,0,0,,{\i1}This is the day for editing.{\i0}
