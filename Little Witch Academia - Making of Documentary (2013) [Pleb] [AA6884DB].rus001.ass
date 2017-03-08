@@ -518,33 +518,33 @@ Dialogue: 0,0:43:49.99,0:43:56.16,Default,,0,0,0,,{\i1}Это сцена из р
 Dialogue: 0,0:44:00.07,0:44:06.21,Default,,0,0,0,,{\i1}Проблема в отсутствии теней во рту\Nдракона, когда он поднимает свою шею.{\i0}
 Dialogue: 0,0:44:07.57,0:44:11.11,Default,,0,0,0,,{\i1}Справа - кадр, каким он был перед проверкой Ms. Kosugi.{\i0}
 Dialogue: 0,0:44:11.11,0:44:15.75,Default,,0,0,0,,{\i1}Заметила такую мелкую деталь! Она определенно профессионал.{\i0}
-Dialogue: 0,0:44:25.19,0:44:28.03,Default,,0,0,0,,{\i1}Even when the animation schedule is delayed,{\i0}
-Dialogue: 0,0:44:28.03,0:44:35.97,Default,,0,0,0,,{\i1}the post-production work goes on,\Nto meet the final delivery date.{\i0}
-Dialogue: 0,0:44:35.97,0:44:38.27,Default,,0,0,0,,{\i1}This is the day for editing.{\i0}
-Dialogue: 0,0:44:38.27,0:44:41.78,Default,,0,0,0,,{\i1}Usually only the director witnesses this part,{\i0}
-Dialogue: 0,0:44:41.78,0:44:46.81,Default,,0,0,0,,{\i1}but this time all the young animators will be\Ncoming along for the sake of their education.{\i0}
-Dialogue: 0,0:44:46.81,0:44:50.88,Default,,0,0,0,,I'm planning on heading to editing soon.
-Dialogue: 0,0:44:53.49,0:44:57.69,Default,,0,0,0,,You should come if you can.
-Dialogue: 0,0:44:57.69,0:45:00.76,Default,,0,0,0,,What'll you do?
-Dialogue: 0,0:45:01.39,0:45:05.93,Default,,0,0,0,,{\i1}She's having a hard time getting them to budge.{\i0}
-Dialogue: 0,0:45:05.93,0:45:09.50,Default,,0,0,0,,{\i1}They want to focus on their animation drawings.{\i0}
-Dialogue: 0,0:45:09.50,0:45:10.64,Default,,0,0,0,,{\i1}Are you going?{\i0}
-Dialogue: 0,0:45:14.01,0:45:15.98,Default,,0,0,0,,Are you going, Mr. Sakamoto?
-Dialogue: 0,0:45:16.34,0:45:20.58,Default,,0,0,0,,I want to work a bit longer.\NRather, I won't finish in time if I don't.
-Dialogue: 0,0:45:20.88,0:45:25.85,Default,,0,0,0,,I'm past deadline, but I just feel like slacking.
-Dialogue: 0,0:45:25.85,0:45:29.72,Default,,0,0,0,,Watching the editing is part of the job too.
-Dialogue: 0,0:45:29.72,0:45:35.20,Default,,0,0,0,,Nah, I'll just end up slacking off.
-Dialogue: 0,0:45:38.63,0:45:43.67,Default,,0,0,0,,{\i1}"Get involved in other aspects of the\Nwork besides animation drawing."{\i0}
-Dialogue: 0,0:45:43.67,0:45:50.34,Default,,0,0,0,,{\i1}This is one of the objectives for nurturing young\Nanimators that TRIGGER agreed to.{\i0}
-Dialogue: 0,0:45:50.34,0:46:00.99,Default,,0,0,0,,{\i1}In a typical TV series, after submitting the key art, you\Nalmost never see your own work before it's broadcast.{\i0}
-Dialogue: 0,0:46:00.99,0:46:06.23,Default,,0,0,0,,{\i1}These five are seeing this stage for the first time.{\i0}
-Dialogue: 0,0:46:08.26,0:46:15.37,Default,,0,0,0,,{\i1}Editing involves omitting or refining footage\Nto meet the predetermined film length.{\i0}
-Dialogue: 0,0:46:15.37,0:46:19.64,Default,,0,0,0,,{\i1}First they play it from the start,\Nto check impressions given by the whole.{\i0}
+Dialogue: 0,0:44:25.19,0:44:28.03,Default,,0,0,0,,{\i1}Даже когда аниматоры не успевают по графику,{\i0}
+Dialogue: 0,0:44:28.03,0:44:35.97,Default,,0,0,0,,{\i1}чтобы успеть завершить фильм к сроку,\N команда пост-обработки (post production) продолжает работу.{\i0}
+Dialogue: 0,0:44:35.97,0:44:38.27,Default,,0,0,0,,{\i1}Сегодня день редактирования.{\i0}
+Dialogue: 0,0:44:38.27,0:44:41.78,Default,,0,0,0,,{\i1}Обычно, только режиссер наблюдает за этой частью,{\i0}
+Dialogue: 0,0:44:41.78,0:44:46.81,Default,,0,0,0,,{\i1}но в этот раз будут присутствовать и все молодые аниматоры./N Это часть процесса их обучения.{\i0}
+Dialogue: 0,0:44:46.81,0:44:50.88,Default,,0,0,0,,Я планирую идти на процесс редактирования.
+Dialogue: 0,0:44:53.49,0:44:57.69,Default,,0,0,0,,Вам лучше пойти.
+Dialogue: 0,0:44:57.69,0:45:00.76,Default,,0,0,0,,Что ты решил?
+Dialogue: 0,0:45:01.39,0:45:05.93,Default,,0,0,0,,{\i1}Ей тяжело сдвинуть их с места.{\i0}
+Dialogue: 0,0:45:05.93,0:45:09.50,Default,,0,0,0,,{\i1}Они хотят сосредоточится на рисовании анимации.{\i0}
+Dialogue: 0,0:45:09.50,0:45:10.64,Default,,0,0,0,,{\i1}Вы идете?{\i0}
+Dialogue: 0,0:45:14.01,0:45:15.98,Default,,0,0,0,,Mr. Sakamoto, вы идете?
+Dialogue: 0,0:45:16.34,0:45:20.58,Default,,0,0,0,,Я хочу еще немного поработать.\NИначе, я просто не успею.
+Dialogue: 0,0:45:20.88,0:45:25.85,Default,,0,0,0,,Срок сдачи работы уже прошел, и мне кажется что я просто пойду развлекаться.
+Dialogue: 0,0:45:25.85,0:45:29.72,Default,,0,0,0,,Наблюдать редактирование это тоже часть процесса.
+Dialogue: 0,0:45:29.72,0:45:35.20,Default,,0,0,0,,Не, в итоге окажется, что я просто отлынивал от работы.
+Dialogue: 0,0:45:38.63,0:45:43.67,Default,,0,0,0,,{\i1}"Включаться в другие аспекты\Nпроизводства фильма, кроме создания анимации."{\i0}
+Dialogue: 0,0:45:43.67,0:45:50.34,Default,,0,0,0,,{\i1}Это одна из задач по воспитанию\молодых аниматоров, которую должна выполнить студия TRIGGER.{\i0}
+Dialogue: 0,0:45:50.34,0:46:00.99,Default,,0,0,0,,{\i1}В обычном TV сериале, после сдачи ключевых рисунков,\Nвы больше не увидите своей работы до момента выхода в эфир.{\i0}
+Dialogue: 0,0:46:00.99,0:46:06.23,Default,,0,0,0,,{\i1}Эта пятерка в первый раз наблюдает эту часть процесса.{\i0}
+Dialogue: 0,0:46:08.26,0:46:15.37,Default,,0,0,0,,{\i1}Редактирование включает в себя процесс удаления или изменения сцен,\Nчтобы уложится в планируемую длину фильма.{\i0}
+Dialogue: 0,0:46:15.37,0:46:19.64,Default,,0,0,0,,{\i1}В первый раз они просматривают фильм с самого начала,\Nчтобы получить впечатление от картины, как от единого целого.{\i0}
 Dialogue: 0,0:46:22.91,0:46:25.41,Default,,0,0,0,,Shining Arc!
-Dialogue: 0,0:46:36.19,0:46:37.19,Default,,0,0,0,,{\i1}That completes the preview.{\i0}
-Dialogue: 0,0:46:37.19,0:46:38.36,Default,,0,0,0,,{\i1}That completes the preview.{\i0}
-Dialogue: 0,0:46:37.36,0:46:43.73,Default - Top,,0,0,0,,{\i1}Film Editor\NKentarou Tsubone (Real-T){\i0}
-Dialogue: 0,0:46:38.73,0:46:42.46,Default,,0,0,0,,{\i1}The editor, Tsubone, has an unreadable expression.{\i0}
+Dialogue: 0,0:46:36.19,0:46:37.19,Default,,0,0,0,,{\i1}Это завершающая сцена.{\i0}
+Dialogue: 0,0:46:37.19,0:46:38.36,Default,,0,0,0,,{\i1}Это завершающая сцена.{\i0}
+Dialogue: 0,0:46:37.36,0:46:43.73,Default - Top,,0,0,0,,{\i1}Редактор\NKentarou Tsubone (Real-T){\i0}
+Dialogue: 0,0:46:38.73,0:46:42.46,Default,,0,0,0,,{\i1}Редактор, Tsubone, has an unreadable expression.{\i0}
 Dialogue: 0,0:46:42.46,0:46:45.47,Default,,0,0,0,,It comes to 24 minutes and 30 seconds.{\i0}
 Dialogue: 0,0:46:46.40,0:46:51.04,Default,,0,0,0,,That's at the limit.
 Dialogue: 0,0:46:53.51,0:46:58.21,Default,,0,0,0,,Is there any margin for removing more?
