@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 209
-Active Line: 213
-Video Position: 32671
+Scroll Position: 506
+Active Line: 514
+Video Position: 83990
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -541,101 +541,99 @@ Dialogue: 0,0:46:00.99,0:46:06.23,Default,,0,0,0,,{\i1}Эта пятерка в 
 Dialogue: 0,0:46:08.26,0:46:15.37,Default,,0,0,0,,{\i1}Редактирование включает в себя процесс удаления или изменения сцен,\Nчтобы уложится в планируемую длину фильма.{\i0}
 Dialogue: 0,0:46:15.37,0:46:19.64,Default,,0,0,0,,{\i1}В первый раз они просматривают фильм с самого начала,\Nчтобы получить впечатление от картины, как от единого целого.{\i0}
 Dialogue: 0,0:46:22.91,0:46:25.41,Default,,0,0,0,,Shining Arc!
-Dialogue: 0,0:46:36.19,0:46:37.19,Default,,0,0,0,,{\i1}Это завершающая сцена.{\i0}
-Dialogue: 0,0:46:37.19,0:46:38.36,Default,,0,0,0,,{\i1}Это завершающая сцена.{\i0}
+Dialogue: 0,0:46:36.19,0:46:38.36,Default,,0,0,0,,{\i1}Это завершающая сцена.{\i0}
 Dialogue: 0,0:46:37.36,0:46:43.73,Default - Top,,0,0,0,,{\i1}Редактор\NKentarou Tsubone (Real-T){\i0}
-Dialogue: 0,0:46:38.73,0:46:42.46,Default,,0,0,0,,{\i1}Редактор, Tsubone, has an unreadable expression.{\i0}
-Dialogue: 0,0:46:42.46,0:46:45.47,Default,,0,0,0,,It comes to 24 minutes and 30 seconds.{\i0}
-Dialogue: 0,0:46:46.40,0:46:51.04,Default,,0,0,0,,That's at the limit.
-Dialogue: 0,0:46:53.51,0:46:58.21,Default,,0,0,0,,Is there any margin for removing more?
-Dialogue: 0,0:46:58.95,0:47:01.58,Default,,0,0,0,,It's probably cutting close as it is.
-Dialogue: 0,0:47:01.58,0:47:03.25,Default,,0,0,0,,I'll ask about it.
-Dialogue: 0,0:47:09.96,0:47:12.03,Default,,0,0,0,,{\i1}So you have to make it shorter?{\i0}
-Dialogue: 0,0:47:12.03,0:47:19.83,Default,,0,0,0,,{\pos(960,900)}Yes, 25 minutes is the longest we can go.
-Dialogue: 0,0:47:19.83,0:47:23.30,Default,,0,0,0,,{\pos(960,900)}Currently the film ends at 24 minutes 30 seconds,
-Dialogue: 0,0:47:23.30,0:47:26.71,Default,,0,0,0,,{\pos(960,900)}but the ending credits would\Nhave to fit into 30 seconds.
-Dialogue: 0,0:47:26.71,0:47:31.81,Default,,0,0,0,,{\pos(960,900)}So we need to make\Nthe feature closer to 24 minutes,
-Dialogue: 0,0:47:31.81,0:47:34.45,Default,,0,0,0,,{\pos(960,900)}but there doesn't seem\Nto be a good place to make cuts.
-Dialogue: 0,0:47:38.69,0:47:41.96,Default,,0,0,0,,{\pos(960,950)}The timing might change clue\Nto the characters' motions.
-Dialogue: 0,0:47:42.99,0:47:47.96,Default,,0,0,0,,{\pos(960,880)}The film needs to be complete before we\Ncan really start the editing process.
-Dialogue: 0,0:47:50.96,0:47:53.97,Default,,0,0,0,,{\i1}Is there anything you're worried about\Nor anticipating in this process?{\i0}
-Dialogue: 0,0:47:53.97,0:47:58.20,Default,,0,0,0,,I'm worried about whether we'll finish on time.
-Dialogue: 0,0:47:58.20,0:48:02.48,Default,,0,0,0,,Can the animation be ready on time?
-Dialogue: 0,0:48:16.79,0:48:21.36,Default,,0,0,0,,{\i1}At any rate, the drawings have to be completed.{\i0}
-Dialogue: 0,0:48:25.50,0:48:27.27,Default,,0,0,0,,{\i1}January 13th.{\i0}
-Dialogue: 0,0:48:27.77,0:48:32.97,Default,,0,0,0,,{\i1}With the footage still unfinished,\Nit's rushed into post-recording.{\i0}
-Dialogue: 0,0:48:32.97,0:48:36.71,Default,,0,0,0,,{\i1}All of the dialogue will be recorded on this day.{\i0}
-Dialogue: 0,0:48:44.18,0:48:49.56,Default,,0,0,0,,{\i1}As with the editing, they're interrupting\Ntheir work to observe the recording.{\i0}
-Dialogue: 0,0:48:49.56,0:48:53.19,Default,,0,0,0,,{\i1}I hope they get a little something out of it.{\i0}
-Dialogue: 0,0:48:57.40,0:48:59.37,Default,,0,0,0,,I'm fine, so please...
-Dialogue: 0,0:49:01.80,0:49:07.07,Default - Top,,0,0,0,,Voice of Akko\NMegumi Han
-Dialogue: 0,0:49:02.57,0:49:06.27,Default,,0,0,0,,First there's a test run-through with the entire cast.{\i0}
-Dialogue: 0,0:49:14.21,0:49:18.05,Default,,0,0,0,,Listen up! This is your first flight at school.
-Dialogue: 0,0:49:18.48,0:49:22.42,Default - Top,,0,0,0,,Voice of Flight Instructor\NMinami Takayama
-Dialogue: 0,0:49:22.42,0:49:25.36,Default,,0,0,0,,Every year there's some idiot who just has to show off,
-Dialogue: 0,0:49:25.36,0:49:27.89,Default,,0,0,0,,And I'll give them demerits mercilessly!
-Dialogue: 0,0:49:25.73,0:49:27.89,Default - Background,,0,0,0,,At last I get to ride a broom at school!
-Dialogue: 0,0:49:27.89,0:49:30.20,Default,,0,0,0,,It's been so long, I can't wait!
-Dialogue: 0,0:49:34.23,0:49:38.47,Default,,0,0,0,,{\i1}And then it's time for me,\NNoriko Hidaka, to take my turn.{\i0}
-Dialogue: 0,0:49:38.47,0:49:40.81,Default,,0,0,0,,{\i1}Today will be combat training.{\i0}
-Dialogue: 0,0:49:42.81,0:49:46.45,Default,,0,0,0,,This tower was built upon an ancient labyrinth.
-Dialogue: 0,0:49:46.45,0:49:48.75,Default,,0,0,0,,Your task is to descend into the labyrinth,
-Dialogue: 0,0:49:48.75,0:49:52.29,Default,,0,0,0,,And retrieve one of the treasures hidden there.
-Dialogue: 0,0:49:49.08,0:49:55.49,Default - Top,,0,0,0,,Voice of Shiny Chariot\NNoriko Hidaka
-Dialogue: 0,0:49:52.29,0:49:56.96,Default,,0,0,0,,The team that finds the rarest treasure will receive the top score.
-Dialogue: 0,0:49:56.96,0:49:58.76,Default,,0,0,0,,Your time limit is three hours.
-Dialogue: 0,0:49:58.76,0:50:03.33,Default,,0,0,0,,Make use of the magic you have been studying\Nhowever you like, and surprise me.
-Dialogue: 0,0:50:03.33,0:50:04.10,Default,,0,0,0,,Begin!
-Dialogue: 0,0:50:08.33,0:50:11.20,Default,,0,0,0,,{\i1}We take a break after this part.{\i0}
-Dialogue: 0,0:50:11.70,0:50:18.14,Default,,0,0,0,,{\i1}Scriptwriter Otsuka and Director Yoshinari\Ndiscuss their visions of the characters.{\i0}
-Dialogue: 0,0:50:21.35,0:50:22.15,Default,,0,0,0,,Shall we do more?
+Dialogue: 0,0:46:38.73,0:46:42.46,Default,,0,0,0,,{\i1}У редактора Tsubone нечитаемое выражение лица. (Редактор, Tsubone, has an unreadable expression.){\i0}
+Dialogue: 0,0:46:42.46,0:46:45.47,Default,,0,0,0,,Он приближается к 24 минутам и 30 секундам. (It comes to 24 minutes and 30 seconds.)
+Dialogue: 0,0:46:46.40,0:46:51.04,Default,,0,0,0,,Это наш потолок. (That's at the limit.)
+Dialogue: 0,0:46:53.51,0:46:58.21,Default,,0,0,0,,Можно ли удалить ещё что-нибудь? (Is there any margin for removing more?)
+Dialogue: 0,0:46:58.95,0:47:01.58,Default,,0,0,0,,Мы еле успеваем к срокам (It's probably cutting close as it is.) http://english.stackexchange.com/questions/185031/i-am-cutting-it-kinda-close-here
+Dialogue: 0,0:47:01.58,0:47:03.25,Default,,0,0,0,,Я спрошу об этом. (I'll ask about it.)
+Dialogue: 0,0:47:09.96,0:47:12.03,Default,,0,0,0,,{\i1}Так вам нужно сделать его короче? (So you have to make it shorter?){\i0}
+Dialogue: 0,0:47:12.03,0:47:19.83,Default,,0,0,0,,{\pos(960,900)}Да, мы обязаны уложиться в 25 минут. (Yes, 25 minutes is the longest we can go.)
+Dialogue: 0,0:47:19.83,0:47:23.30,Default,,0,0,0,,{\pos(960,900)}В настоящее время фильм длится 24 минуты 30 секунд, (Currently the film ends at 24 minutes 30 seconds,)
+Dialogue: 0,0:47:23.30,0:47:26.71,Default,,0,0,0,,{\pos(960,900)}но мы еще должны уместить финальные титры в 30 секунд. (but the ending credits would\Nhave to fit into 30 seconds.)
+Dialogue: 0,0:47:26.71,0:47:31.81,Default,,0,0,0,,{\pos(960,900)}Поэтому нам нужно сократить основную часть до 24 минут, (So we need to make\Nthe feature closer to 24 minutes,)
+Dialogue: 0,0:47:31.81,0:47:34.45,Default,,0,0,0,,{\pos(960,900)}но мы не видим подходящих мест для сокращений. (but there doesn't seem\Nto be a good place to make cuts.)
+Dialogue: 0,0:47:38.69,0:47:41.96,Default,,0,0,0,,{\pos(960,950)}Изменение тайминга (времени) может повлиять на движения персонажей. (The timing might change clue\Nto the characters' motions.)
+Dialogue: 0,0:47:42.99,0:47:47.96,Default,,0,0,0,,{\pos(960,880)}Фильм должен быть полностью закончен, чтобы мы могли начать процесс редактирования. (The film needs to be complete before we\Ncan really start the editing process.)
+Dialogue: 0,0:47:50.96,0:47:53.97,Default,,0,0,0,,{\i1}Есть ли что-то, о чем вы беспокоитесь или ожидаете в этом процессе? (Is there anything you're worried about\Nor anticipating in this process?){\i0}
+Dialogue: 0,0:47:53.97,0:47:58.20,Default,,0,0,0,,Я беспокоюсь о том успеем ли мы вовремя его закончить. (I'm worried about whether we'll finish on time.)
+Dialogue: 0,0:47:58.20,0:48:02.48,Default,,0,0,0,,Может ли анимация быть готова вовремя? (Can the animation be ready on time?)
+Dialogue: 0,0:48:16.79,0:48:21.36,Default,,0,0,0,,{\i1}В любом случае рисунки должны быть завершены. (At any rate, the drawings have to be completed.){\i0}
+Dialogue: 0,0:48:25.50,0:48:27.27,Default,,0,0,0,,{\i1}13 января. (January 13th.){\i0}
+Dialogue: 0,0:48:27.77,0:48:32.97,Default,,0,0,0,,{\i1}С еще не законченными кадрами он занялся "post-recording". (With the footage still unfinished,\Nit's rushed into post-recording.){\i0}
+Dialogue: 0,0:48:32.97,0:48:36.71,Default,,0,0,0,,{\i1}Сегодня будут записаны все диалоги. (All of the dialogue will be recorded on this day.){\i0}
+Dialogue: 0,0:48:44.18,0:48:49.56,Default,,0,0,0,,{\i1}Как и при редактировании они прерываются, чтобы наблюдать за процессом записи. (As with the editing, they're interrupting\Ntheir work to observe the recording.){\i0}
+Dialogue: 0,0:48:49.56,0:48:53.19,Default,,0,0,0,,{\i1}Я надеюсь они что-нибудь почерпнут из этого. (I hope they get a little something out of it.){\i0}
+Dialogue: 0,0:48:57.40,0:48:59.37,Default,,0,0,0,,Я в порядке, поэтому... (I'm fine, so please...) [Этот момент в фильме не нашел, это крайне подозрительно.]
+Dialogue: 0,0:49:01.80,0:49:07.07,Default - Top,,0,0,0,,Голос Akko\NMegumi Han (Voice of Akko\NMegumi Han)
+Dialogue: 0,0:49:02.57,0:49:06.27,Default,,0,0,0,,{\i1}Сначала проводится пробный прогон всего состава. (First there's a test run-through with the entire cast.){\i0}
+Dialogue: 0,0:49:14.21,0:49:18.05,Default,,0,0,0,,Внимание! Это ваш первый тренировочный полет. (Listen up! This is your first flight at school.)
+Dialogue: 0,0:49:18.48,0:49:22.42,Default - Top,,0,0,0,,Голос Летного Инструктора\NMinami Takayama (Voice of Flight Instructor\NMinami Takayama)
+Dialogue: 0,0:49:22.42,0:49:25.36,Default,,0,0,0,,Каждый год находятся любители покрасоваться. (Every year there's some idiot who just has to show off,)
+Dialogue: 0,0:49:25.36,0:49:27.89,Default,,0,0,0,,Предупреждаю: буду снижать баллы. (And I'll give them demerits mercilessly!)
+Dialogue: 0,0:49:25.73,0:49:27.89,Default - Background,,0,0,0,,Наконец-то полетаем на метле! (At last I get to ride a broom at school!)
+Dialogue: 0,0:49:27.89,0:49:30.20,Default,,0,0,0,,Давненько я на нее не садилась! (It's been so long, I can't wait!)
+Dialogue: 0,0:49:34.23,0:49:38.47,Default,,0,0,0,,{\i1}Теперь настала и моя, Noriko Hidaka, очередь для записи. (And then it's time for me,\NNoriko Hidaka, to take my turn.){\i0}
+Dialogue: 0,0:49:38.47,0:49:40.81,Default,,0,0,0,,{\i1}Проверим же, чему вы научились. (Today will be combat training.){\i0}
+Dialogue: 0,0:49:42.81,0:49:46.45,Default,,0,0,0,,Башня построена на вершине древного лабиринта. (This tower was built upon an ancient labyrinth.)
+Dialogue: 0,0:49:46.45,0:49:48.75,Default,,0,0,0,,Сегодня вам предстоит в него спуститься, (Your task is to descend into the labyrinth,)
+Dialogue: 0,0:49:48.75,0:49:52.29,Default,,0,0,0,,искать и собирать сокровища. (And retrieve one of the treasures hidden there.)
+Dialogue: 0,0:49:49.08,0:49:55.49,Default - Top,,0,0,0,,Голос Shiny Chariot\NNoriko Hidaka (Voice of Shiny Chariot\NNoriko Hidaka)
+Dialogue: 0,0:49:52.29,0:49:56.96,Default,,0,0,0,,Быллы будут начисляться в зависимости от редкости предмета. (The team that finds the rarest treasure will receive the top score.)
+Dialogue: 0,0:49:56.96,0:49:58.76,Default,,0,0,0,,Вам дается 3 часа. (Your time limit is three hours.)
+Dialogue: 0,0:49:58.76,0:50:03.33,Default,,0,0,0,,Порадуйте меня, покажите всё, на что способны! (Make use of the magic you have been studying\Nhowever you like, and surprise me.)
+Dialogue: 0,0:50:03.33,0:50:04.10,Default,,0,0,0,,В путь! (Begin!)
+Dialogue: 0,0:50:08.33,0:50:11.20,Default,,0,0,0,,{\i1}Мы сделали перерыв после этой части. (We take a break after this part.){\i0}
+Dialogue: 0,0:50:11.70,0:50:18.14,Default,,0,0,0,,{\i1}Сценарист Otsuka и режиссер Yoshinari обсудят своё видение персонажей. (Scriptwriter Otsuka and Director Yoshinari\Ndiscuss their visions of the characters.){\i0}
+Dialogue: 0,0:50:21.35,0:50:22.15,Default,,0,0,0,,На нужно сделать больше? (Shall we do more?)
 Dialogue: 0,0:50:22.15,0:50:22.82,Default,,0,0,0,,Watanabe Sure.
-Dialogue: 0,0:50:22.15,0:50:24.38,Default - Top,,0,0,0,,Sound Director Jun Watanabe
-Dialogue: 0,0:50:24.38,0:50:29.16,Default,,0,0,0,,I guess a bit more of a lackadaisical teacher.
-Dialogue: 0,0:50:24.38,0:50:29.16,Default - Top,,0,0,0,,Sound Director Jun Watanabe
-Dialogue: 0,0:50:29.16,0:50:32.46,Default,,0,0,0,,She doesn't take her job very seriously.
-Dialogue: 0,0:50:34.26,0:50:38.73,Default,,0,0,0,,She seems more gentle.
-Dialogue: 0,0:50:38.73,0:50:40.50,Default,,0,0,0,,Not very strict.
-Dialogue: 0,0:50:40.50,0:50:43.00,Default,,0,0,0,,More like that.
-Dialogue: 0,0:50:45.04,0:50:50.18,Default,,0,0,0,,{\i1}The cast gets direction from\Nthe Sound Director, Mr. Watanabe.{\i0}
-Dialogue: 0,0:50:50.18,0:50:53.91,Default,,0,0,0,,{\i1}Can we expand upon his directions,{\i0}
-Dialogue: 0,0:50:53.91,0:50:57.05,Default,,0,0,0,,{\i1}to create voices that really suit our characters?{\i0}
-Dialogue: 0,0:50:57.05,0:51:01.15,Default,,0,0,0,,{\i1}This is where anime voice actors show their skills.{\i0}
-Dialogue: 0,0:51:09.46,0:51:11.83,Default,,0,0,0,,Go right ahead.
-Dialogue: 0,0:51:14.43,0:51:15.50,Default,,0,0,0,,Yes, if you please.
-Dialogue: 0,0:51:15.50,0:51:16.50,Default,,0,0,0,,Please do.
-Dialogue: 0,0:51:17.57,0:51:20.57,Default,,0,0,0,,Today will be combat training.
-Dialogue: 0,0:51:20.57,0:51:24.64,Default,,0,0,0,,This tower was built upon an ancient labyrinth.
-Dialogue: 0,0:51:24.64,0:51:27.31,Default,,0,0,0,,Your task is to descend into the labyrinth,
-Dialogue: 0,0:51:27.31,0:51:31.22,Default,,0,0,0,,and retrieve one of the treasures hidden there.
-Dialogue: 0,0:51:31.72,0:51:36.86,Default,,0,0,0,,The team that finds the rarest\Ntreasure will receive the top score.
-Dialogue: 0,0:51:37.59,0:51:39.49,Default,,0,0,0,,Your time limit is three hours.
-Dialogue: 0,0:51:39.49,0:51:44.16,Default,,0,0,0,,Make use of the magic you have been studying\Nhowever you like, and surprise me.
-Dialogue: 0,0:51:44.16,0:51:45.00,Default,,0,0,0,,Begin!
-Dialogue: 0,0:51:47.00,0:51:50.34,Default,,0,0,0,,Yes! Thank you very much.
-Dialogue: 0,0:51:50.34,0:51:50.84,Default,,0,0,0,,That was great!
-Dialogue: 0,0:51:50.84,0:51:52.74,Default,,0,0,0,,Yeah, really!\NThat was great!
-Dialogue: 0,0:51:54.47,0:51:59.25,Default,,0,0,0,,You know that heart-pounding\Nexcitement you're feeling today?
-Dialogue: 0,0:51:59.25,0:52:04.78,Default,,0,0,0,,I hope that you young animators,\Nas you continue in your careers,
-Dialogue: 0,0:52:04.78,0:52:09.79,Default,,0,0,0,,can hold on to that feeling throughout it all.
-Dialogue: 0,0:52:10.06,0:52:12.13,Default,,0,0,0,,Without getting hung up on concepts,
-Dialogue: 0,0:52:12.13,0:52:17.36,Default,,0,0,0,,continue to find what suits you,\Nand take on new challenges.
-Dialogue: 0,0:52:17.36,0:52:23.47,Default,,0,0,0,,Though you may find yourselves\Ncriticized, or even rejected,
-Dialogue: 0,0:52:23.47,0:52:31.71,Default,,0,0,0,,I'd like you to develop, not in a small orderly\Nfashion, but in a big brash fashion.
-Dialogue: 0,0:52:36.32,0:52:38.18,Default,,0,0,0,,{\i1}January 14th.{\i0}
-Dialogue: 0,0:52:38.18,0:52:41.92,Default,,0,0,0,,{\i1}Tokyo is having record-breaking snowfall.{\i0}
-Dialogue: 0,0:52:46.26,0:52:53.43,Default,,0,0,0,,{\i1}The normally-aloof Mr. Handa\Nhas an earnest expression today.{\i0}
-Dialogue: 0,0:52:54.83,0:53:01.77,Default,,0,0,0,,{\i1}He seems close to perfecting the fireworks key art\Nthat he's been wrestling with for a long time.{\i0}
-Dialogue: 0,0:53:05.24,0:53:10.32,Default,,0,0,0,,{\i1}In current anime, fireworks are\Nalmost always done with CG.{\i0}
-Dialogue: 0,0:53:10.32,0:53:17.79,Default,,0,0,0,,{\i1}However, Mr. Handa has animated the firework\Nstars by hand, down to the individual grains.{\i0}
+Dialogue: 0,0:50:22.15,0:50:29.16,Default - Top,,0,0,0,,Звукорежиссер Jun Watanabe (Sound Director Jun Watanabe)
+Dialogue: 0,0:50:24.38,0:50:29.16,Default,,0,0,0,,Я думаю, что учительница должна быть более вялой (расслабленной?). (I guess a bit more of a lackadaisical teacher.)
+Dialogue: 0,0:50:29.16,0:50:32.46,Default,,0,0,0,,Она не слишком серьезно относится к своей работе. (She doesn't take her job very seriously.)
+Dialogue: 0,0:50:34.26,0:50:38.73,Default,,0,0,0,,Она выглядит скорее (более) мягкой. (She seems more gentle.)
+Dialogue: 0,0:50:38.73,0:50:40.50,Default,,0,0,0,,Не очень строгой. (Not very strict.)
+Dialogue: 0,0:50:40.50,0:50:43.00,Default,,0,0,0,,Как-то так. (More like that.) - что это такое вообще?!
+Dialogue: 0,0:50:45.04,0:50:50.18,Default,,0,0,0,,{\i1}Актеры получают наставления от звукорежиссера, Mr. Watanabe. (The cast gets direction from\Nthe Sound Director, Mr. Watanabe.){\i0}
+Dialogue: 0,0:50:50.18,0:50:53.91,Default,,0,0,0,,{\i1}Сможем ли мы, получив от него замечания, (Can we expand upon his directions,){\i0}
+Dialogue: 0,0:50:53.91,0:50:57.05,Default,,0,0,0,,{\i1}изменить голос, чтобы по-настоящему соответствовать персонажам? (to create voices that really suit our characters?){\i0}
+Dialogue: 0,0:50:57.05,0:51:01.15,Default,,0,0,0,,{\i1}Это тот момент, когда сейю показывают свои навыки. (This is where anime voice actors show their skills.){\i0}
+Dialogue: 0,0:51:09.46,0:51:11.83,Default,,0,0,0,,Итак, начнем. (Go right ahead.)
+Dialogue: 0,0:51:14.43,0:51:15.50,Default,,0,0,0,,Хорошо, если вы просите. (Yes, if you please.)
+Dialogue: 0,0:51:15.50,0:51:16.50,Default,,0,0,0,,Пожалуйста. (Please do.)
+Dialogue: 0,0:51:17.57,0:51:20.57,Default,,0,0,0,,Проверим же, чему вы научились. (Today will be combat training.)
+Dialogue: 0,0:51:20.57,0:51:24.64,Default,,0,0,0,,Башня простроена на вершине древнего лабиринта. (This tower was built upon an ancient labyrinth.)
+Dialogue: 0,0:51:24.64,0:51:27.31,Default,,0,0,0,,Сегодня вам предстоит в него спуститься, (Your task is to descend into the labyrinth,)
+Dialogue: 0,0:51:27.31,0:51:31.22,Default,,0,0,0,,искать и собирать сокровища. (and retrieve one of the treasures hidden there.)
+Dialogue: 0,0:51:31.72,0:51:36.86,Default,,0,0,0,,Быллы будут начисляться в зависимости от редкости предмета. (The team that finds the rarest\Ntreasure will receive the top score.)
+Dialogue: 0,0:51:37.59,0:51:39.49,Default,,0,0,0,,Вам даётся 3 часа. (Your time limit is three hours.)
+Dialogue: 0,0:51:39.49,0:51:44.16,Default,,0,0,0,,Порадуйсте меня, покажите всё, на что способны! (Make use of the magic you have been studying\Nhowever you like, and surprise me.)
+Dialogue: 0,0:51:44.16,0:51:45.00,Default,,0,0,0,,В путь! (Begin!)
+Dialogue: 0,0:51:47.00,0:51:50.34,Default,,0,0,0,,Да! Большое спасибо. (Yes! Thank you very much.)
+Dialogue: 0,0:51:50.34,0:51:50.84,Default,,0,0,0,,То, что надо! (That was great!)
+Dialogue: 0,0:51:50.84,0:51:52.74,Default,,0,0,0,,Да, действительно!\NТо, что надо! (Yeah, really!\NThat was great!)
+Dialogue: 0,0:51:54.47,0:51:59.25,Default,,0,0,0,,Вы заметили особенное возбуждение (волнение) сегодня? (You know that heart-pounding\Nexcitement you're feeling today?)
+Dialogue: 0,0:51:59.25,0:52:04.78,Default,,0,0,0,,Я надеюсь, что вы, молодые специалисты, если продолжите свою карьеру, (I hope that you young animators,\Nas you continue in your careers,)
+Dialogue: 0,0:52:04.78,0:52:09.79,Default,,0,0,0,,сможете удерживать это чувство постоянно. (can hold on to that feeling throughout it all.)
+Dialogue: 0,0:52:10.06,0:52:12.13,Default,,0,0,0,,Не зацикливаясь на стандартах, (Without getting hung up on concepts,)
+Dialogue: 0,0:52:12.13,0:52:17.36,Default,,0,0,0,,продолжите находить то, что нравится вам и добиваться новых высот. (continue to find what suits you,\Nand take on new challenges.)
+Dialogue: 0,0:52:17.36,0:52:23.47,Default,,0,0,0,,Хотя вас могут начать критиковать, или даже будут отвергать (н е  о ч е н ь), (Though you may find yourselves\Ncriticized, or even rejected,)
+Dialogue: 0,0:52:23.47,0:52:31.71,Default,,0,0,0,,я бы хотела, чтобы вы развивались, но не робко, а дерзко (тоже не нравится как звучит). (I'd like you to develop, not in a small orderly\Nfashion, but, in a big brash fashion.)
+Dialogue: 0,0:52:36.32,0:52:38.18,Default,,0,0,0,,{\i1}14 Января (January 14th.){\i0}
+Dialogue: 0,0:52:38.18,0:52:41.92,Default,,0,0,0,,{\i1}В Токио идет рекордный снегопад. (Tokyo is having record-breaking snowfall.){\i0}
+Dialogue: 0,0:52:46.26,0:52:53.43,Default,,0,0,0,,{\i1}Вечно-апатичный Mr. Handa сегодня особенно серьезен. (The normally-aloof Mr. Handa\Nhas an earnest expression today.){\i0}
+Dialogue: 0,0:52:54.83,0:53:01.77,Default,,0,0,0,,{\i1}Он кажется близок к своему идеалу в работе над ключевыми кадрами фейрверка, над которыми он долго бился. (He seems close to perfecting the fireworks key art\Nthat he's been wrestling with for a long time.){\i0}
+Dialogue: 0,0:53:05.24,0:53:10.32,Default,,0,0,0,,{\i1}В современном аниме фейрверки практически всегда создаются на компьютере. (In current anime, fireworks are\Nalmost always done with CG.){\i0}
+Dialogue: 0,0:53:10.32,0:53:17.79,Default,,0,0,0,,{\i1}Однако Mr. Handa анимирует взыр фейрверка вручную, вполть до отдельных искр (вспышек?). (However, Mr. Handa has animated the firework\Nstars by hand, down to the individual grains.){\i0}
 Dialogue: 0,0:53:26.20,0:53:34.91,Default,,0,0,0,,{\i1}The story's last scene, symbolizing Akko's thoughts\Nin sparkling fashion, is the final highlight.{\i0}
-Dialogue: 0,0:53:36.41,0:53:43.32,Default,,0,0,0,,{\i1}His key art totals 38 sheets, including\Nmaterials for the special effects.{\i0}
-Dialogue: 0,0:53:46.42,0:53:50.96,Default,,0,0,0,,It was all by hand, so it took a long time.
-Dialogue: 0,0:53:50.96,0:53:55.90,Default,,0,0,0,,About a week I think.
-Dialogue: 0,0:53:55.90,0:53:58.86,Default,,0,0,0,,{\i1}How long is the cut?{\i0}
-Dialogue: 0,0:53:58.86,0:54:02.50,Default,,0,0,0,,4.5 seconds.
-Dialogue: 0,0:54:02.50,0:54:06.01,Default,,0,0,0,,{\i1}Just for 1 bang.{\i0}
-Dialogue: 0,0:54:08.01,0:54:11.74,Default,,0,0,0,,I hope this work pays off.
+Dialogue: 0,0:53:36.41,0:53:43.32,Default,,0,0,0,,{\i1}Эта сцена занимает 38 листов, включая материалы для спецэффектов. (His key art totals 38 sheets, including\Nmaterials for the special effects.){\i0}
+Dialogue: 0,0:53:46.42,0:53:50.96,Default,,0,0,0,,Всё это было нарисовано вручную, поэтому заняло так много времени. (It was all by hand, so it took a long time.)
+Dialogue: 0,0:53:50.96,0:53:55.90,Default,,0,0,0,,Я думаю около недели. (About a week I think.)
+Dialogue: 0,0:53:55.90,0:53:58.86,Default,,0,0,0,,{\i1}Сколько длится сцена? (How long is the cut?){\i0}
+Dialogue: 0,0:53:58.86,0:54:02.50,Default,,0,0,0,,Четыре с половиной секнуды. (4.5 seconds.)
+Dialogue: 0,0:54:02.50,0:54:06.01,Default,,0,0,0,,{\i1}Всего лишь один взрыв. (Just for 1 bang.){\i0}
+Dialogue: 0,0:54:08.01,0:54:11.74,Default,,0,0,0,,Я надеюсь, что эта работа проделана не зря. (I hope this work pays off.)
 Dialogue: 0,0:54:12.98,0:54:16.78,Default,,0,0,0,,{\i1}It's the last one.{\i0}
 Dialogue: 0,0:54:16.78,0:54:18.48,Default,,0,0,0,,Right.
 Dialogue: 0,0:54:18.58,0:54:23.66,Default,,0,0,0,,I included many demands for the filming process.
