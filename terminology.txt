@@ -1,0 +1,4 @@
+Первое появление	Термин 					Перевод
+55.24			Director of Compositing
+55.31			Compositing
+55.53			cell animation
