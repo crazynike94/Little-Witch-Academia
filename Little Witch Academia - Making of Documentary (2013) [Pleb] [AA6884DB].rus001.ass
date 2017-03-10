@@ -645,8 +645,8 @@ Dialogue: 0,0:54:41.17,0:54:56.16,Default,,0,0,0,,Now the rest is up to the in-b
 Dialogue: 0,0:54:58.32,0:55:03.80,Default,,0,0,0,,{\i1}The finished key art aims for a complete image.{\i0}
 Dialogue: 0,0:55:03.80,0:55:06.17,Default,,0,0,0,,{\i1}This is where the key animator's job ends.{\i0}
 Dialogue: 0,0:55:06.17,0:55:08.47,Default,,0,0,0,,{\i1}Good work, Mr. Handa.{\i0}
-Dialogue: 0,0:55:12.71,0:55:17.68,Default,,0,0,0,,{\i1}In the same building as TRIGGER we find\Nthe CG production studio "Sanjigen".{\i0}
-Dialogue: 0,0:55:17.68,0:55:22.78,Default,,0,0,0,,{\i1}All film processing for\NLittle Witch Academia is performed here.{\i0}
+Dialogue: 0,0:55:12.71,0:55:17.68,Default,,0,0,0,,{\i1}В том же здании, что и студия TRIGGER,\Nрасположена студия компьютерной графики "Sanjigen".{\i0}
+Dialogue: 0,0:55:17.68,0:55:22.78,Default,,0,0,0,,{\i1}Вся обработка для\NLittle Witch Academia проводится здесь.{\i0}
 Dialogue: 0,0:55:24.08,0:55:30.72,Default,,0,0,0,,{\i1}The Director of Compositing,\Nветеран, известный своей работой над Gurren Lagaan.{\i0}
 Dialogue: 0,0:55:25.55,0:55:30.72,Default - Top,,0,0,0,,Compositing Director\NToyonori Yamada (Sanjigen)
 Dialogue: 0,0:55:31.92,0:55:36.80,Default,,0,0,0,,{\i1}Compositing это последний этап\N производства анимации (анимационного фильма).{\i0}
@@ -655,7 +655,7 @@ Dialogue: 0,0:55:46.37,0:55:53.55,Default,,0,0,0,,{\i1}Они использую
 Dialogue: 0,0:55:53.55,0:56:00.39,Default,,0,0,0,,{\i1}Например, "татаки". Это техника, пришедшая\N со времен cell animation.{\i0}
 Dialogue: 0,0:56:04.26,0:56:11.86,Default,,0,0,0,,{\i1}Материал для татаки, созданный на бумаге, оцифровывается\N, затем подготавливается для более простой компьютерной обработки.{\i0}
 Dialogue: 0,0:56:12.57,0:56:17.67,Default,,0,0,0,,{\i1}Сначала, последовательность 4 sheets,\Nсовмещенных с Honda's layout.{\i0}
-Dialogue: 0,0:56:24.64,0:56:27.31,Default,,0,0,0,,Вы можете сказать, что я передвигаю?
+Dialogue: 0,0:56:24.64,0:56:27.31,Default,,0,0,0,,Вы можете сказать, что двигается?
 Dialogue: 0,0:56:27.31,0:56:28.05,Default,,0,0,0,,{\i1}Да.{\i0}
 Dialogue: 0,0:56:29.95,0:56:32.28,Default,,0,0,0,,{\i1}Эти голубые точки это и есть эффект "татаки"?{\i0}
 Dialogue: 0,0:56:32.28,0:56:35.79,Default,,0,0,0,,Да, эти маленькие точки.
@@ -673,46 +673,46 @@ Dialogue: 0,0:57:49.96,0:57:55.97,Default,,0,0,0,,Но я действитель
 Dialogue: 0,0:57:55.97,0:58:06.55,Default,,0,0,0,,Это заставляет и меня выкладываться по максимуму.
 Dialogue: 0,0:58:07.81,0:58:17.22,Default,,0,0,0,,Он определенно взял на себя риск,\Nтратя столько времени чтобы закончить эту сцену вручную.
 Dialogue: 0,0:58:17.66,0:58:24.13,Default,,0,0,0,,Поэтому, я сделаю все что смогу со своей стороны.
-Dialogue: 0,0:58:26.73,0:58:34.51,Default,,0,0,0,,{\i1}Сможет ли он завершить эту сцену, не разрушив\Nhand-drawn feel в которое Handa вложил столько heart? (передав hand-drawn feel){\i0}
+Dialogue: 0,0:58:26.73,0:58:34.51,Default,,0,0,0,,{\i1}Сможет ли он завершить эту сцену, не разрушив\Nощущение рисовки от руки, в которое Handa вложил столько сил? (передав hand-drawn feel){\i0}
 Dialogue: 0,0:58:34.51,0:58:37.88,Default,,0,0,0,,{\i1}Метод проб и ошибок Yamada продолжается.{\i0}
-Dialogue: 0,0:58:53.93,0:58:56.26,Default,,0,0,0,,{\i1}Последний рывок.{\i0}
-Dialogue: 0,0:58:56.26,0:59:00.93,Default,,0,0,0,,{\i1}Even late at night, they're still hard at work.{\i0}
-Dialogue: 0,0:59:07.17,0:59:13.18,Default,,0,0,0,,{\i1}Though furnished with emergency nap areas,\Nthere's hardly any time to use them.{\i0}
-Dialogue: 0,0:59:17.55,0:59:20.29,Default,,0,0,0,,{\i1}They spend days and nights here working.{\i0}
-Dialogue: 0,0:59:20.29,0:59:25.59,Default,,0,0,0,,{\i1}They only return home when they feel\Nthey absolutely must take a shower.{\i0}
-Dialogue: 0,0:59:28.26,0:59:33.50,Default,,0,0,0,,{\i1}Fatigue has reached its peak, and they\Ncannot progress as well as they'd like.{\i0}
-Dialogue: 0,0:59:36.04,0:59:40.84,Default,,0,0,0,,{\i1}There's a large amount of\Nwastepaper at Mr. Sakamoto's feet.{\i0}
-Dialogue: 0,0:59:44.44,0:59:51.05,Default,,0,0,0,,{\i1}It seems that no matter how he tries, he can't\Nget Chariot's light illusions to look right.{\i0}
-Dialogue: 0,1:00:09.44,1:00:13.54,Default,,0,0,0,,What are you doing?
-Dialogue: 0,1:00:13.54,1:00:16.88,Default,,0,0,0,,Please stop.
-Dialogue: 0,1:00:18.78,1:00:23.52,Default,,0,0,0,,I don't want anyone looking through that.
-Dialogue: 0,1:00:23.52,1:00:27.45,Default,,0,0,0,,It's just trash.
-Dialogue: 0,1:00:27.45,1:00:29.82,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,1:00:29.82,1:00:32.76,Default,,0,0,0,,You're so mean.
-Dialogue: 0,1:01:00.99,1:01:02.45,Default,,0,0,0,,{\i1}And then...{\i0}
-Dialogue: 0,1:01:03.66,1:01:06.16,Default,,0,0,0,,{\i1}All the key animation is done.{\i0}
-Dialogue: 0,1:01:07.33,1:01:12.36,Default,,0,0,0,,{\i1}The half-year spent on this film will soon be coming to an end.{\i0}
-Dialogue: 0,1:01:20.94,1:01:22.51,Default,,0,0,0,,Good work!
-Dialogue: 0,1:01:23.41,1:01:25.11,Default,,0,0,0,,{\i1}February 14th.{\i0}
-Dialogue: 0,1:01:26.05,1:01:27.91,Default,,0,0,0,,That's quite the luggage.
-Dialogue: 0,1:01:30.02,1:01:37.16,Default,,0,0,0,,{\i1}Director Yoshinari and the two producers have returned\Nto Japan after finishing the sound work in France.{\i0}
-Dialogue: 0,1:01:37.16,1:01:39.46,Default,,0,0,0,,{\i1}It's just barely before the deadline.{\i0}
-Dialogue: 0,1:01:39.46,1:01:43.40,Default,,0,0,0,,{\i1}They go straight from Narita Airport\Nto the editing studio.{\i0}
-Dialogue: 0,1:01:49.10,1:01:54.04,Default,,0,0,0,,{\i1}This small hard disk holds the completed film.{\i0}
-Dialogue: 0,1:01:54.04,1:01:58.24,Default,,0,0,0,,{\i1}Everything up to now is included in there.{\i0}
-Dialogue: 0,1:01:58.91,1:02:02.92,Default,,0,0,0,,{\i1}This is the last part of the job for these five.{\i0}
-Dialogue: 0,1:02:12.29,1:02:15.53,Default,,0,0,0,,Now we'll play it all the way through.
-Dialogue: 0,1:02:16.03,1:02:19.10,Default,,0,0,0,,Thank you.
-Dialogue: 0,1:02:59.51,1:03:02.07,Default,,0,0,0,,Welcome, everyone!
-Dialogue: 0,1:03:07.81,1:03:11.15,Default,,0,0,0,,We're setting off for the Land of Magic!
-Dialogue: 0,1:03:33.61,1:03:35.87,Default,,0,0,0,,{\i1}Here's my last question for you.{\i0}
-Dialogue: 0,1:03:37.91,1:03:41.55,Default,,0,0,0,,{\i1}Do you like these young animators?{\i0}
-Dialogue: 0,1:03:44.35,1:03:48.59,Default,,0,0,0,,Well, hm.
-Dialogue: 0,1:03:50.16,1:03:56.09,Default,,0,0,0,,I'd have to spend a little\Nmore time with them to know.
-Dialogue: 0,1:04:00.50,1:04:08.14,Default,,0,0,0,,Come to think of it, we mainly\Ncommunicated through drawings.
-Dialogue: 0,1:04:10.81,1:04:16.52,Default,,0,0,0,,If possible, I'd like them to\Ncontinue in this line of work.
-Dialogue: 0,1:04:17.65,1:04:23.19,Default,,0,0,0,,There are many who leave the industry\Neven when they have potential.
-Dialogue: 0,1:04:32.30,1:04:41.84,Default,,0,0,0,,I do hope I can work with them in the future.
-Dialogue: 0,1:04:43.64,1:04:44.84,Default,,0,0,0,,{\i1}Thank you very much.{\i0}
-Dialogue: 0,1:05:34.69,1:05:39.43,Default,,0,0,0,,{\i1}Never forget that faith in yourself is magic!{\i0}
-Dialogue: 0,1:05:45.57,1:05:53.95,Default,,0,0,0,,{\i1}How the Magic Was Created\N- Little{\i0} Witch {\i1}Academia Work Log~{\i0}
+Dialogue: 0,0:58:53.93,0:58:56.26,Default,,0,0,0,,{\i1}Пришло время заключительного рывка.{\i0}
+Dialogue: 0,0:58:56.26,0:59:00.93,Default,,0,0,0,,{\i1}Даже поздно ночью, работа кипит.{\i0}
+Dialogue: 0,0:59:07.17,0:59:13.18,Default,,0,0,0,,{\i1}В офисе обустроены места, где можно вздемнуть,\Nно у них нет времени пользоваться ими.{\i0}
+Dialogue: 0,0:59:17.55,0:59:20.29,Default,,0,0,0,,{\i1}Дни и ночи проходят за работой.{\i0}
+Dialogue: 0,0:59:20.29,0:59:25.59,Default,,0,0,0,,{\i1}Они возвращаются домой только тогда,\Nкогда возникает необходимость принять душ.{\i0}
+Dialogue: 0,0:59:28.26,0:59:33.50,Default,,0,0,0,,{\i1}Усталость достигла предела, и\Nони больше не могут работать настолько эффективно, как бы хотелось.{\i0}
+Dialogue: 0,0:59:36.04,0:59:40.84,Default,,0,0,0,,{\i1}У ног Sakamoto лежит куча\N исписанной бумаги.{\i0}
+Dialogue: 0,0:59:44.44,0:59:51.05,Default,,0,0,0,,{\i1}Похоже, что как бы он не старался, у него не выходит\Nнарисовать световые иллюзии Chariot.{\i0}
+Dialogue: 0,1:00:09.44,1:00:13.54,Default,,0,0,0,,Что вы делаете?
+Dialogue: 0,1:00:13.54,1:00:16.88,Default,,0,0,0,,Пожалуйста, прекратите.
+Dialogue: 0,1:00:18.78,1:00:23.52,Default,,0,0,0,,Не хочу, чтобы кто-нибудь это видел.
+Dialogue: 0,1:00:23.52,1:00:27.45,Default,,0,0,0,,Это все - мусор.
+Dialogue: 0,1:00:27.45,1:00:29.82,Default,,0,0,0,,Прости.
+Dialogue: 0,1:00:29.82,1:00:32.76,Default,,0,0,0,,Это нечестно (жестоко, hidoi).
+Dialogue: 0,1:01:00.99,1:01:02.45,Default,,0,0,0,,{\i1}А затем...{\i0}
+Dialogue: 0,1:01:03.66,1:01:06.16,Default,,0,0,0,,{\i1}Вся ключевая анимация завершена.{\i0}
+Dialogue: 0,1:01:07.33,1:01:12.36,Default,,0,0,0,,{\i1}Полгода, проведенные в работе над фильмом скоро подходят к концу.{\i0}
+Dialogue: 0,1:01:20.94,1:01:22.51,Default,,0,0,0,,Спасибо за работу!
+Dialogue: 0,1:01:23.41,1:01:25.11,Default,,0,0,0,,{\i1}14е февраля.{\i0}
+Dialogue: 0,1:01:26.05,1:01:27.91,Default,,0,0,0,,Ну и багаж.
+Dialogue: 0,1:01:30.02,1:01:37.16,Default,,0,0,0,,{\i1}Режссер Yoshinari и два продюссера вернулись\Nв Японию после завершения работы со звуком во Франции.{\i0}
+Dialogue: 0,1:01:37.16,1:01:39.46,Default,,0,0,0,,{\i1}Уже практически дедлайн.{\i0}
+Dialogue: 0,1:01:39.46,1:01:43.40,Default,,0,0,0,,{\i1}Прямиком из аэропорта Нарита\Nони отправляются в студию.{\i0}
+Dialogue: 0,1:01:49.10,1:01:54.04,Default,,0,0,0,,{\i1}Завершенный фильм находится на этом маленьком жестком диске.{\i0}
+Dialogue: 0,1:01:54.04,1:01:58.24,Default,,0,0,0,,{\i1}Вся работа на данный момент содержится на нем.{\i0}
+Dialogue: 0,1:01:58.91,1:02:02.92,Default,,0,0,0,,{\i1}Это заключительная часть работы для этих пятерых.{\i0}
+Dialogue: 0,1:02:12.29,1:02:15.53,Default,,0,0,0,,Сейчас мы просмотрим его целиком.
+Dialogue: 0,1:02:16.03,1:02:19.10,Default,,0,0,0,,Спасибо.
+Dialogue: 0,1:02:59.51,1:03:02.07,Default,,0,0,0,,Добро пожаловать!
+Dialogue: 0,1:03:07.81,1:03:11.15,Default,,0,0,0,,Мы отправляемся в Мир Магии!
+Dialogue: 0,1:03:33.61,1:03:35.87,Default,,0,0,0,,{\i1}У меня остался последний вопрос.{\i0}
+Dialogue: 0,1:03:37.91,1:03:41.55,Default,,0,0,0,,{\i1}Вам понравились эти молодые аниматоры?{\i0}
+Dialogue: 0,1:03:44.35,1:03:48.59,Default,,0,0,0,,Ну, хмм.
+Dialogue: 0,1:03:50.16,1:03:56.09,Default,,0,0,0,,Мне нужно провести с ними\Nнемного больше времени, чтобы ответить.
+Dialogue: 0,1:04:00.50,1:04:08.14,Default,,0,0,0,,Если так подумать, мы в основном\Nобщались через рисунки.
+Dialogue: 0,1:04:10.81,1:04:16.52,Default,,0,0,0,,Если возможно, я бы хотел чтобы \Nони продолжали работу в этом направлении (индустрии).
+Dialogue: 0,1:04:17.65,1:04:23.19,Default,,0,0,0,,Многие покидают индустрию\Nдаже если у них есть потенциал.
+Dialogue: 0,1:04:32.30,1:04:41.84,Default,,0,0,0,,Надеюсь, я смогу поработать с ними в будущем.
+Dialogue: 0,1:04:43.64,1:04:44.84,Default,,0,0,0,,{\i1}Спасибо большое.{\i0}
+Dialogue: 0,1:05:34.69,1:05:39.43,Default,,0,0,0,,{\i1}Никогда не забывайте, что вера в себя это волшебство!{\i0}
+Dialogue: 0,1:05:45.57,1:05:53.95,Default,,0,0,0,,{\i1}Как создавалась магия (Яп. Момент, когда рождалась магия)\N- Little{\i0} Witch {\i1}Academia Work Log~{\i0}
