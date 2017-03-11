@@ -621,30 +621,30 @@ Dialogue: 0,0:52:12.13,0:52:17.36,Default,,0,0,0,,продолжите нахо�
 Dialogue: 0,0:52:17.36,0:52:23.47,Default,,0,0,0,,Хотя вас могут начать критиковать, или даже будут отвергать (н е  о ч е н ь), (Though you may find yourselves\Ncriticized, or even rejected,)
 Dialogue: 0,0:52:23.47,0:52:31.71,Default,,0,0,0,,я бы хотела, чтобы вы развивались, но не робко, а дерзко (тоже не нравится как звучит). (I'd like you to develop, not in a small orderly\Nfashion, but, in a big brash fashion.)
 Dialogue: 0,0:52:36.32,0:52:38.18,Default,,0,0,0,,{\i1}14 Января (January 14th.){\i0}
-Dialogue: 0,0:52:38.18,0:52:41.92,Default,,0,0,0,,{\i1}В Токио идет рекордный снегопад. (Tokyo is having record-breaking snowfall.){\i0}
+Dialogue: 0,0:52:38.18,0:52:41.92,Default,,0,0,0,,{\i1На Токио обрушился рекордный снегопад. (Tokyo is having record-breaking snowfall.){\i0}
 Dialogue: 0,0:52:46.26,0:52:53.43,Default,,0,0,0,,{\i1}Вечно-апатичный Mr. Handa сегодня особенно серьезен. (The normally-aloof Mr. Handa\Nhas an earnest expression today.){\i0}
 Dialogue: 0,0:52:54.83,0:53:01.77,Default,,0,0,0,,{\i1}Он кажется близок к своему идеалу в работе над ключевыми кадрами фейрверка, над которыми он долго бился. (He seems close to perfecting the fireworks key art\Nthat he's been wrestling with for a long time.){\i0}
 Dialogue: 0,0:53:05.24,0:53:10.32,Default,,0,0,0,,{\i1}В современном аниме фейрверки практически всегда создаются на компьютере. (In current anime, fireworks are\Nalmost always done with CG.){\i0}
-Dialogue: 0,0:53:10.32,0:53:17.79,Default,,0,0,0,,{\i1}Однако Mr. Handa анимирует взыр фейрверка вручную, вполть до отдельных искр (вспышек?). (However, Mr. Handa has animated the firework\Nstars by hand, down to the individual grains.){\i0}
-Dialogue: 0,0:53:26.20,0:53:34.91,Default,,0,0,0,,{\i1}The story's last scene, symbolizing Akko's thoughts\Nin sparkling fashion, is the final highlight.{\i0}
+Dialogue: 0,0:53:10.32,0:53:17.79,Default,,0,0,0,,{\i1}Однако Mr. Handa анимирует взрыв фейрверка вручную, вполть до отдельных искр (вспышек?). (However, Mr. Handa has animated the firework\Nstars by hand, down to the individual grains.){\i0}
+Dialogue: 0,0:53:26.20,0:53:34.91,Default,,0,0,0,,{\i1}Последняя сцена картины, символизирующая искрящиеся чувства Akko\N, это кульминация фильма (highlight).{\i0}
 Dialogue: 0,0:53:36.41,0:53:43.32,Default,,0,0,0,,{\i1}Эта сцена занимает 38 листов, включая материалы для спецэффектов. (His key art totals 38 sheets, including\Nmaterials for the special effects.){\i0}
 Dialogue: 0,0:53:46.42,0:53:50.96,Default,,0,0,0,,Всё это было нарисовано вручную, поэтому заняло так много времени. (It was all by hand, so it took a long time.)
 Dialogue: 0,0:53:50.96,0:53:55.90,Default,,0,0,0,,Я думаю около недели. (About a week I think.)
 Dialogue: 0,0:53:55.90,0:53:58.86,Default,,0,0,0,,{\i1}Сколько длится сцена? (How long is the cut?){\i0}
-Dialogue: 0,0:53:58.86,0:54:02.50,Default,,0,0,0,,Четыре с половиной секнуды. (4.5 seconds.)
+Dialogue: 0,0:53:58.86,0:54:02.50,Default,,0,0,0,,Четыре с половиной секунды.
 Dialogue: 0,0:54:02.50,0:54:06.01,Default,,0,0,0,,{\i1}Всего лишь один взрыв. (Just for 1 bang.){\i0}
 Dialogue: 0,0:54:08.01,0:54:11.74,Default,,0,0,0,,Я надеюсь, что эта работа проделана не зря. (I hope this work pays off.)
-Dialogue: 0,0:54:12.98,0:54:16.78,Default,,0,0,0,,{\i1}It's the last one.{\i0}
-Dialogue: 0,0:54:16.78,0:54:18.48,Default,,0,0,0,,Right.
-Dialogue: 0,0:54:18.58,0:54:23.66,Default,,0,0,0,,I included many demands for the filming process.
-Dialogue: 0,0:54:28.23,0:54:31.33,Default,,0,0,0,,It'll likely take them a while too.
-Dialogue: 0,0:54:31.33,0:54:32.70,Default,,0,0,0,,{\i1}Oh, is that it?{\i0}
-Dialogue: 0,0:54:32.70,0:54:33.77,Default,,0,0,0,,Yes.
-Dialogue: 0,0:54:34.83,0:54:36.74,Default,,0,0,0,,Book for... "tataki".
-Dialogue: 0,0:54:41.17,0:54:56.16,Default,,0,0,0,,Now the rest is up to the in-between, painting,\Nand compositing departments.
-Dialogue: 0,0:54:58.32,0:55:03.80,Default,,0,0,0,,{\i1}The finished key art aims for a complete image.{\i0}
-Dialogue: 0,0:55:03.80,0:55:06.17,Default,,0,0,0,,{\i1}This is where the key animator's job ends.{\i0}
-Dialogue: 0,0:55:06.17,0:55:08.47,Default,,0,0,0,,{\i1}Good work, Mr. Handa.{\i0}
+Dialogue: 0,0:54:12.98,0:54:16.78,Default,,0,0,0,,{\i1}Это последняя.{\i0}
+Dialogue: 0,0:54:16.78,0:54:18.48,Default,,0,0,0,,Да.
+Dialogue: 0,0:54:18.58,0:54:23.66,Default,,0,0,0,,У меня высокие требования к фильму. (высокая планка)
+Dialogue: 0,0:54:28.23,0:54:31.33,Default,,0,0,0,,Скорее всего, это займет у них немало времени.
+Dialogue: 0,0:54:31.33,0:54:32.70,Default,,0,0,0,,{\i1}О, это оно?{\i0}
+Dialogue: 0,0:54:32.70,0:54:33.77,Default,,0,0,0,,Да.
+Dialogue: 0,0:54:34.83,0:54:36.74,Default,,0,0,0,,Книга для... "татаки".
+Dialogue: 0,0:54:41.17,0:54:56.16,Default,,0,0,0,,Сейчас, оставшаяся часть работы лежит на отделах in-between, раскраски,\Nи compositing.
+Dialogue: 0,0:54:58.32,0:55:03.80,Default,,0,0,0,,{\i1}Завершение ключевых артов выводит картину на финишную картину. (Обязательно сверить с яп.) (The finished key art aims for a complete image).{\i0}
+Dialogue: 0,0:55:03.80,0:55:06.17,Default,,0,0,0,,{\i1}Здесь заканчивается работа ключевого аниматора (key animator).{\i0}
+Dialogue: 0,0:55:06.17,0:55:08.47,Default,,0,0,0,,{\i1}Спасибо за работу, Mr. Handa.{\i0}
 Dialogue: 0,0:55:12.71,0:55:17.68,Default,,0,0,0,,{\i1}В том же здании, что и студия TRIGGER,\Nрасположена студия компьютерной графики "Sanjigen".{\i0}
 Dialogue: 0,0:55:17.68,0:55:22.78,Default,,0,0,0,,{\i1}Вся обработка для\NLittle Witch Academia проводится здесь.{\i0}
 Dialogue: 0,0:55:24.08,0:55:30.72,Default,,0,0,0,,{\i1}The Director of Compositing,\Nветеран, известный своей работой над Gurren Lagaan.{\i0}
