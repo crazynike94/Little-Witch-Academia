@@ -16,9 +16,9 @@ Video File: E:/Little Witch Academia/Little Witch Academia Documentary (2013)[Pl
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.425000
-Scroll Position: 31
-Active Line: 43
-Video Position: 4966
+Scroll Position: 199
+Active Line: 208
+Video Position: 29068
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -244,7 +244,7 @@ Dialogue: 0,0:15:30.19,0:15:33.93,Default,,0,0,0,,{\pos(960,950)}но прежд
 Dialogue: 0,0:15:33.93,0:15:41.17,Default,,0,0,0,,{\pos(960,870)}поэтому покажи движение в этом месте вот так.\NКогда она делает усилие наклони ее чуть в сторону.
 Dialogue: 0,0:15:41.17,0:15:49.68,Default,,0,0,0,,{\pos(960,870)}Если ты не покажешь само движение — не будет ощущения усилия.
 Dialogue: 0,0:15:49.68,0:16:00.26,Default,,0,0,0,,{\pos(960,870)}Кроме того не помешало бы изменить ее позу еще больше.
-Dialogue: 0,0:16:09.90,0:16:18.01,Default,,0,0,0,,{\pos(960,870)}Вместо прямолинейного сделай ее движение более окружным... (чтобы они двигалась по дуге...)
+Dialogue: 0,0:16:09.90,0:16:18.01,Default,,0,0,0,,{\pos(960,870)}Вместо прямолинейного сделай ее движение более скругленными...
 Dialogue: 0,0:16:18.01,0:16:22.34,Default,,0,0,0,,{\pos(960,870)}– Так ведь лучше?\N– Думаю да.
 Dialogue: 0,0:16:24.71,0:16:29.83,Narrator,,0,0,0,,Самые большие изменения претерпели движение ее бедер, когда она поднимается.
 Dialogue: 0,0:16:31.05,0:16:32.29,Background,,0,0,0,,Ну раз так!
