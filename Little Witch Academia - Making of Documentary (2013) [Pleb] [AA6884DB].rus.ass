@@ -16,9 +16,9 @@ Video File: C:/Users/modox/Google Диск/Little Witch Academia - Making of Doc
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 396
-Active Line: 385
-Video Position: 58382
+Scroll Position: 651
+Active Line: 661
+Video Position: 105334
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -698,7 +698,7 @@ Dialogue: 0,0:57:55.97,0:58:06.55,Default,,0,0,0,,{\pos(960,880)}Это заст
 Dialogue: 0,0:58:07.81,0:58:17.22,Default,,0,0,0,,{\pos(960,880)}Он определённо взял на себя риск,\Nтратя столько времени чтобы закончить эту сцену вручную.
 Dialogue: 0,0:58:17.66,0:58:24.13,Default,,0,0,0,,{\pos(960,880)}Поэтому, я сделаю все, что смогу, со своей стороны.
 Dialogue: 0,0:58:26.84,0:58:33.57,Narrator,,0,0,0,,Сможет ли он завершить эту сцену, не разрушив ощущение рисовки от руки, в которую Handa вложил столько сил?
-Dialogue: 0,0:58:34.64,0:58:37.30,Narrator,,0,0,0,,Метод проб и ошибок Yamada продолжается.
+Dialogue: 0,0:58:34.64,0:58:37.30,Narrator,,0,0,0,,Работа методом проб и ошибок продолжается.
 Dialogue: 0,0:58:54.02,0:58:55.58,Narrator,,0,0,0,,Пришло время заключительного рывка.
 Dialogue: 0,0:58:56.38,0:59:00.33,Narrator,,0,0,0,,Даже поздно ночью работа кипит.
 Dialogue: 0,0:59:07.29,0:59:12.87,Narrator,,0,0,0,,В офисе обустроены места, где можно вздремнуть,\Nно у них нет времени пользоваться ими.
