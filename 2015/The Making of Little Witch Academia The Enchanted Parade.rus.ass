@@ -15,9 +15,9 @@ Video File: E:/Videos/The Making of Little Witch Academia The Enchanted Parade.m
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 137
-Active Line: 153
-Video Position: 23797
+Scroll Position: 175
+Active Line: 178
+Video Position: 28956
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,32 +183,32 @@ Dialogue: 0,0:12:54.60,0:12:58.07,Default,,0,0,0,,Сегодня команда 
 Dialogue: 0,0:12:58.51,0:13:04.21,Default,,0,0,0,,Рисунки все еще очень грубы - главное здесь - проверить как все будет выглядить в движении. The drawings are still very rough\N- the goal here is to check on how they will look when animated.
 Dialogue: 0,0:13:05.18,0:13:10.65,Default,,0,0,0,,Yoshinari делает заметки об ошибках и проблемах в каждом из кадров But Yoshinari quickly notices\Nwhere there are problems in each cut,
 Dialogue: 0,0:13:10.65,0:13:12.79,Default,,0,0,0,,и говорит о них команде. (инструктирует команду?) and briefs his staff.
-Dialogue: 0,0:13:14.02,0:13:17.23,Default,,0,0,0,,Here he speaks about\Nthis tomato throwing scene.
-Dialogue: 0,0:13:29.47,0:13:31.51,Default,,0,0,0,,The bodies move forward a little,
-Dialogue: 0,0:13:31.51,0:13:38.98,Default,,0,0,0,,then the arm... when it starts to swing,\Nit seems to return back a little...
-Dialogue: 0,0:13:38.98,0:13:46.32,Default,,0,0,0,,The upper body movement needs to parallel\Nwhat the body as a whole is doing.
-Dialogue: 0,0:13:53.76,0:13:56.73,Default,,0,0,0,,This is the way the torso springs.
-Dialogue: 0,0:13:56.73,0:14:07.14,Default,,0,0,0,,The arm needs to go along for the ride like this.
-Dialogue: 0,0:14:11.98,0:14:18.05,Default,,0,0,0,,You have to keep these branch points\Nin mind when you draw the frames...
-Dialogue: 0,0:14:18.05,0:14:23.83,Default,,0,0,0,,Otherwise, we're not really conveying\Nthe transmission of force properly...
-Dialogue: 0,0:14:26.40,0:14:29.03,Default,,0,0,0,,Take careful note of these points.
-Dialogue: 0,0:14:30.57,0:14:33.00,Default,,0,0,0,,What could this possibly mean?
-Dialogue: 0,0:14:33.00,0:14:35.27,Default,,0,0,0,,Let's take a closer look at his diagram.
-Dialogue: 0,0:14:37.27,0:14:43.75,Default,,0,0,0,,Yoshinari's sketches show the way\Na human body moves when it's throwing an object.
-Dialogue: 0,0:14:45.71,0:14:50.35,Default,,0,0,0,,The line in the center represents\Nthe central axis of the body's center of gravity.
-Dialogue: 0,0:14:51.75,0:14:54.99,Default,,0,0,0,,The axis moves slightly forward\Nwhen preparing to throw.
-Dialogue: 0,0:14:54.99,0:14:57.69,Default,,0,0,0,,Then it springs back.
-Dialogue: 0,0:14:57.69,0:15:02.03,Default,,0,0,0,,The moment the throw begins,\Nthe body pitches forward while the arm reaches back.
-Dialogue: 0,0:15:02.03,0:15:04.97,Default,,0,0,0,,Finally, the arm swings forward.
-Dialogue: 0,0:15:10.37,0:15:13.71,Default,,0,0,0,,Let's look at the layout\Ndrawn by the animators once more.
-Dialogue: 0,0:15:15.98,0:15:20.62,Default,,0,0,0,,If we look for the body's\Ncentral axis in these sketches...
-Dialogue: 0,0:15:27.46,0:15:28.92,Default,,0,0,0,,It's very clear.
-Dialogue: 0,0:15:29.46,0:15:32.93,Default,,0,0,0,,The body's center of gravity is not moving at all.
-Dialogue: 0,0:15:33.33,0:15:37.37,Default,,0,0,0,,The upper body is constantly\Npitched forward as the object is thrown.
-Dialogue: 0,0:15:42.74,0:15:47.38,Default,,0,0,0,,Not nearly powerful enough\Nfor a gang of mean, lively kids.
-Dialogue: 0,0:15:51.08,0:15:56.99,Default,,0,0,0,,But, in the finished cut,\Nyou can clearly see the force behind their throwing.
-Dialogue: 0,0:16:03.36,0:16:06.16,Default,,0,0,0,,This cut is just two and a half seconds long.
-Dialogue: 0,0:16:06.16,0:16:13.54,Default,,0,0,0,,But you can see the high level\Nof animation know-how embedded in each frame.
+Dialogue: 0,0:13:14.02,0:13:17.23,Default,,0,0,0,,Сейчас он будет говорить о сцене в которой бросаются томатами. Here he speaks about\Nthis tomato throwing scene.
+Dialogue: 0,0:13:29.47,0:13:31.51,Default,,0,0,0,,Тело подается немного вперед, The bodies move forward a little,
+Dialogue: 0,0:13:31.51,0:13:38.98,Default,,0,0,0,,затем рука... когда начинается бросок, она немного отклоняется назад... then the arm... when it starts to swing,\Nit seems to return back a little...
+Dialogue: 0,0:13:38.98,0:13:46.32,Default,,0,0,0,,Движение верхней части тела должно быть согласовано с нижней. The upper body movement needs to parallel\Nwhat the body as a whole is doing.
+Dialogue: 0,0:13:53.76,0:13:56.73,Default,,0,0,0,,Вот так пружинит (движется/гнется) тело. This is the way the torso springs.
+Dialogue: 0,0:13:56.73,0:14:07.14,Default,,0,0,0,,Рука должна вот так уходить вперед. The arm needs to go along for the ride like this.
+Dialogue: 0,0:14:11.98,0:14:18.05,Default,,0,0,0,,Вы должны всегда держать в уме этот скелет (не очень то), когда рисуете кадры... You have to keep these branch points\Nin mind when you draw the frames...
+Dialogue: 0,0:14:18.05,0:14:23.83,Default,,0,0,0,,В противном случае (иначе) мы не сможем правильно передать движения... Otherwise, we're not really conveying\Nthe transmission of force properly...
+Dialogue: 0,0:14:26.40,0:14:29.03,Default,,0,0,0,,Обращайте внимание на эти (такие) моменты. Take careful note of these points.
+Dialogue: 0,0:14:30.57,0:14:33.00,Default,,0,0,0,,Что бы это могло значить? What could this possibly mean?
+Dialogue: 0,0:14:33.00,0:14:35.27,Default,,0,0,0,,Давайте взглянем на чертеж (схему) поближе. Let's take a closer look at his diagram.
+Dialogue: 0,0:14:37.27,0:14:43.75,Default,,0,0,0,,Наброски Хидамари (Yoshinari) показывают как движется человеческое тело во время брсока. Yoshinari's sketches show the way\Na human body moves when it's throwing an object.
+Dialogue: 0,0:14:45.71,0:14:50.35,Default,,0,0,0,,Цент тяжести тела показан ветикальной линией на каждом из рисунков. The line in the center represents\Nthe central axis of the body's center of gravity.
+Dialogue: 0,0:14:51.75,0:14:54.99,Default,,0,0,0,,При подготовке к броску центр тяжести смещается немного вперед. The axis moves slightly forward\Nwhen preparing to throw.
+Dialogue: 0,0:14:54.99,0:14:57.69,Default,,0,0,0,,Затем (он) отклоняется назад. Then it springs back.
+Dialogue: 0,0:14:57.69,0:15:02.03,Default,,0,0,0,,В момент, когда начинается бросок, тело движется вперед, в то время как рука уходит назад. The moment the throw begins,\Nthe body pitches forward while the arm reaches back.
+Dialogue: 0,0:15:02.03,0:15:04.97,Default,,0,0,0,,И наконец рука устремляется вперед. Finally, the arm swings forward.
+Dialogue: 0,0:15:10.37,0:15:13.71,Default,,0,0,0,,Давайте взглянем на заготовки аниматоров еще раз. Let's look at the layout\Ndrawn by the animators once more.
+Dialogue: 0,0:15:15.98,0:15:20.62,Default,,0,0,0,,Если взгянуть на центр тяжести тел на этом наброске... If we look for the body's\Ncentral axis in these sketches...
+Dialogue: 0,0:15:27.46,0:15:28.92,Default,,0,0,0,,Все очень хуево. It's very clear.
+Dialogue: 0,0:15:29.46,0:15:32.93,Default,,0,0,0,,Центр тяжести почти не сдвигается. The body's center of gravity is not moving at all.
+Dialogue: 0,0:15:33.33,0:15:37.37,Default,,0,0,0,,Во время броска верхняя часть тела наклоняется только вперед. The upper body is constantly\Npitched forward as the object is thrown.
+Dialogue: 0,0:15:42.74,0:15:47.38,Default,,0,0,0,,Не слишком сильные броски для "банды" детей. Not nearly powerful enough\Nfor a gang of mean, lively kids.
+Dialogue: 0,0:15:51.08,0:15:56.99,Default,,0,0,0,,Но в конечном варианте вы буквально ощущаете силу броскаов. But, in the finished cut,\Nyou can clearly see the force behind their throwing.
+Dialogue: 0,0:16:03.36,0:16:06.16,Default,,0,0,0,,Эта сцена займет всего лишь 2 с половиной секунды. This cut is just two and a half seconds long.
+Dialogue: 0,0:16:06.16,0:16:13.54,Default,,0,0,0,,Но вы можете увидеть высокий уровень проработки каждого кадра. But you can see the high level\Nof animation know-how embedded in each frame.
 Dialogue: 0,0:16:18.84,0:16:23.05,Default,,0,0,0,,Rie Ishige assisted with directing\Nthis tomato throwing scene.
 Dialogue: 0,0:16:26.45,0:16:30.99,Default T,,0,0,0,,She's a rookie animator\Nwho passed the animation test this year.
 Dialogue: 0,0:16:31.25,0:16:33.86,Default Subtitle,,0,0,0,,(Animator: Rie Ishige)
