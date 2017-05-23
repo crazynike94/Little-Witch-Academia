@@ -15,9 +15,9 @@ Video File: E:/Videos/The Making of Little Witch Academia The Enchanted Parade.m
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 175
-Active Line: 178
-Video Position: 28956
+Scroll Position: 209
+Active Line: 217
+Video Position: 35868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -205,50 +205,50 @@ Dialogue: 0,0:15:15.98,0:15:20.62,Default,,0,0,0,,Если взгянуть на
 Dialogue: 0,0:15:27.46,0:15:28.92,Default,,0,0,0,,Все очень хуево. It's very clear.
 Dialogue: 0,0:15:29.46,0:15:32.93,Default,,0,0,0,,Центр тяжести почти не сдвигается. The body's center of gravity is not moving at all.
 Dialogue: 0,0:15:33.33,0:15:37.37,Default,,0,0,0,,Во время броска верхняя часть тела наклоняется только вперед. The upper body is constantly\Npitched forward as the object is thrown.
-Dialogue: 0,0:15:42.74,0:15:47.38,Default,,0,0,0,,Не слишком сильные броски для "банды" детей. Not nearly powerful enough\Nfor a gang of mean, lively kids.
-Dialogue: 0,0:15:51.08,0:15:56.99,Default,,0,0,0,,Но в конечном варианте вы буквально ощущаете силу броскаов. But, in the finished cut,\Nyou can clearly see the force behind their throwing.
+Dialogue: 0,0:15:42.74,0:15:47.38,Default,,0,0,0,,Не слишком сильные броски для таких хулиганов. Not nearly powerful enough\Nfor a gang of mean, lively kids.
+Dialogue: 0,0:15:51.08,0:15:56.99,Default,,0,0,0,,Но в конечном варианте вы буквально ощущаете силу бросков. But, in the finished cut,\Nyou can clearly see the force behind their throwing.
 Dialogue: 0,0:16:03.36,0:16:06.16,Default,,0,0,0,,Эта сцена займет всего лишь 2 с половиной секунды. This cut is just two and a half seconds long.
 Dialogue: 0,0:16:06.16,0:16:13.54,Default,,0,0,0,,Но вы можете увидеть высокий уровень проработки каждого кадра. But you can see the high level\Nof animation know-how embedded in each frame.
-Dialogue: 0,0:16:18.84,0:16:23.05,Default,,0,0,0,,Rie Ishige assisted with directing\Nthis tomato throwing scene.
-Dialogue: 0,0:16:26.45,0:16:30.99,Default T,,0,0,0,,She's a rookie animator\Nwho passed the animation test this year.
+Dialogue: 0,0:16:18.84,0:16:23.05,Default,,0,0,0,,Rie Ishige помогала при режиссировании сцены браска томатов. Rie Ishige assisted with directing\Nthis tomato throwing scene.
+Dialogue: 0,0:16:26.45,0:16:30.99,Default T,,0,0,0,,Она аниматор-новичек и прошла аттестацию только в этом году. She's a rookie animator\Nwho passed the animation test this year.
 Dialogue: 0,0:16:31.25,0:16:33.86,Default Subtitle,,0,0,0,,(Animator: Rie Ishige)
-Dialogue: 0,0:16:31.25,0:16:33.86,Default,,0,0,0,,There are too many things I don't know yet.
-Dialogue: 0,0:16:35.86,0:16:40.40,Default,,0,0,0,,This project is sort of like... a class to me.
-Dialogue: 0,0:16:40.40,0:16:46.13,Default,,0,0,0,,This time, I'm working mostly\Non assisting with masked animation.
-Dialogue: 0,0:16:46.13,0:16:51.47,Default,,0,0,0,,I'm hoping... to learn a lot from this experience.
-Dialogue: 0,0:16:52.61,0:16:59.48,Default,,0,0,0,,I feel like I can't let even\Nthe tiniest lesson go to waste.
-Dialogue: 0,0:16:59.75,0:17:01.48,Default,,0,0,0,,I'll do my best.
-Dialogue: 0,0:17:04.12,0:17:05.95,Default,,0,0,0,,With the storyboard complete,
-Dialogue: 0,0:17:05.95,0:17:10.63,Default,,0,0,0,,the background art team\Nhas also begun their job.
-Dialogue: 0,0:17:12.19,0:17:16.47,Default,,0,0,0,,Leading this team is the same person\Nwho worked on the last project
+Dialogue: 0,0:16:31.25,0:16:33.86,Default,,0,0,0,,Я ещё столького не знаю. There are too many things I don't know yet.
+Dialogue: 0,0:16:35.86,0:16:40.40,Default,,0,0,0,,Этот проект как бы... обучает меня. (Скорее всего неверное перевел!) This project is sort of like... a class to me.
+Dialogue: 0,0:16:40.40,0:16:46.13,Default,,0,0,0,,Сейчас я в основном помогаю с "masked animation" (не нагуглил). This time, I'm working mostly\Non assisting with masked animation.
+Dialogue: 0,0:16:46.13,0:16:51.47,Default,,0,0,0,,Я надеюсь, что наберусь опыта пока работаю тут. I'm hoping... to learn a lot from this experience.
+Dialogue: 0,0:16:52.61,0:16:59.48,Default,,0,0,0,,У меня такое чувство, что мне нельзя тратить ни секунды впустую. I feel like I can't let even\Nthe tiniest lesson go to waste.
+Dialogue: 0,0:16:59.75,0:17:01.48,Default,,0,0,0,,Я сделаю все возможное. I'll do my best.
+Dialogue: 0,0:17:04.12,0:17:05.95,Default,,0,0,0,,После того, как работа над раскадровками закончена With the storyboard complete,
+Dialogue: 0,0:17:05.95,0:17:10.63,Default,,0,0,0,,команда оформления фонов приступает к работе. the background art team\Nhas also begun their job.
+Dialogue: 0,0:17:12.19,0:17:16.47,Default,,0,0,0,,Руководит работой тот же человек, что и при работе над первым фильмом. Leading this team is the same person\Nwho worked on the last project
 Dialogue: 0,0:17:16.47,0:17:18.20,Default Subtitle,,0,0,0,,Art Director: Yuji Kaneko.
-Dialogue: 0,0:17:19.40,0:17:22.84,Default T,,0,0,0,,Most animation today is done digitally,
-Dialogue: 0,0:17:22.84,0:17:28.14,Default T,,0,0,0,,but he uses a hybrid style of\Nboth analog and digital techniques.
-Dialogue: 0,0:17:30.15,0:17:33.22,Default,,0,0,0,,Today's task is storyboard coloring.
-Dialogue: 0,0:17:33.45,0:17:37.82,Default,,0,0,0,,He's painting color directly\Nonto Yoshinari's storyboard.
-Dialogue: 0,0:17:51.87,0:17:55.84,Default,,0,0,0,,Currently, he's working on the first half of the story.
-Dialogue: 0,0:17:55.84,0:17:58.91,Default,,0,0,0,,This is the scene\Nwhere Akko and the others are shopping.
-Dialogue: 0,0:18:01.11,0:18:04.88,Default,,0,0,0,,It's a turning point\Nwhere friendships begin to strain.
-Dialogue: 0,0:18:09.72,0:18:14.52,Default,,0,0,0,,Why did you choose\Nthe colors you're using right now?
-Dialogue: 0,0:18:14.52,0:18:22.60,Default,,0,0,0,,Well, it's evening right now...\Nand two friends are fighting.
-Dialogue: 0,0:18:22.60,0:18:26.34,Default,,0,0,0,,So I want it to look a bit lonely.
-Dialogue: 0,0:18:26.67,0:18:27.97,Default,,0,0,0,,Umm...
-Dialogue: 0,0:18:28.87,0:18:31.77,Default,,0,0,0,,It's like, the sunset\Nis giving off really pretty colors,
-Dialogue: 0,0:18:31.77,0:18:34.81,Default,,0,0,0,,but at the same time, the mood is gloomy.
-Dialogue: 0,0:18:34.81,0:18:38.81,Default,,0,0,0,,It's a part of the movie\Nwhere the storyline goes a bit dark.
-Dialogue: 0,0:18:38.81,0:18:44.99,Default,,0,0,0,,So I'm mixing the gentle sunset colors\Nwith the grim, dark colors of the city.
-Dialogue: 0,0:18:45.22,0:18:48.06,Default,,0,0,0,,To give a sense of,\N"Oh! Something bad might happen..."
-Dialogue: 0,0:18:48.06,0:18:54.73,Default,,0,0,0,,I'm hoping to support\Nthis mood a little more with colors.
-Dialogue: 0,0:18:58.43,0:19:01.54,Default,,0,0,0,,This is one of the secrets of good animation.
-Dialogue: 0,0:19:02.64,0:19:10.55,Default,,0,0,0,,With animation, the mood of a scene or foreshadowing\Nin a story can be clearly expressed with proper color choice.
-Dialogue: 0,0:19:14.52,0:19:18.95,Default R,,0,0,0,,Shades of blue showcase\NAkko's sad and lonely feelings.
-Dialogue: 0,0:19:22.12,0:19:26.06,Default R,,0,0,0,,Lotte's warm feelings are\N conveyed with orange.
-Dialogue: 0,0:19:30.53,0:19:34.57,Default R,,0,0,0,,Energetic city streets at night\Nare glowing with green.
-Dialogue: 0,0:19:34.57,0:19:39.37,Default R,,0,0,0,,Even the same location can have a sudden\Nchange of mood with a change of color.
-Dialogue: 0,0:19:45.21,0:19:51.99,Default R,,0,0,0,,Little Witch Academia chooses the symbolic\Nconventions of animation over realism.
+Dialogue: 0,0:17:19.40,0:17:22.84,Default T,,0,0,0,,Большая часть анимации сегодня создаётся в цифровом виде, Most animation today is done digitally,
+Dialogue: 0,0:17:22.84,0:17:28.14,Default T,,0,0,0,,но он сочетает цифровые и аналоговые (классические) техники. but he uses a hybrid style of\Nboth analog and digital techniques.
+Dialogue: 0,0:17:30.15,0:17:33.22,Default,,0,0,0,,Задача на сегодня - покрасить (не нравится, "раскрасить" как-то не идет тоже, дважды "рас" подряд) раскадровки. Today's task is storyboard coloring.
+Dialogue: 0,0:17:33.45,0:17:37.82,Default,,0,0,0,,Он наносит цвета прямо на раскадровки Yoshinari. He's painting color directly\Nonto Yoshinari's storyboard.
+Dialogue: 0,0:17:51.87,0:17:55.84,Default,,0,0,0,,В настоящее время он работает над первой половиной истории. Currently, he's working on the first half of the story.
+Dialogue: 0,0:17:55.84,0:17:58.91,Default,,0,0,0,,Это сцена в которой Акко и остальные идут за покупками. This is the scene\Nwhere Akko and the others are shopping.
+Dialogue: 0,0:18:01.11,0:18:04.88,Default,,0,0,0,,Это поворотный момент, когда их дружба попадает под удар. (Хуй знает кто дружбу пиздит их конечно, но не могу ничего другого подобрать) It's a turning point\Nwhere friendships begin to strain.
+Dialogue: 0,0:18:09.72,0:18:14.52,Default,,0,0,0,,Как ты выбираешь цвета, которыми будешь работать? Why did you choose\Nthe colors you're using right now?
+Dialogue: 0,0:18:14.52,0:18:22.60,Default,,0,0,0,,Ну, сейчас вечер... а двое друзей поссорились (ссорятся, хз какое тут время). Well, it's evening right now...\Nand two friends are fighting.
+Dialogue: 0,0:18:22.60,0:18:26.34,Default,,0,0,0,,Поэтому мне хотелось бы, чтобы все выглядело немного одиноко (тоскливо). So I want it to look a bit lonely.
+Dialogue: 0,0:18:26.67,0:18:27.97,Default,,0,0,0,,Хммм... Umm...
+Dialogue: 0,0:18:28.87,0:18:31.77,Default,,0,0,0,,Закат создаёт по-настоящему красивые цвета, It's like, the sunset\Nis giving off really pretty colors,
+Dialogue: 0,0:18:31.77,0:18:34.81,Default,,0,0,0,,но в то же время всё становится немного мрачным. but at the same time, the mood is gloomy.
+Dialogue: 0,0:18:34.81,0:18:38.81,Default,,0,0,0,,Это та часть фильма в который сюжет довольно таки печальный. It's a part of the movie\Nwhere the storyline goes a bit dark.
+Dialogue: 0,0:18:38.81,0:18:44.99,Default,,0,0,0,,Таким образом я смешиваю нежные цвета заката с тяжёлыми, тёмными цветами города.  So I'm mixing the gentle sunset colors\Nwith the grim, dark colors of the city.
+Dialogue: 0,0:18:45.22,0:18:48.06,Default,,0,0,0,,Это создаёт ощущение: "Ох! Сейчас случится что-то плохое..."To give a sense of,\N"Oh! Something bad might happen..."
+Dialogue: 0,0:18:48.06,0:18:54.73,Default,,0,0,0,,Я надеюсь поддержать общую атмосферу с помощью цвета. I'm hoping to support\Nthis mood a little more with colors.
+Dialogue: 0,0:18:58.43,0:19:01.54,Default,,0,0,0,,Это один из секретов хорошей анимации. This is one of the secrets of good animation.
+Dialogue: 0,0:19:02.64,0:19:10.55,Default,,0,0,0,,В анимации настроение сцены или предстоящее событие может быть ясно выражено правильным выбором цветов. With animation, the mood of a scene or foreshadowing\Nin a story can be clearly expressed with proper color choice.
+Dialogue: 0,0:19:14.52,0:19:18.95,Default R,,0,0,0,,Оттенки синего говорят о грусти и одиночестве Акко. Shades of blue showcase\NAkko's sad and lonely feelings.
+Dialogue: 0,0:19:22.12,0:19:26.06,Default R,,0,0,0,,Тёплые чувства Лотте передаются оранжевым. Lotte's warm feelings are\N conveyed with orange.
+Dialogue: 0,0:19:30.53,0:19:34.57,Default R,,0,0,0,,Оживлённые (может быть имеется в виду какая-то магическая энергия, чекнуть оригинал) городские улицы светятся зеленым в ночи. Energetic city streets at night\Nare glowing with green.
+Dialogue: 0,0:19:34.57,0:19:39.37,Default R,,0,0,0,,Даже в одном и том же месте можно резко изменить атмосферу поменяв (изменив) цвет. Even the same location can have a sudden\Nchange of mood with a change of color.
+Dialogue: 0,0:19:45.21,0:19:51.99,Default R,,0,0,0,,Академия Ведьмочек предпочитает символические условности анимации (или просто символизм) реализму. Little Witch Academia chooses the symbolic\Nconventions of animation over realism.
 Dialogue: 0,0:19:52.42,0:19:56.79,Default,,0,0,0,,At the end of the day, anime's beauty is stylistic.
-Dialogue: 0,0:19:56.79,0:20:03.13,Default,,0,0,0,,Colors are used symbolically\Nto bring forth the desired mood of a scene.
-Dialogue: 0,0:20:03.13,0:20:06.74,Default,,0,0,0,,I think this anime is very anime-ish, in a good way.
+Dialogue: 0,0:19:56.79,0:20:03.13,Default,,0,0,0,,Цвета используются для придания нужного настроения сцене. Colors are used symbolically\Nto bring forth the desired mood of a scene.
+Dialogue: 0,0:20:03.13,0:20:06.74,Default,,0,0,0,,I think this anime is very anime-ish, in a good way. http://translate.academic.ru/ish/en/ru/
 Dialogue: 0,0:20:06.74,0:20:09.84,Default,,0,0,0,,That's how it was conceptualized.
 Dialogue: 0,0:20:10.34,0:20:15.74,Default,,0,0,0,,So I'd like the art design to reflect that.
 Dialogue: 0,0:20:16.95,0:20:18.58,Default,,0,0,0,,(I see...)
