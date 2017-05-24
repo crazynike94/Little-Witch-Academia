@@ -487,59 +487,58 @@ Dialogue: 0,0:40:40.90,0:40:41.50,Default,,0,0,0,,Есть.
 Dialogue: 0,0:40:41.50,0:40:43.17,Default,,0,0,0,,-30.\N-Есть.
 Dialogue: 0,0:40:43.17,0:40:46.07,Default,,0,0,0,,Cut 48A...
 Dialogue: 0,0:40:49.68,0:40:51.01,Default,,0,0,0,,Hey...
-Dialogue: 0,0:40:51.01,0:40:52.28,Default,,0,0,0,,Almost there.
-Dialogue: 0,0:40:53.01,0:40:56.28,Default,,0,0,0,,- I'll take it from here.\N-Thanks.
-Dialogue: 0,0:40:58.72,0:41:00.25,Default,,0,0,0,,Good work, guys.
-Dialogue: 0,0:41:00.25,0:41:02.72,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:41:06.73,0:41:08.30,Default,,0,0,0,,Huh, what?
-Dialogue: 0,0:41:09.73,0:41:12.63,Default,,0,0,0,,- Good work. -Yeah, thanks.\N-No, really!
-Dialogue: 0,0:41:12.63,0:41:15.27,Default,,0,0,0,,- Good work!\N-Thanks!
-Dialogue: 0,0:41:18.27,0:41:21.11,Default,,0,0,0,,Thank you. Good work.
-Dialogue: 0,0:41:23.01,0:41:25.51,Default,,0,0,0,,Did you have fun?
-Dialogue: 0,0:41:26.38,0:41:29.52,Default,,0,0,0,,Nope... I feel pretty dead right now.
-Dialogue: 0,0:41:32.22,0:41:34.36,Default,,0,0,0,,Piece of cake?\NDo you feel invincible?
-Dialogue: 0,0:41:34.36,0:41:37.79,Default,,0,0,0,,Not even slightly invincible.
-Dialogue: 0,0:41:39.66,0:41:43.46,Default,,0,0,0,,Well... I'm just glad it's over.
-Dialogue: 0,0:41:51.81,0:41:56.64,Default,,0,0,0,,And now, Dendo is the last to leave.
-Dialogue: 0,0:41:56.64,0:41:59.58,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:42:10.89,0:42:13.99,Default,,0,0,0,,May 30th, noon.
-Dialogue: 0,0:42:13.99,0:42:16.86,Default,,0,0,0,,All drawing work complete.
-Dialogue: 0,0:42:21.64,0:42:27.17,Default,,0,0,0,,Little Witch Academia is a tale\Nof dreams, conflict, and growing up.
-Dialogue: 0,0:42:27.17,0:42:28.91,Default,,0,0,0,,Chariot's magic...
-Dialogue: 0,0:42:32.21,0:42:38.35,Default,,0,0,0,,As you watch Akko struggle to plan her parade,\Nremember how the animators struggled to finish this anime on time.
-Dialogue: 0,0:42:44.43,0:42:49.13,Default,,0,0,0,,Their eyes shine as they chase after their dreams.
-Dialogue: 0,0:42:53.07,0:42:57.07,Default,,0,0,0,,I wanna do that! I wanna draw just like him!
-Dialogue: 0,0:42:58.97,0:43:01.94,Default,,0,0,0,,And sometimes... they hit road blocks.
-Dialogue: 0,0:43:06.65,0:43:10.05,Default,,0,0,0,,For someone who was so certain\Nabout organizing a lively parade,
-Dialogue: 0,0:43:10.05,0:43:12.42,Default,,0,0,0,,you don't seem to be having any fun...
-Dialogue: 0,0:43:13.25,0:43:17.66,Default,,0,0,0,,Anyone can see that no one would want\Nto follow your selfish plans!
+Dialogue: 0,0:40:51.01,0:40:52.28,Default,,0,0,0,,Спасибо за вашу работу!.
+Dialogue: 0,0:40:53.01,0:40:56.28,Default,,0,0,0,,- Забираю.\N-Спасибо.
+Dialogue: 0,0:40:58.72,0:41:00.25,Default,,0,0,0,,Отличная работа.
+Dialogue: 0,0:41:00.25,0:41:02.72,Default,,0,0,0,,Спасибо.
+Dialogue: 0,0:41:06.73,0:41:08.30,Default,,0,0,0,,А, что?
+Dialogue: 0,0:41:09.73,0:41:12.63,Default,,0,0,0,,- Хорошо поработали. -Да, спасибо.\N-Серьезно!
+Dialogue: 0,0:41:12.63,0:41:15.27,Default,,0,0,0,,- Отлично сработано!\N-Спасибо!
+Dialogue: 0,0:41:18.27,0:41:21.11,Default,,0,0,0,,Спасибо. Хорошая работа.
+Dialogue: 0,0:41:23.01,0:41:25.51,Default,,0,0,0,,Было весело?
+Dialogue: 0,0:41:26.38,0:41:29.52,Default,,0,0,0,,Не очень... Я просто умираю от усталости.
+Dialogue: 0,0:41:32.22,0:41:34.36,Default,,0,0,0,,Было легко?\NКажется, что можешь все?
+Dialogue: 0,0:41:34.36,0:41:37.79,Default,,0,0,0,,Ни капли.
+Dialogue: 0,0:41:39.66,0:41:43.46,Default,,0,0,0,,Ну... Я рад, что все наконец закончилось.
+Dialogue: 0,0:41:51.81,0:41:56.64,Default,,0,0,0,,И сейчас, Dendo единственный, кто остался.
+Dialogue: 0,0:41:56.64,0:41:59.58,Default,,0,0,0,,Спасибо.
+Dialogue: 0,0:42:10.89,0:42:13.99,Default,,0,0,0,,Полдень, 30 мая.
+Dialogue: 0,0:42:13.99,0:42:16.86,Default,,0,0,0,,Работа с рисунками окончена.
+Dialogue: 0,0:42:21.64,0:42:27.17,Default,,0,0,0,,Little Witch Academia это история\Nо мечтах, конфликтах, и о взрослении.
+Dialogue: 0,0:42:27.17,0:42:28.91,Default,,0,0,0,,Магия Шариот...
+Dialogue: 0,0:42:32.21,0:42:38.35,Default,,0,0,0,,Когда вы будете смотреть как Akko мучается с планированием парада,\Nпомните о том, какие трудности преодолевали аниматоры, чтобы вовремя закончить это аниме.
+Dialogue: 0,0:42:44.43,0:42:49.13,Default,,0,0,0,,Их глаза горят в погоне за мечтами.
+Dialogue: 0,0:42:53.07,0:42:57.07,Default,,0,0,0,,Я тоже так хочу! Хочу рисовать как он!
+Dialogue: 0,0:42:58.97,0:43:01.94,Default,,0,0,0,,Но иногда... на их пути возникали(встречались) препятствия.
+Dialogue: 0,0:43:06.65,0:43:10.05,Default,,0,0,0,,По тебе не скажешь, что ты организуешь веселый парад.
+Dialogue: 0,0:43:13.25,0:43:17.66,Default,,0,0,0,,Все понимают, что никто не собирается\Nследовать твоим эгоистичным планам!
 Dialogue: 0,0:43:20.29,0:43:23.00,Default Subtitle,,0,0,0,,(Narration: Kentaro Tone)
-Dialogue: 0,0:43:20.29,0:43:23.00,Default,,0,0,0,,There's pressure and loneliness in creating something...
+Dialogue: 0,0:43:20.29,0:43:23.00,Default,,0,0,0,,В процессе создания чего-то нового всегда есть место давлению обстоятельств и одиночеству...
 Dialogue: 0,0:43:23.56,0:43:26.13,Default Subtitle,,0,0,0,,(Sound Effects: Hidenori Saito)
 Dialogue: 0,0:43:26.47,0:43:29.87,Default Subtitle,,0,0,0,,(Technical Cooperation: Kyoritsu Eizo)
-Dialogue: 0,0:43:26.47,0:43:29.87,Default,,0,0,0,,Even so... they keep moving forward.
+Dialogue: 0,0:43:26.47,0:43:29.87,Default,,0,0,0,,Даже в этом случае... они продолжали двигаться вперед. (не стояли на месте, но и так норм)
 Dialogue: 0,0:43:30.14,0:43:30.77,Default Subtitle,,0,0,0,,(Executive Producers: Naoko Tsutsumi -TRIGGER-\NDaisuke Okeda -Good Smile Company-)
 Dialogue: 0,0:43:30.77,0:43:31.91,Default Subtitle,,0,0,0,,(Executive Producers: Naoko Tsutsumi -TRIGGER-\NDaisuke Okeda -Good Smile Company-)
-Dialogue: 0,0:43:30.77,0:43:31.91,Default,,0,0,0,,Chariot has always been my idol...
+Dialogue: 0,0:43:30.77,0:43:31.91,Default,,0,0,0,,Я всегда восхищалась Шариот...
 Dialogue: 0,0:43:31.91,0:43:33.87,Default Subtitle,,0,0,0,,(Executive Producers: Naoko Tsutsumi -TRIGGER-\NDaisuke Okeda -Good Smile Company-)
-Dialogue: 0,0:43:31.91,0:43:33.87,Default,,0,0,0,,She's the reason...
+Dialogue: 0,0:43:31.91,0:43:33.87,Default,,0,0,0,,Именно она была причиной...
 Dialogue: 0,0:43:33.87,0:43:36.78,Default Subtitle,,0,0,0,,(Produced by: Hisanori Iwata -Kyoritsu Eizo-)
-Dialogue: 0,0:43:33.87,0:43:36.78,Default,,0,0,0,,I decided to become a witch!
+Dialogue: 0,0:43:33.87,0:43:36.78,Default,,0,0,0,,Я решила стать ведьмочкой!
 Dialogue: 0,0:43:37.31,0:43:40.41,Default Subtitle,,0,0,0,,(Directed by: Machiko Kawakatsu -Wasabi-)
-Dialogue: 0,0:43:37.31,0:43:40.41,Default,,0,0,0,,I'm gonna prove Chariot was right all along!
-Dialogue: 0,0:43:42.15,0:43:46.89,Default,,0,0,0,,Half a year ago,\NYoshinari voiced this doubt about his script:
-Dialogue: 0,0:43:48.99,0:43:54.70,Default,,0,0,0,,When Akko bounces back\N- what exactly is the basis of her recovery?
-Dialogue: 0,0:43:54.70,0:43:59.67,Default,,0,0,0,,I get the feeling that it's not\N"the power of friendship" coming to the rescue.
-Dialogue: 0,0:44:01.00,0:44:04.61,Default,,0,0,0,,But here's what he said after that...
-Dialogue: 0,0:44:05.57,0:44:09.04,Default,,0,0,0,,(To Akko) The parade\Nis more important than friendship...
-Dialogue: 0,0:44:09.51,0:44:15.72,Default,,0,0,0,,But in the end, she learns the lesson,\N"friendship was more important."
-Dialogue: 0,0:44:16.12,0:44:17.15,Default,,0,0,0,,(To Akko?)
-Dialogue: 0,0:44:17.15,0:44:18.15,Default,,0,0,0,,Yes.
-Dialogue: 0,0:44:20.02,0:44:26.23,Default,,0,0,0,,It's like a metaphor to animators:\NWhich is more important, the anime or your friends?
-Dialogue: 0,0:44:27.33,0:44:33.73,Default,,0,0,0,,To me... my work comes first.
-Dialogue: 0,0:44:34.03,0:44:39.61,Default,,0,0,0,,I never minded if people hated me for it.
-Dialogue: 0,0:44:41.34,0:44:46.91,Default,,0,0,0,,Because the anime will still be around\Nlong after I'm dead. But my friends won't.
-Dialogue: 0,0:44:46.91,0:44:54.15,Default,,0,0,0,,I always thought,\N"they'll only hate me temporarily."
-Dialogue: 0,0:44:55.52,0:44:58.66,Default,,0,0,0,,But truthfully...
-Dialogue: 0,0:44:58.66,0:45:02.96,Default,,0,0,0,,That's not a really good way to live your life.
-Dialogue: 0,0:45:07.80,0:45:12.21,Default,,0,0,0,,The answer can be found in the story...
+Dialogue: 0,0:43:37.31,0:43:40.41,Default,,0,0,0,,Я докажу, что Chariot все это время была права!
+Dialogue: 0,0:43:42.15,0:43:46.89,Default,,0,0,0,,Полгода назад,\NYoshinari выражал сомнения насчет сценария:
+Dialogue: 0,0:43:48.99,0:43:54.70,Default,,0,0,0,,Когда Акко bounces back\N- что именно заставляет ее вернуться?
+Dialogue: 0,0:43:54.70,0:43:59.67,Default,,0,0,0,,Мне кажется, что отнюдь не\N"сила дружбы" приходит на выручку.
+Dialogue: 0,0:44:01.00,0:44:04.61,Default,,0,0,0,,Но вот что он думает сейчас...
+Dialogue: 0,0:44:05.57,0:44:09.04,Default,,0,0,0,,(Для Акко) Парад\Nважнее дружбы...
+Dialogue: 0,0:44:09.51,0:44:15.72,Default,,0,0,0,,BНо в конце концов она усваивает урок,\N"дружба была важнее."
+Dialogue: 0,0:44:16.12,0:44:17.15,Default,,0,0,0,,(Акко?)
+Dialogue: 0,0:44:17.15,0:44:18.15,Default,,0,0,0,,Да.
+Dialogue: 0,0:44:20.02,0:44:26.23,Default,,0,0,0,,Это как метафора для аниматора:\NЧто важнее, аниме или дружеские чувства?
+Dialogue: 0,0:44:27.33,0:44:33.73,Default,,0,0,0,,Для меня... работа важнее всего.
+Dialogue: 0,0:44:34.03,0:44:39.61,Default,,0,0,0,,Я не возражаю, если меня будут ненавидеть за это.
+Dialogue: 0,0:44:41.34,0:44:46.91,Default,,0,0,0,,Аниме останется и после моей смерти\N. А вот мои друзья нет.
+Dialogue: 0,0:44:46.91,0:44:54.15,Default,,0,0,0,,Я всегда думал,\N"они лишь временно ненавидят меня"
+Dialogue: 0,0:44:55.52,0:44:58.66,Default,,0,0,0,,Но на самом деле...
+Dialogue: 0,0:44:58.66,0:45:02.96,Default,,0,0,0,,Это не лучший способ прожить жизнь.
+Dialogue: 0,0:45:07.80,0:45:12.21,Default,,0,0,0,,Ответ на этот вопрос можно найти в фильме...
