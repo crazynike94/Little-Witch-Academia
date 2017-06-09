@@ -10,14 +10,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E:/Videos/The Making of Little Witch Academia The Enchanted Parade.mkv
-Video File: E:/Videos/The Making of Little Witch Academia The Enchanted Parade.mkv
+Audio File: ../../The Making of Little Witch Academia The Enchanted Parade.mkv
+Video File: ../../The Making of Little Witch Academia The Enchanted Parade.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 326
-Active Line: 336
-Video Position: 57337
+Video Zoom Percent: 0.875000
+Scroll Position: 64
+Active Line: 72
+Video Position: 10244
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,78 +30,78 @@ Style: Default T,Kozuka Gothic Pro M,13,&H00FFFFFF,&H000000FF,&H00000000,&H32000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.40,0:00:08.74,Default,,0,0,0,,Сегодня 15 марта 2015 года.
-Dialogue: 0,0:00:09.11,0:00:14.28,Default,,0,0,0,,Самый большой в Японии фестиваль (convention), AnimeJapan, только что открылся!
-Dialogue: 0,0:00:16.45,0:00:20.28,Default,,0,0,0,,Невероятно, но за эти 3 дня выставку посетило 122 тысячи человек.
-Dialogue: 0,0:00:20.38,0:00:22.59,Default,,0,0,0,,Среди других популярных аниме
-Dialogue: 0,0:00:22.79,0:00:26.32,Default,,0,0,0,,одна короткометражка стала гвоздем программы...
-Dialogue: 0,0:00:27.36,0:00:30.73,Default,,0,0,0,,Академия ведьмочек:\NКолдовской парад
-Dialogue: 0,0:00:31.13,0:00:33.50,Default,,0,0,0,,The trailer, take one.
-Dialogue: 0,0:00:36.47,0:00:40.17,Default,,0,0,0,,Прошло 2 года с тех пор, как была показана первая часть на "Anime Mirai",
+Dialogue: 0,0:00:06.40,0:00:08.74,Default,,0,0,0,,15 марта 2015 года.
+Dialogue: 0,0:00:09.02,0:00:10.36,Default,,0,0,0,,Самый большой в Японии фестиваль (convention), AnimeJapan, только что открылся!
+Dialogue: 0,0:00:12.42,0:00:16.70,Default,,0,0,0,,Невероятно, но за эти 3 дня выставку посетило 122 тысячи человек.
+Dialogue: 0,0:00:20.38,0:00:22.59,Default,,0,0,0,,(Среди популярных аниме) Среди других популярных аниме
+Dialogue: 0,0:00:22.79,0:00:26.32,Default,,0,0,0,,(одна из короткометражек оказалась в центре внимания) одна короткометражка стала гвоздем программы...
+Dialogue: 0,0:00:23.80,0:00:28.74,Default,,0,0,0,,Академия ведьмочек:\NКолдовской парад
+Dialogue: 0,0:00:38.92,0:00:42.02,Default,,0,0,0,,(Показ первого трейлера.) The trailer, take one.
+Dialogue: 0,0:00:32.11,0:00:36.68,Default,,0,0,0,,Прошло 2 года с тех пор, как была показана первая часть на "Anime Mirai",
 Dialogue: 0,0:00:40.17,0:00:42.34,Default,,0,0,0,,профинансированная Управлением культуры Японии (агенством по делам культуры?).
-Dialogue: 0,0:00:42.34,0:00:45.24,Default,,0,0,0,,И сейчас, благодаря фанатам, наконец анонсирован сиквел!
+Dialogue: 0,0:00:42.34,0:00:45.24,Default,,0,0,0,,(И фанаты наконец дождались сиквела.) И сейчас, благодаря фанатам, наконец анонсирован сиквел!
 Dialogue: 0,0:00:51.88,0:00:55.49,Default,,0,0,0,,Вы уже знакомы с этим аниме?
 Dialogue: 0,0:00:55.49,0:00:57.75,Default,,0,0,0,,Да. Я видела его на "Anime Mirai".
 Dialogue: 0,0:00:58.29,0:01:00.26,Default,,0,0,0,,Анимация была очень плавной.
-Dialogue: 0,0:01:00.26,0:01:04.23,Default,,0,0,0,,И эмоции персонажей были очень натуральными (реалистичными).
-Dialogue: 0,0:01:04.23,0:01:06.30,Default,,0,0,0,,Я все время сидела на краешке кресла. (переделать надо, звучит хуево очень) I was on the edge of my seat the whole time.
-Dialogue: 0,0:01:06.30,0:01:09.33,Default,,0,0,0,,Но на "Anime Mirai" показ занял всего 30 минут... But the showing at Anime Mirai was only 30 minutes...
-Dialogue: 0,0:01:09.33,0:01:11.94,Default,,0,0,0,,И я надеялась, что они сделают еще фильмы. And I was hoping they'd make a longer one.
+Dialogue: 0,0:01:00.26,0:01:04.23,Default,,0,0,0,,И эмоции персонажей были очень яркие/живые. [натуральными (реалистичными)].
+Dialogue: 0,0:01:04.23,0:01:06.30,Default,,0,0,0,,Весь фильм я просидела на краешке кресла. [Я все время сидела на краешке кресла. (переделать надо, звучит хуево очень)] I was on the edge of my seat the whole time.
+Comment: 0,0:01:06.30,0:01:09.33,Default,,0,0,0,,Но на "Anime Mirai" показ занял всего 30 минут... But the showing at Anime Mirai was only 30 minutes...
+Comment: 0,0:01:09.33,0:01:11.94,Default,,0,0,0,,И я надеялась, что они сделают еще один подлинее. (фильмы. And I was hoping they'd make a longer one.)
 Dialogue: 0,0:01:11.94,0:01:14.47,Default,,0,0,0,,И похоже, что они сделали его в 2015! But it looks like they're doing it again in 2015!
-Dialogue: 0,0:01:14.47,0:01:16.37,Default,,0,0,0,,Не могу дождаться, когда увиже его. I can't wait to see it.
-Dialogue: 0,0:01:17.04,0:01:22.18,Default,,0,0,0,,Когда его выложили на YouTube - я его сразу посмотрел. I saw this when it was released on YouTube.
-Dialogue: 0,0:01:22.18,0:01:23.95,Default,,0,0,0,,Я подумал, что это действительно круто! I thought it was really cool!
-Dialogue: 0,0:01:23.95,0:01:28.48,Default,,0,0,0,,Я подумал, что он станет очень успешным за океаном. I thought it might be\Nvery successful overseas.
-Dialogue: 0,0:01:28.48,0:01:35.02,Default,,0,0,0,,Я оказался прав. Заявка на Kickstarter получала огромное количество взносов. And I was right.\NThe Kickstarter campaign got a ton of contributions.
-Dialogue: 0,0:01:35.02,0:01:37.89,Default,,0,0,0,,Таким образом шаг за шагом появился этот фильм. It just gradually became a movie that way.
-Dialogue: 0,0:01:37.89,0:01:42.53,Default,,0,0,0,,I think it's really neat\Nto watch that sort of thing happen.
-Dialogue: 0,0:01:56.68,0:01:59.02,Default,,0,0,0,,Кто же участвовал в финансировании это фильма? Who contributed to the\Ncrowdfunding of this series?
+Dialogue: 0,0:01:14.47,0:01:16.37,Default,,0,0,0,,Жду с нетерпеньем. (Не могу дождаться, когда увиже его. I can't wait to see it.)
+Comment: 0,0:01:17.04,0:01:22.18,Default,,0,0,0,,Я посмотел его, когда от был опубликован на ютуб... Когда его выложили на YouTube - я его сразу посмотрел. I saw this when it was released on YouTube.
+Comment: 0,0:01:22.18,0:01:23.95,Default,,0,0,0,,и подумал , что это было очень круто. Я подумал, что это действительно круто! I thought it was really cool!
+Comment: 0,0:01:23.95,0:01:28.48,Default,,0,0,0,,Мне показалось, что он станет (очень) успешным и за океаном. (Я подумал, что он станет очень успешным за океаном. I thought it might be\Nvery successful overseas.)
+Comment: 0,0:01:28.48,0:01:35.02,Default,,0,0,0,,Я оказался прав. На кикстартере он собрал огромное количество сретв. (Заявка на Kickstarter получала огромное количество средств (взносов). And I was right.\NThe Kickstarter campaign got a ton of contributions.)
+Comment: 0,0:01:35.02,0:01:37.89,Default,,0,0,0,,Здорово, что в итоге смогли снять полносетраждный фильм. - Таким образом шаг за шагом появился этот фильм. It just gradually became a movie that way.
+Comment: 0,0:01:37.89,0:01:42.53,Default,,0,0,0,,Объединить с предыдущей строкой. Погуглить про выселение японцев в Бразелию. I think it's really neat\Nto watch that sort of thing happen.\N\NСлышилаи ли вы об этом фильме?\N\NНет, (впервые слышу) первый раз, но я сразу захотел его посмотреть. Выглядит потрязающею\N Японская анимация потрясаюзщая! Хорошо, что мы и приехали.
+Dialogue: 0,0:01:56.68,0:01:59.02,Default,,0,0,0,,(Фильм финансировали сколько-то фанатов со всего мира.) Кто же участвовал в финансировании это фильма? Who contributed to the\Ncrowdfunding of this series?
 Dialogue: 0,0:01:59.02,0:02:02.72,Default,,0,0,0,,Фанаты со всего мира - 7938 спонсоров! Fans from all over the world.\N7938 backers!
-Dialogue: 0,0:02:02.89,0:02:05.59,Default,,0,0,0,,Возможно один из Вас смотрит это сейчас!Probably even by some of you\Nwatching this right now!
+Dialogue: 0,0:02:02.89,0:02:05.59,Default,,0,0,0,,Возможно (<-не было в оригинале) один из Вас смотрит это сейчас!Probably even by some of you\Nwatching this right now!
 Dialogue: 0,0:02:05.59,0:02:08.73,Default R,,0,0,0,,Спасибо вам Вам, друзья! Вы сделали это возможным.Thank you, guys! You made it happen.
-Dialogue: 0,0:02:09.53,0:02:13.46,Default R,,0,0,0,,Even within Japan, news of this\Nnovel anime's test-run spread.
+Dialogue: 0,0:02:09.53,0:02:13.46,Default R,,0,0,0,,Это аниме необычно (экспериметнольно) даже по японским меркакм.  Even within Japan, news of this\Nnovel anime's test-run spread.
 Dialogue: 0,0:02:13.80,0:02:18.64,Default,,0,0,0,,И в авангарде этой аниме-революции была студия Trigger. \NAnd at the forefront of this anime revolution\Nwas the animation studio: Trigger.
 Dialogue: 0,0:02:20.44,0:02:23.01,Default,,0,0,0,,А также этот человек... And also, this person...
 Dialogue: 0,0:02:23.17,0:02:25.51,Default R,,0,0,0,,Возможно вы его уже знаете: Yoh Yoshinari. \NPerhaps you know him:\NYoh Yoshinari.
 Dialogue: 0,0:02:26.71,0:02:29.08,Default R,,0,0,0,,Будучи режиссером Академии Ведьмочек As the director of\NLittle Witch Academia,
-Dialogue: 0,0:02:29.08,0:02:32.32,Default R,,0,0,0,,он дал жизнь этому яркому красночному миру и богатой (интересной) истории. He brought a vividly colorful world\Nand a rich story to life.
-Dialogue: 0,0:02:32.32,0:02:35.39,Default,,0,0,0,,А также он создал столь фантастических персонажей. He also created such fantastic characters.
-Dialogue: 0,0:02:35.39,0:02:38.82,Default,,0,0,0,,Он высококвалифицированный эксперт в области аниме. He is a treasured Japanese anime expert.
-Dialogue: 0,0:02:40.96,0:02:44.06,Default,,0,0,0,,Вы думаете выйдет хорошим? (Потом когда до сцены дойдем надо будет оттуда скоипастить) Do you think it's going to turn out good?
+Dialogue: 0,0:02:29.08,0:02:32.32,Default R,,0,0,0,,он дал жизнь этому яркому красночному миру и богатой истории. He brought a vividly colorful world\Nand a rich story to life.
+Dialogue: 0,0:02:32.32,0:02:35.39,Default,,0,0,0,,А также он создал (этих потрясающих персонажей subarashii) столь фантастических персонажей. He also created such fantastic characters.
+Dialogue: 0,0:02:35.39,0:02:38.82,Default,,0,0,0,,В этой области он насиоящий профессиональ. Он высококвалифицированный эксперт в области аниме. He is a treasured Japanese anime expert.
+Comment: 0,0:02:40.96,0:02:44.06,Default,,0,0,0,,Как вы думаете, фильм получится интересным? [Вы думаете выйдет хорошим? (Потом когда до сцены дойдем надо будет оттуда скоипастить) Do you think it's going to turn out good?]
 Dialogue: 0,0:02:44.06,0:02:45.63,Default,,0,0,0,,Нуу... Well...
-Dialogue: 0,0:02:49.63,0:02:53.77,Default,,0,0,0,,Я сделаю все, чтобы оно было хорошим. I'll do what I can to make it good.
+Comment: 0,0:02:49.63,0:02:53.77,Default,,0,0,0,,Постараюсь, чтобы оно было хорошим. (Я сделаю все, чтобы оно было хорошим. I'll do what I can to make it good.)
 Dialogue: 0,0:02:54.34,0:02:57.77,Default,,0,0,0,,Следуя высоким стандартам Yoshinari Under Yoshinari's high idealism,
 Dialogue: 0,0:02:57.77,0:03:00.78,Default,,0,0,0,,молодые и неопытные аниматоры будут повышать свой уровень мастерства. young, inexperienced animators\Nwill become polished.
 Dialogue: 0,0:03:04.38,0:03:09.52,Default,,0,0,0,,Извините... My apologies...
-Dialogue: 0,0:03:10.35,0:03:13.46,Default,,0,0,0,,Это здорово нарисовано. (Это нарисовано отлично.) These drawings are great.
-Dialogue: 0,0:03:15.93,0:03:20.83,Default,,0,0,0,,Над проектом работали 7 месяцев, начиная с написания сценария и до полного завершения работ. It took 7 months, from writing the script\Nto the completion of the project.
+Comment: 0,0:03:10.35,0:03:13.46,Default,,0,0,0,,Здорово (Отлично) нарисовано. These drawings are great.
+Dialogue: 0,0:03:15.93,0:03:20.83,Default,,0,0,0,,Работа над фильмом, начиная со сцненария и до релиза, заняла 7 месяцев. (Проект, начиная с написания сценария и до завершеия работ, заняли 7 месяцев.) Над проектом работали 7 месяцев, начиная с написания сценария и до полного завершения работ. It took 7 months, from writing the script\Nto the completion of the project.
 Dialogue: 0,0:03:20.83,0:03:23.73,Default,,0,0,0,,Все, кто участвовал в проекте, жили, дышали и спали с мыслями о нём! Everyone involved lived,\Nbreathed, and slept the project!
-Dialogue: 0,0:03:28.60,0:03:35.38,Title,,0,0,0,,{\fad(1009,0)}Создание (плохо звучит)\NАкадемия ведьмочек: Колдовской парад Little Witch Academia:\NThe Enchanted Parade
-Dialogue: 0,0:03:36.68,0:03:38.92,Default,,0,0,0,,Ogikubo, Tokyo.
-Dialogue: 0,0:03:38.92,0:03:43.75,Default,,0,0,0,,На этой обыкновенной улице, в 8 километрах от делового района, In these common streets, about 8 km\Naway from the business district,
-Dialogue: 0,0:03:43.75,0:03:46.62,Default,,0,0,0,,была рождена Академия Ведьмочек. Little Witch Academia was born.
-Dialogue: 0,0:03:48.12,0:03:50.63,Default,,0,0,0,,Trigger- компания, занимающаяся производством аниме, Trigger: an anime production company.
+Dialogue: 0,0:03:28.60,0:03:35.38,Title,,0,0,0,,{\fad(1009,0)}Создание (плохо звучит)\NАкадемия ведьмочек: Колдовской парад Little Witch Academia:\NThe Enchanted Parade\N\NЗа кулисами / Как созавалась
+Dialogue: 0,0:03:36.68,0:03:38.92,Default,,0,0,0,,Огикубо, Токио.
+Dialogue: 0,0:03:38.92,0:03:43.75,Default,,0,0,0,,На этой непримечальной улочке (обыкновенной улице), в 8 километрах от делового района, In these common streets, about 8 km\Naway from the business district,
+Dialogue: 0,0:03:43.75,0:03:46.62,Default,,0,0,0,,рождалась [создавалась (была рождена)] Академия Ведьмочек. Little Witch Academia was born.
+Dialogue: 0,0:03:48.12,0:03:50.63,Default,,0,0,0,,Анимационная студия Trigger ( - компания, занимающаяся производством аниме, Trigger: an anime production company.
 Dialogue: 0,0:03:51.09,0:03:53.66,Default,,0,0,0,,в штате которой состоит 70 человек. With 70 people on its staff,
-Dialogue: 0,0:03:53.66,0:03:56.73,Default T,,0,0,0,,Они производят различное аниме отличного качетсва. They are dedicated to produce\Na variety of good quality anime.
-Dialogue: 0,0:03:57.70,0:03:59.77,Default T,,0,0,0,,Почему у них так много поклонников? How do they gather so many fans?
-Dialogue: 0,0:03:59.77,0:04:03.44,Default T,,0,0,0,,Потому что они работают вручную, что уникально для Японии. With high quality\Nhand-drawn animation unique to Japan.
+Dialogue: 0,0:03:53.66,0:03:56.73,Default T,,0,0,0,,славится (известна высоким) качеством своего аниме. They are dedicated to produce\Na variety of good quality anime.
+Dialogue: 0,0:03:57.70,0:03:59.77,Default T,,0,0,0,,Почему у них так много поклонников? How do they gather so many fans?\N\N2011 - основание компании (студии)\N2013 - академия ведьмочек\Nкилл ла килл\Nhttps://myanimelist.net/anime/16774/Inferno_Cop\N2014 - https://myanimelist.net/anime/25159/Inou-Battle_wa_Nichijou-kei_no_Naka_de\N2015 - https://myanimelist.net/anime/23605/Ninja_Slayer_From_Animation
+Dialogue: 0,0:03:59.77,0:04:03.44,Default T,,0,0,0,,Потому что они создают высококачественну нарисованную вручную японскую анимацию. Потому что они работают вручную, что уникально для Японии. With high quality\Nhand-drawn animation unique to Japan.
 Dialogue: 0,0:04:04.31,0:04:08.31,Default,,0,0,0,,Режиссер Yoshinari в частности хорошо известен в Японии, Director Yoshinari in particular,\Nis well-known in Japan
 Dialogue: 0,0:04:08.31,0:04:12.88,Default T,,0,0,0,,как аниматор высочайшего уровня (не понимаю что за анимационная технология). As an animator\Nwith the highest animation technology.
 Dialogue: 0,0:04:17.29,0:04:20.82,Default T,,0,0,0,,До основания Trigger он работал в студии Gainax. Before Trigger was founded,\Nhe worked for Gainax.
-Dialogue: 0,0:04:20.82,0:04:25.43,Default T,,0,0,0,,Он был главным аниматором в нескольких сериях сериала, о которым вы наверное слышали, Evangelion. He was a main animator for\Na little series you might have heard of: "Evangelion."
-Dialogue: 0,0:04:26.83,0:04:33.70,Default,,0,0,0,,В руках Yoshinari даже такие простые вещи, как карандаш и бумага становятся магическими предметами (артефактами). In Yoshinari's deft fingers, even an ordinary\Npencil and paper become magical items.
-Dialogue: 0,0:04:35.91,0:04:39.08,Default,,0,0,0,,Просто взгляните... как детально (сколько деталей)! Just take a look... such detail!
+Dialogue: 0,0:04:20.82,0:04:25.43,Default T,,0,0,0,,Он был главным аниматором сериала Evangelion. He was a main animator for\Na little series you might have heard of: "Evangelion."
+Dialogue: 0,0:04:26.83,0:04:33.70,Default,,0,0,0,,В руках Yoshinari даже такие простые вещи, как карандаш и бумага становятся волшебными [магическими предметами (артефактами)]. In Yoshinari's deft fingers, even an ordinary\Npencil and paper become magical items.
+Dialogue: 0,0:04:35.91,0:04:39.08,Default,,0,0,0,,Просто взгляните... как детально (сколько деталей)[сколько же мелких деталей]! Just take a look... such detail!
 Dialogue: 0,0:04:44.71,0:04:46.92,Default,,0,0,0,,Я рисую так подробно I'm super-detailed here.
 Dialogue: 0,0:04:47.72,0:04:50.39,Default,,0,0,0,,потому что потом кадр будет намного больше. Because this is going to be much bigger later.
-Dialogue: 0,0:04:50.39,0:04:52.46,Default,,0,0,0,,(Он будет увеличен?) (It's going to be enlarged?)
-Dialogue: 0,0:04:52.46,0:04:54.82,Default,,0,0,0,,Да. Он станет постером (плакатом/афишей). Yeah. It's going to be a poster.
-Dialogue: 0,0:04:57.69,0:05:03.87,Default,,0,0,0,,Так что мне нужно держать это в уме... и рисовать все очень подробно (и осторожно). So I have to keep that in mind...\Nand draw everything very carefully.
+Dialogue: 0,0:04:50.39,0:04:52.46,Default,,0,0,0,,Его увеличат?(Он будет увеличен?) (It's going to be enlarged?)
+Dialogue: 0,0:04:52.46,0:04:54.82,Default,,0,0,0,,Да. В результате референдума этот кадр вошел в состав постера. [Он станет постером (плакатом/афишей). Yeah. It's going to be a poster.]
+Comment: 0,0:04:57.69,0:05:03.87,Default,,0,0,0,,Надо помнить об этом и рисовать максимально (как можно детальнее/подробнее) подробно. Так что мне нужно держать это в уме... и рисовать все очень подробно (и осторожно). So I have to keep that in mind...\Nand draw everything very carefully.
 Dialogue: 0,0:05:03.87,0:05:05.87,Default,,0,0,0,,(Сугой...) (Wow...)
 Dialogue: 0,0:05:08.50,0:05:13.01,Default,,0,0,0,,Это человек железной воли (бля, пиздец), который не терпит компромисов в работе. This stoic man makes\Nno compromises in his work.
 Dialogue: 0,0:05:13.18,0:05:17.18,Default,,0,0,0,,Режиссер Yoshinari никогда много не говорил о своей работе. Director Yoshinari never talks much about his work.
 Dialogue: 0,0:05:19.02,0:05:22.75,Default,,0,0,0,,Тогда, возможно, он сможет рассказать гораздо больше Perhaps, then, he manages\Nto encompass countless unspoken words...
-Dialogue: 0,0:05:22.75,0:05:28.22,Default,,0,0,0,,своим рисунком. into just one drawing;\Nmaking his message even stronger.
-Dialogue: 0,0:05:37.23,0:05:40.24,Default,,0,0,0,,Это законченный основной арт. (пиздец хуево) This is the completed main graphic.
+Dialogue: 0,0:05:22.75,0:05:28.22,Default,,0,0,0,,своими рисунками. into just one drawing;\Nmaking his message even stronger.
+Dialogue: 0,0:05:37.23,0:05:40.24,Default,,0,0,0,,Это финальная версия официального арта. (Это законченный основной арт. (пиздец хуево) This is the completed main graphic.)
 Dialogue: 0,0:05:40.50,0:05:45.31,Default L,,0,0,0,,Вы можете видеть насколько богат (бохатеньхо) и суетлив мир, созданный Yoshinari. You can see just how rich\Nand bustling Yoshinari's world is.
 Dialogue: 0,0:05:48.24,0:05:52.25,Default,,0,0,0,,Теперь давайте взглянем на его зарисовки. Now let's take a look at some\Nof the director's sketches.
 Dialogue: 0,0:05:52.48,0:05:56.25,Default,,0,0,0,,Эти зарисовки предназначены для аниматоров. (Эти зарисовки служат образцом для аниматоров.) These are reference sketches\NYoshinari drew for the animators.
