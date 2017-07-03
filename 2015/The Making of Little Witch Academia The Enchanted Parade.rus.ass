@@ -15,9 +15,9 @@ Video File: E:/Videos/The Making of Little Witch Academia The Enchanted Parade.m
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 378
-Active Line: 383
-Video Position: 55655
+Scroll Position: 408
+Active Line: 414
+Video Position: 59055
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -421,26 +421,33 @@ Dialogue: 0,0:30:38.13,0:30:42.91,Default,,0,0,0,,Но сейчас у меня 
 Dialogue: 0,0:30:42.91,0:30:45.25,Default,,0,0,0,,Да...
 Dialogue: 0,0:30:48.48,0:30:52.02,Default,,0,0,0,,Крайний срок уже так близко...
 Dialogue: 0,0:30:52.02,0:30:55.26,Default,,0,0,0,,Ситуация напряжённая...
-Dialogue: 0,0:30:57.59,0:31:02.60,Default Subtitle,,0,0,0,,(Masahiko Otsuka, представительный директор TRIGGER)
-Dialogue: 0,0:30:57.59,0:31:02.60,Default,,0,0,0,,Все зависит от того, как вы на это смотрите.
-Dialogue: 0,0:31:04.23,0:31:08.20,Default,,0,0,0,,Но у меня недостаточно информации, поэтому ничего не поделать.
+Dialogue: 0,0:30:55.75,0:31:03.82,Drawing,,0,0,0,,{\p1\fad(450,0)\c&H89CC51&\alpha&H113%\blur3.5} m 192 522 l 405 522 l 405 510 l 698 510 l 698 522 l 1088 522 l 1088 570 l 698 570 l 698 580 l 405 580 l 405 566 l 192 566
+Dialogue: 1,0:30:55.75,0:31:03.82,Default Subtitle,,0,0,0,,{\fad(450,0)\pos(640,540)}{\fs40}Представительный директор TRIGGER:{\fs} Masahiko Otsuka
+Dialogue: 2,0:30:57.59,0:31:02.60,Default,,0,0,0,,Все зависит от того, как вы на это смотрите.
+Dialogue: 0,0:31:04.42,0:31:14.48,Drawing,,0,0,0,,{\p1} m 178 554 l 1104 554 l 1104 656 l 178 656
+Dialogue: 1,0:31:04.42,0:31:08.20,Default,,0,0,0,,Но у меня недостаточно информации, поэтому ничего не поделать.
 Dialogue: 0,0:31:09.00,0:31:13.34,Default,,0,0,0,,Я думаю это просто особенность аниматоров.
 Dialogue: 0,0:31:14.54,0:31:20.75,Default,,0,0,0,,Трудно всем угодить, особенно Yoshinari и Sushio.
 Dialogue: 0,0:31:21.48,0:31:25.09,Default,,0,0,0,,На самом деле такое случается часто.
 Dialogue: 0,0:31:26.12,0:31:28.72,Default,,0,0,0,,Они перерисовывают линии снова и снова.
 Dialogue: 0,0:31:28.72,0:31:34.36,Default,,0,0,0,,Каждый раз мучаясь: "Хорошо или плохо получилось?"
+Dialogue: 0,0:31:38.33,0:31:48.01,Drawing,,0,0,0,,{\p1} m 270 554 l 1012 554 l 1012 656 l 270 656
 Dialogue: 0,0:31:38.17,0:31:47.31,Default,,0,0,0,,Но в конце концов эти постоянные переделки придают им сил для работы.
-Dialogue: 0,0:31:48.11,0:31:52.18,Default,,0,0,0,,Я имею в виду, что если бы они только страдали - они бы просто ушли.
+Dialogue: 0,0:31:48.37,0:31:53.38,Drawing,,0,0,0,,{\p1} m 224 606 l 1054 606 l 1054 656 l 224 656
+Dialogue: 0,0:31:53.38,0:32:03.09,Drawing,,0,0,0,,{\p1} m 166 556 l 1112 556 l 1112 656 l 166 656
+Dialogue: 1,0:31:48.11,0:31:52.18,Default,,0,0,0,,Я имею в виду, что если бы они только страдали - они бы просто ушли.
 Dialogue: 0,0:31:53.38,0:32:01.39,Default,,0,0,0,,Я думаю, что в итоге каждый из аниматоров закончит свою работу.
-Dialogue: 0,0:32:08.66,0:32:10.46,Default,,0,0,0,,29 мая.
-Dialogue: 0,0:32:10.46,0:32:13.90,Default,,0,0,0,,Сегодня последняя ночь за работой.
+Dialogue: 0,0:32:08.66,0:32:10.46,Default,,0,0,0,,{\pos(490,710)}29 мая.
+Dialogue: 0,0:32:10.46,0:32:13.90,Default,,0,0,0,,{\pos(490,710)}Сегодня последняя ночь за работой.
 Dialogue: 0,0:32:18.21,0:32:21.18,Default,,0,0,0,,Подошёл срок сдачи проекта!
 Dialogue: 0,0:32:21.18,0:32:24.18,Default,,0,0,0,,Продюсерская команда работает не покладая рук.
 Dialogue: 0,0:32:24.58,0:32:30.65,Default,,0,0,0,,Они связываются с аниматорами из других компаний чтобы проверить незаконченные кадры.
 Dialogue: 0,0:32:32.82,0:32:34.09,Default,,0,0,0,,Да...
 Dialogue: 0,0:32:34.09,0:32:39.79,Default,,0,0,0,,Когда получите это сообщение, сразу перезвоните пожалуйста.
 Dialogue: 0,0:32:40.63,0:32:44.37,Default,,0,0,0,,Не только штатные аниматоры, но и ветераны индустрии привлечены к работе.
-Dialogue: 0,0:32:44.63,0:32:49.50,Default,,0,0,0,,Присоединились даже Hiroyuki Imaishi, режиссер "Kill La Kill" и Sushio. дублировать имя/должность
+Dialogue: 2,0:32:44.63,0:32:49.50,Default T,,0,0,0,,Присоединились даже Hiroyuki Imaishi, режиссер "Kill La Kill" и Sushio.
+Dialogue: 0,0:32:44.46,0:32:49.94,Drawing,,0,0,0,,{\p1\c&HFFFFFF&\fad(450,0)} m 190 564 l 486 564 l 486 680 l 190 680
+Dialogue: 1,0:32:44.46,0:32:49.94,Default Subtitle,,0,0,0,,{\c&HFFFFFF&\fad(450,0)\pos(336,626)}{\fs35}Режиссёр "Kill La Kill"{\fs}\N{\fs50}Hiroyuki Imaishi{\fs}
 Dialogue: 0,0:32:50.44,0:32:54.44,Default Subtitle,,0,0,0,,Дизайн персонажей\NСтарший режиссер анимации "Kill La Kill": Sushio
 Dialogue: 0,0:33:01.45,0:33:05.82,Default,,0,0,0,,Tadashi Hiramatsu это\Nнаставник Imiaishi и Yoshinari.
 Dialogue: 0,0:33:06.85,0:33:10.19,Default,,0,0,0,,Они вместе работали в студии GAINAX.
@@ -466,9 +473,8 @@ Dialogue: 0,0:34:52.03,0:34:54.33,Default,,0,0,0,,Они решили собра
 Dialogue: 0,0:34:54.33,0:34:57.87,Default,,0,0,0,,и распределить её между теми, кто сейчас свободен.
 Dialogue: 0,0:35:01.60,0:35:02.64,Default,,0,0,0,,Держи.
 Dialogue: 0,0:35:02.64,0:35:05.24,Default,,0,0,0,,Мы также попросили Sakamoto помочь.
-Dialogue: 0,0:35:05.24,0:35:06.04,Default Subtitle,,0,0,0,,(Аниматор: Kazumasa Ishida)
+Dialogue: 0,0:35:05.24,0:35:07.24,Default Subtitle,,0,0,0,,(Аниматор: Kazumasa Ishida)
 Dialogue: 0,0:35:05.24,0:35:06.04,Default,,0,0,0,,Хорошо.
-Dialogue: 0,0:35:06.04,0:35:07.24,Default Subtitle,,0,0,0,,(Аниматор: Kazumasa Ishida)
 Dialogue: 0,0:35:07.34,0:35:08.21,Default L,,0,0,0,,Вот так...
 Dialogue: 0,0:35:09.24,0:35:11.25,Default L,,0,0,0,,Что именно нужно?
 Dialogue: 0,0:35:11.25,0:35:13.25,Default,,0,0,0,,Руки и ноги...
