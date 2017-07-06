@@ -15,9 +15,9 @@ Video File: E:/Videos/The Making of Little Witch Academia The Enchanted Parade.m
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 438
-Active Line: 441
-Video Position: 63448
+Scroll Position: 59
+Active Line: 64
+Video Position: 6455
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,7 +73,7 @@ Dialogue: 0,0:01:56.68,0:01:59.02,Default,,0,0,0,,Кто же участвова
 Dialogue: 0,0:01:59.02,0:02:02.72,Default,,0,0,0,,Фанаты со всего мира – 7938 спонсоров!
 Dialogue: 0,0:02:02.89,0:02:05.59,Default,,0,0,0,,Один из Вас смотрит его сейчас!
 Dialogue: 0,0:02:05.59,0:02:08.73,Default,,0,0,0,,{\pos(900,710)}Спасибо Вам, друзья!\NВы сделали это возможным.
-Dialogue: 0,0:02:09.53,0:02:13.46,Default R,,0,0,0,,Это аниме экспериментально даже по японским меркам.
+Dialogue: 0,0:02:09.53,0:02:13.46,Default,,0,0,0,,Это аниме экспериментально даже по японским меркам.
 Dialogue: 0,0:02:13.80,0:02:18.64,Default,,0,0,0,,И в авангарде этой аниме-революции была студия Trigger.
 Dialogue: 2,0:02:20.44,0:02:23.01,Default,,0,0,0,,А также этот человек...
 Dialogue: 1,0:02:22.00,0:02:30.58,Drawing,,0,0,0,,{\p1\an6\c&HA9A738&\alpha&H113%\blur3.5\move(0,576,425,576,0,140)} m 0 0 l 270 0 l 270 85 l 0 85
@@ -96,8 +96,8 @@ Dialogue: 2,0:03:26.47,0:03:35.35,Title2,,0,0,0,,{\pos(640,268)\K47}{26.94}Ка�
 Dialogue: 1,0:03:27.10,0:03:27.20,Drawing,,0,0,0,,{\p1\c&HFFFFFF&\alpha&H0} m 180 252 l 1100 252 l 1100 580 l 180 580\Nm 180 249 l 1100 249 l 1100 140 l 180 140\Nm 766 252 l 766 249 l 1100 249 l 1100 252
 Dialogue: 1,0:03:27.20,0:03:27.31,Drawing,,0,0,0,,{\p1\c&HFFFFFF&\alpha&H0} m 180 252 l 1100 252 l 1100 580 l 180 580\Nm 180 249 l 1100 249 l 1100 140 l 180 140\Nm 885 252 l 885 249 l 1100 249 l 1100 252
 Dialogue: 1,0:03:27.31,0:03:35.35,Drawing,,0,0,0,,{\p1\c&HFFFFFF&\alpha&H0} m 180 252 l 1100 252 l 1100 580 l 180 580\Nm 180 249 l 1100 249 l 1100 140 l 180 140
-Dialogue: 2,0:03:28.67,0:03:35.35,Title1,,0,0,0,,{\fad(800,0)\fsp2\pos(640,415)}Академия Ведьмочек
-Dialogue: 2,0:03:28.67,0:03:35.35,Title1,,0,0,0,,{\fs100\fsp10\fad(800,0)\pos(640,520)}Колдовской Парад
+Dialogue: 3,0:03:28.67,0:03:35.35,Title1,,0,0,0,,{\fad(800,0)\fsp2\pos(640,415)}Академия Ведьмочек
+Dialogue: 3,0:03:28.67,0:03:35.35,Title1,,0,0,0,,{\fs100\fsp10\fad(800,0)\pos(640,520)}Колдовской Парад
 Dialogue: 2,0:03:28.67,0:03:35.35,Title1 - Background,,0,0,0,,{\fad(800,0)\be9\fsp2\pos(640,415)}{\3c&H3869ff&}А{\3c}{\3c&H3869ff&}к{\3c}{\3c&H2f6dff&}а{\3c}{\3c&H2fa6ff&}д{\3c}{\3c&H2ac9ff&}е{\3c}{\3c&H6dffff&}м{\3c}{\3c&H3affff&}и{\3c}{\3c&H27ffd4&}я{\3c} {\3c&H37ff85&}В{\3c}{\3c&H80ff4c&}е{\3c}{\3c&Hdfff40&}д{\3c}{\3c&Hf1f545&}ь{\3c}{\3c&Hf8d669&}м{\3c}{\3c&Hdf8c35&}о{\3c}{\3c&Hdc412d&}ч{\3c}{\3c&Hef2f3e&}е{\3c}{\3c&Hd02e64&}к{\3c}
 Dialogue: 2,0:03:28.67,0:03:35.35,Title1 - Background,,0,0,0,,{\fs100\fsp10\fad(800,0)\pos(640,520)}{\3c&H3869ff&}К{\3c}{\3c&H2f6dff&}о{\3c}{\3c&H2fa6ff&}л{\3c}{\3c&HH2ac9ff&}д{\3c}{\3c&H6dffff&}о{\3c}{\3c&H3affff&}в{\3c}{\3c&HH27ffd4&}с{\3c}{\3c&H4fffd2&}к{\3c}{\3c&H37ff85&}о{\3c}{\3c&H80ff4c&}й{\3c} {\3c&Hdfff40&}П{\3c}{\3c&Hf1f545&}а{\3c}{\3c&Hf8d669&}р{\3c}{\3c&Hdf8c35&}а{\3c}{\3c&Hdc412d&}д{\3c}
 Dialogue: 0,0:03:36.68,0:03:38.92,Default,,0,0,0,,Огикубо, Токио.
